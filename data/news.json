@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-22T00:01:14+00:00",
+  "briefings": [
+    {
+      "id": "economy-2026-10-22_00-01-14",
+      "category": "economy",
+      "category_label": "동서·동서식품 주식 뉴스",
+      "date": "2026-10-22",
+      "time": "09:01",
+      "published_at": "2026-10-22T00:01:14+00:00",
+      "items": [
+        {
+          "text": "동서 공시: 10월 8일 김상헌 고문의 30만 주(약 81억원) 장내매수가 공시됐으며, 보유지분은 16.85%로 늘었습니다.",
+          "links": [
+            {
+              "label": "공시 요약",
+              "url": "https://goinsider.kr/stock/00144395"
+            }
+          ]
+        },
+        {
+          "text": "동서 실적: 10월 21일 보도에 따르면 올해 상반기 연결 매출은 2,710억원으로 전년 대비 2.0% 증가했으나, 원부자재 부담으로 영업이익은 202억원으로 14.0% 감소했습니다.",
+          "links": [
+            {
+              "label": "한국금융신문",
+              "url": "https://m.fntimes.com/html/view.php?ud=20261020134451882923defd0cc_18"
+            }
+          ]
+        },
+        {
+          "text": "동서식품: 동서가 지분 50%를 보유한 비상장사로, 올해 상반기 동서에 반영된 지분법이익 589억원과 수령 배당금 580억원이 동서의 이익·주주환원을 뒷받침했습니다.",
+          "links": [
+            {
+              "label": "한국금융신문",
+              "url": "https://m.fntimes.com/html/view.php?ud=20261020134451882923defd0cc_18"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**동서 공시:** 10월 8일 김상헌 고문의 30만 주(약 81억원) 장내매수가 공시됐으며, 보유지분은 16.85%로 늘었습니다. [공시 요약](https://goinsider.kr/stock/00144395)\n동서 실적: 10월 21일 보도에 따르면 올해 상반기 연결 매출은 2,710억원으로 전년 대비 2.0% 증가했으나, 원부자재 부담으로 영업이익은 202억원으로 14.0% 감소했습니다. [한국금융신문](https://m.fntimes.com/html/view.php?ud=20261020134451882923defd0cc_18)\n동서식품: 동서가 지분 50%를 보유한 비상장사로, 올해 상반기 동서에 반영된 지분법이익 589억원과 수령 배당금 580억원이 동서의 이익·주주환원을 뒷받침했습니다. [한국금융신문](https://m.fntimes.com/html/view.php?ud=20261020134451882923defd0cc_18)"
+    },
+    {
+      "id": "manufacturing-ai-2026-10-21_22-01-11",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-22",
+      "time": "07:01",
+      "published_at": "2026-10-21T22:01:11+00:00",
+      "items": [
+        {
+          "text": "현대차·기아가 10월 19~21일 '이포레스트 테크데이 2026'에서 디지털 트윈 등 제조 신기술 200여 건과 제조 특화 AI 에이전트 '폴라리스'를 공개하고, 2032년까지 공장 자율 운영 체계를 갖추겠다고 밝혔다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://megaeconomy.co.kr/news/newsview.php?ncode=1065603510973725"
+            }
+          ]
+        },
+        {
+          "text": "지멘스는 AI로 공장 자동화율을 70~80%까지 높이겠다는 목표를 내놓고, 엔비디아와 함께 공장 운영을 가상에서 미리 시뮬레이션하는 디지털 트윈 기반 '피지컬 AI'를 개발 중이다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://mezha.net/eng/news/mezha-a949216f5b0dd5ef13397bde_siemens_aims_to"
+            }
+          ]
+        },
+        {
+          "text": "국내 AI 기업 ITSpace가 토요타 협력사에 예지보전 플랫폼을 공급하며 일본 예지보전 시장에 진출했다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 현대차·기아가 10월 19~21일 '이포레스트 테크데이 2026'에서 디지털 트윈 등 제조 신기술 200여 건과 제조 특화 AI 에이전트 '폴라리스'를 공개하고, 2032년까지 공장 자율 운영 체계를 갖추겠다고 밝혔다. ([출처](https://megaeconomy.co.kr/news/newsview.php?ncode=1065603510973725))\n- 지멘스는 AI로 공장 자동화율을 70~80%까지 높이겠다는 목표를 내놓고, 엔비디아와 함께 공장 운영을 가상에서 미리 시뮬레이션하는 디지털 트윈 기반 '피지컬 AI'를 개발 중이다. ([출처](https://mezha.net/eng/news/mezha-a949216f5b0dd5ef13397bde_siemens_aims_to))\n- 국내 AI 기업 ITSpace가 토요타 협력사에 예지보전 플랫폼을 공급하며 일본 예지보전 시장에 진출했다. ([출처](https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market))"
+    },
+    {
+      "id": "economy-2026-10-21_00-01-55",
+      "category": "economy",
+      "category_label": "동서·동서식품 주식 뉴스",
+      "date": "2026-10-21",
+      "time": "09:01",
+      "published_at": "2026-10-21T00:01:55+00:00",
+      "items": [
+        {
+          "text": "사업: 동서식품은 10월 13일 당 부담을 낮춘 ‘미떼 제로슈거’를 출시하며 제품군을 확대했습니다.",
+          "links": [
+            {
+              "label": "뉴스핌",
+              "url": "https://search.newspim.com/news/view/20261013000111"
+            }
+          ]
+        },
+        {
+          "text": "실적: 동서의 2026년 상반기 연결 매출은 전년 대비 2.0% 증가했으나 영업이익은 14.0%, 순이익은 0.5% 감소했으며, 원자재 가격 상승이 수익성을 제약했습니다.",
+          "links": [
+            {
+              "label": "기업실적",
+              "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=026960&cn="
+            }
+          ]
+        },
+        {
+          "text": "배당: 동서는 7월 21일 주당 250원·총 약 247억원의 중간배당을 결정했으며, 배당 이력상 9월 18일 지급이 완료됐습니다.",
+          "links": [
+            {
+              "label": "배당 내역",
+              "url": "https://etfshopping.com/stock/026960/dividend"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**사업:** 동서식품은 10월 13일 당 부담을 낮춘 ‘미떼 제로슈거’를 출시하며 제품군을 확대했습니다. [뉴스핌](https://search.newspim.com/news/view/20261013000111)\n**실적:** 동서의 2026년 상반기 연결 매출은 전년 대비 2.0% 증가했으나 영업이익은 14.0%, 순이익은 0.5% 감소했으며, 원자재 가격 상승이 수익성을 제약했습니다. [기업실적](https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=026960&cn=)\n**배당:** 동서는 7월 21일 주당 250원·총 약 247억원의 중간배당을 결정했으며, 배당 이력상 9월 18일 지급이 완료됐습니다. [배당 내역](https://etfshopping.com/stock/026960/dividend)"
+    },
+    {
+      "id": "manufacturing-ai-2026-10-20_22-01-30",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-21",
+      "time": "07:01",
+      "published_at": "2026-10-20T22:01:30+00:00",
+      "items": [
+        {
+          "text": "LG CNS가 9월 시카고 IMTS 2026에서 스마트팩토리 플랫폼 'Factova'를 선보였습니다. 디지털 트윈 시뮬레이터, 모듈형 MES, 전 세계 10만 대 이상 설비에 적용됐다는 AI 설비 이상 징후 감지 솔루션을 내세워 북미 시장을 공략합니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://techedgeai.com/lg-cns-takes-ai-smart-factories-to-imts-2026/"
+            }
+          ]
+        },
+        {
+          "text": "지멘스는 예지보전 플랫폼 Senseye 기반 '유지보수 코파일럿'을 TIA Portal 같은 현장 엔지니어링 도구에 넣고 있습니다. 기술자의 고장 진단과 정비 계획을 돕는 방식이며, 독일에서는 중견 제조사의 AI 도입을 국가 경쟁력 과제로 밀고 있습니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://ailearningguides.com/siemens-industrial-copilot-germany-factory-ai/"
+            }
+          ]
+        },
+        {
+          "text": "국내 AI팩토리 42곳은 생산성이 30.1% 오르고 불량률이 15.5% 줄었습니다. 그러나 AI 활용도가 대기업 49.2%, 중소기업 4.2%로 크게 벌어져 성과가 산업 전체로 퍼지기는 어렵다는 분석입니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=42981"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- LG CNS가 9월 시카고 IMTS 2026에서 스마트팩토리 플랫폼 'Factova'를 선보였습니다. 디지털 트윈 시뮬레이터, 모듈형 MES, 전 세계 10만 대 이상 설비에 적용됐다는 AI 설비 이상 징후 감지 솔루션을 내세워 북미 시장을 공략합니다. ([출처](https://techedgeai.com/lg-cns-takes-ai-smart-factories-to-imts-2026/))\n- 지멘스는 예지보전 플랫폼 Senseye 기반 '유지보수 코파일럿'을 TIA Portal 같은 현장 엔지니어링 도구에 넣고 있습니다. 기술자의 고장 진단과 정비 계획을 돕는 방식이며, 독일에서는 중견 제조사의 AI 도입을 국가 경쟁력 과제로 밀고 있습니다. ([출처](https://ailearningguides.com/siemens-industrial-copilot-germany-factory-ai/))\n- 국내 AI팩토리 42곳은 생산성이 30.1% 오르고 불량률이 15.5% 줄었습니다. 그러나 AI 활용도가 대기업 49.2%, 중소기업 4.2%로 크게 벌어져 성과가 산업 전체로 퍼지기는 어렵다는 분석입니다. ([출처](https://www.dataeconomy.co.kr/news/articleView.html?idxno=42981))"
+    },
+    {
+      "id": "manufacturing-ai-2026-10-20_06-09-36",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-20",
+      "time": "15:09",
+      "published_at": "2026-10-20T06:09:36+00:00",
+      "items": [
+        {
+          "text": "지멘스는 AI로 공장 자동화율을 지금의 30~40%에서 70~80%까지 끌어올리겠다고 밝혔고, 엔비디아와 함께 디지털 트윈에서 공정을 먼저 검증하는 '피지컬 AI'를 개발하고 있습니다.",
+          "links": [
+            {
+              "label": "Mezha, 10/19",
+              "url": "https://mezha.net/eng/news/mezha-a949216f5b0dd5ef13397bde_siemens_aims_to"
+            }
+          ]
+        },
+        {
+          "text": "현대차·기아는 가상 공장 시운전과 디지털 트윈 등 AI·로봇 기반 스마트팩토리 기술을 공개했고, 자체 외관검사 비전 기술을 국내외 생산라인에 차례로 적용할 계획입니다.",
+          "links": [
+            {
+              "label": "스포츠경향, 10/20",
+              "url": "https://sports.khan.co.kr/article/202610201103013/"
+            }
+          ]
+        },
+        {
+          "text": "국내 AI 기업 아이티스페이스가 전류 분석 기반 예지보전 시스템을 도요타 1차 협력사에 공급했으며, 한국 기업이 일본 예지보전 시장에 진출한 첫 사례로 보도됐습니다.",
+          "links": [
+            {
+              "label": "서울경제, 10/13",
+              "url": "https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 지멘스는 AI로 공장 자동화율을 지금의 30~40%에서 70~80%까지 끌어올리겠다고 밝혔고, 엔비디아와 함께 디지털 트윈에서 공정을 먼저 검증하는 '피지컬 AI'를 개발하고 있습니다. ([Mezha, 10/19](https://mezha.net/eng/news/mezha-a949216f5b0dd5ef13397bde_siemens_aims_to))\n- 현대차·기아는 가상 공장 시운전과 디지털 트윈 등 AI·로봇 기반 스마트팩토리 기술을 공개했고, 자체 외관검사 비전 기술을 국내외 생산라인에 차례로 적용할 계획입니다. ([스포츠경향, 10/20](https://sports.khan.co.kr/article/202610201103013/))\n- 국내 AI 기업 아이티스페이스가 전류 분석 기반 예지보전 시스템을 도요타 1차 협력사에 공급했으며, 한국 기업이 일본 예지보전 시장에 진출한 첫 사례로 보도됐습니다. ([서울경제, 10/13](https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market))"
+    }
+  ]
+}

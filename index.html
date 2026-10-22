@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f4ed">
+  <meta name="description" content="제조 AI와 경제의 흐름을 읽는 한국어 뉴스 브리핑 아카이브.">
+  <title>NEW9S NEWS — 뉴스 브리핑</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">본문으로 건너뛰기</a>
+  <aside class="sidebar" aria-label="뉴스 탐색">
+    <a class="brand" href="./" aria-label="NEW9S NEWS 홈">NEW9S<span>NEWS<span class="brand-dot">.</span></span></a>
+    <p class="brand-note">매일의 흐름을, 차분하게.</p>
+    <nav aria-label="브리핑 보기">
+      <button id="latest" class="nav-button" type="button" aria-current="page"><span>최신 브리핑</span><span aria-hidden="true">↗</span></button>
+      <a class="nav-link" href="#archive"><span>날짜별 아카이브</span><span aria-hidden="true">↓</span></a>
+    </nav>
+    <div class="sidebar-bottom"><span class="edition">THE DAILY MONITOR</span><p>제조 AI부터 경제까지.<br>기록으로 읽는 변화의 방향.</p><span class="timezone">모든 브리핑 시각 · 한국 표준시</span></div>
+  </aside>
+  <main id="main" tabindex="-1">
+    <header class="masthead"><span>NEWS BRIEFING / 뉴스 브리핑</span><button id="refresh" class="refresh" type="button">새로고침 <span aria-hidden="true">↻</span></button></header>
+    <section class="intro" aria-labelledby="page-title">
+      <div><p id="edition-label" class="eyebrow">LATEST EDITION</p><h1 id="page-title">오늘의 흐름</h1><p id="date-caption" class="date-caption">최신 브리핑을 확인하고 있습니다.</p></div>
+      <div class="update"><span class="update-label"><span class="status-dot" aria-hidden="true"></span>데이터 업데이트</span><time id="updated-at">확인 중</time><span>KST · 한국 표준시</span></div>
+    </section>
+    <section id="archive" class="filters" aria-label="뉴스 필터">
+      <div id="categories" class="category-tabs" role="group" aria-label="분야 선택">
+        <button type="button" data-category="all" aria-pressed="true">전체 <span>0</span></button>
+        <button type="button" data-category="manufacturing-ai" aria-pressed="false">제조 AI <span>0</span></button>
+        <button type="button" data-category="economy" aria-pressed="false">경제 <span>0</span></button>
+      </div>
+      <div class="filter-inputs"><label class="search-field"><span class="visually-hidden">뉴스 검색</span><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="뉴스에서 검색" autocomplete="off" maxlength="200"></label><label class="date-field"><span>날짜</span><select id="date" aria-label="브리핑 날짜" disabled><option value="">불러오는 중</option></select></label></div>
+    </section>
+    <div class="result-bar"><p id="result-count" role="status" aria-live="polite">브리핑을 불러오는 중입니다.</p><button id="reset" type="button" hidden>필터 초기화</button></div>
+    <section id="state" class="state" aria-live="polite" aria-atomic="true"><p class="eyebrow">LOADING</p><h2>브리핑을 불러오고 있습니다.</h2><p>잠시만 기다려 주세요.</p></section>
+    <div id="briefings" aria-busy="true"></div>
+    <footer><span>NEW9S NEWS</span><p>뉴스의 맥락은 브리핑에서, 자세한 내용은 원문에서 확인하세요.</p><a href="#main">맨 위로 ↑</a></footer>
+    <noscript><p class="state">뉴스를 보려면 브라우저에서 JavaScript를 활성화해 주세요.</p></noscript>
+  </main>
+</body>
+</html>
