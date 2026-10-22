@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T00:01:14+00:00",
+  "updated_at": "2026-10-22T22:01:25+00:00",
   "briefings": [
+    {
+      "id": "manufacturing-ai-2026-10-22_22-01-25",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-23",
+      "time": "07:01",
+      "published_at": "2026-10-22T22:01:25+00:00",
+      "items": [
+        {
+          "text": "Rockwell Automation이 10월 21일, 자연어 지시만으로 설계부터 운영까지 산업 자동화 작업을 AI가 조율하는 플랫폼 'FactoryTalk Conductor'를 발표했고 2027년 1분기 출시할 예정이다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://unite.ai/rockwell-automation-unveils-ai-native-factorytalk-conductor-platform"
+            }
+          ]
+        },
+        {
+          "text": "Comau가 NVIDIA Isaac Sim 디지털트윈 시뮬레이션과 Jetson AI 칩을 차세대 로봇 컨트롤러에 내장하기로 해 NVIDIA 인증 파트너가 됐으며, 시뮬레이션과 실제 로봇 동작의 차이를 줄이는 것이 목표다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://techtimes.com/articles/329366/20261022/nvidia-certifies-comau-run-isaac-sim-inside-factory-robot-controllers.htm"
+            }
+          ]
+        },
+        {
+          "text": "예지보전 기업 원프레딕트가 10월 21~24일 대구 엑스코에서 열리는 FIX 2026에서 설비 데이터 수집부터 분석, 의사결정까지 이어지는 제조 AI 솔루션을 실제 공장 모형으로 시연한다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.inews24.com/view/1944556"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- Rockwell Automation이 10월 21일, 자연어 지시만으로 설계부터 운영까지 산업 자동화 작업을 AI가 조율하는 플랫폼 'FactoryTalk Conductor'를 발표했고 2027년 1분기 출시할 예정이다. [출처](https://unite.ai/rockwell-automation-unveils-ai-native-factorytalk-conductor-platform)\n- Comau가 NVIDIA Isaac Sim 디지털트윈 시뮬레이션과 Jetson AI 칩을 차세대 로봇 컨트롤러에 내장하기로 해 NVIDIA 인증 파트너가 됐으며, 시뮬레이션과 실제 로봇 동작의 차이를 줄이는 것이 목표다. [출처](https://techtimes.com/articles/329366/20261022/nvidia-certifies-comau-run-isaac-sim-inside-factory-robot-controllers.htm)\n- 예지보전 기업 원프레딕트가 10월 21~24일 대구 엑스코에서 열리는 FIX 2026에서 설비 데이터 수집부터 분석, 의사결정까지 이어지는 제조 AI 솔루션을 실제 공장 모형으로 시연한다. [출처](https://www.inews24.com/view/1944556)"
+    },
     {
       "id": "economy-2026-10-22_00-01-14",
       "category": "economy",
