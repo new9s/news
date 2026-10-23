@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T22:01:25+00:00",
+  "updated_at": "2026-10-23T00:01:33+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-10-23_00-01-33",
+      "category": "economy",
+      "category_label": "경제 뉴스",
+      "date": "2026-10-23",
+      "time": "09:01",
+      "published_at": "2026-10-23T00:01:33+00:00",
+      "items": [
+        {
+          "text": "한은, 기준금리 연 3.00% 만장일치 동결(10월 22일 의결·10:33 보도, 한국시간) — 추가 인상 기조를 유지해 가계·기업의 이자 부담이 당분간 이어질 가능성이 있습니다.",
+          "links": [
+            {
+              "label": "조선비즈·의결문 전문",
+              "url": "https://www.chosun.com/economy/economy_general/2026/10/22/MRTGIOBYGU2DQNBRGEZWMNBWGU/"
+            }
+          ]
+        },
+        {
+          "text": "미국 나스닥 2.60%·반도체지수 6.7% 하락(10월 22일 미국장 종가) — 인공지능 투자비·자금조달 우려가 기술주 매도로 이어졌으며, 국내 반도체주에도 하방 압력으로 작용할 수 있습니다.",
+          "links": [
+            {
+              "label": "로이터",
+              "url": "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/"
+            }
+          ]
+        },
+        {
+          "text": "브렌트유 4.0% 상승, 배럴당 113.17달러 결제(10월 22일 거래일 선물 결제가격) — 사우디 공격에 따른 공급 불안이 반영됐으며, 고유가 지속 시 국내 수입물가·제조원가와 금리 인상 압력이 커질 수 있습니다.",
+          "links": [
+            {
+              "label": "로이터",
+              "url": "https://www.reuters.com/business/energy/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions-2026-10-22/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**한은, 기준금리 연 3.00% 만장일치 동결**(10월 22일 의결·10:33 보도, 한국시간) — 추가 인상 기조를 유지해 가계·기업의 이자 부담이 당분간 이어질 가능성이 있습니다. [조선비즈·의결문 전문](https://www.chosun.com/economy/economy_general/2026/10/22/MRTGIOBYGU2DQNBRGEZWMNBWGU/)\n**미국 나스닥 2.60%·반도체지수 6.7% 하락**(10월 22일 미국장 종가) — 인공지능 투자비·자금조달 우려가 기술주 매도로 이어졌으며, 국내 반도체주에도 하방 압력으로 작용할 수 있습니다. [로이터](https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/)\n**브렌트유 4.0% 상승, 배럴당 113.17달러 결제**(10월 22일 거래일 선물 결제가격) — 사우디 공격에 따른 공급 불안이 반영됐으며, 고유가 지속 시 국내 수입물가·제조원가와 금리 인상 압력이 커질 수 있습니다. [로이터](https://www.reuters.com/business/energy/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions-2026-10-22/)"
+    },
     {
       "id": "manufacturing-ai-2026-10-22_22-01-25",
       "category": "manufacturing-ai",
