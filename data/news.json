@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T00:01:33+00:00",
+  "updated_at": "2026-10-23T22:01:18+00:00",
   "briefings": [
+    {
+      "id": "manufacturing-ai-2026-10-23_22-01-18",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-24",
+      "time": "07:01",
+      "published_at": "2026-10-23T22:01:18+00:00",
+      "items": [
+        {
+          "text": "엔비디아는 10월 19일 독일 에를랑겐의 지멘스 공장에서 AI와 디지털 트윈을 결합한 자율 제조 기술을 시연했고, 지멘스와 함께 산업 AI 운영체제를 개발해 공장 자동화율을 현재 30~40%에서 70~80%까지 높이겠다고 밝혔습니다.",
+          "links": [
+            {
+              "label": "서울경제",
+              "url": "https://en.sedaily.com/technology/2026/10/21/factory-ai-moves-beyond-spotting-defects-to-running"
+            }
+          ]
+        },
+        {
+          "text": "현대차·기아는 10월 19~21일 의왕연구소에서 '이포레스트 테크데이 2026'을 열고, 디지털 트윈과 공장 업무용 AI 에이전트 등 소프트웨어 중심 공장(SDF) 전환 기술 200여 건을 공개했습니다.",
+          "links": [
+            {
+              "label": "스포츠경향",
+              "url": "https://sports.khan.co.kr/article/202610201103013/"
+            }
+          ]
+        },
+        {
+          "text": "국내 기업 ITSpace는 설비 전력 데이터를 실시간으로 AI가 분석해 이상 신호를 알려주는 예지보전 시스템을 토요타 1차 협력사인 일본 츠카다리켄공업에 공급했습니다.",
+          "links": [
+            {
+              "label": "서울경제",
+              "url": "https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 엔비디아는 10월 19일 독일 에를랑겐의 지멘스 공장에서 AI와 디지털 트윈을 결합한 자율 제조 기술을 시연했고, 지멘스와 함께 산업 AI 운영체제를 개발해 공장 자동화율을 현재 30~40%에서 70~80%까지 높이겠다고 밝혔습니다. ([서울경제](https://en.sedaily.com/technology/2026/10/21/factory-ai-moves-beyond-spotting-defects-to-running))\n- 현대차·기아는 10월 19~21일 의왕연구소에서 '이포레스트 테크데이 2026'을 열고, 디지털 트윈과 공장 업무용 AI 에이전트 등 소프트웨어 중심 공장(SDF) 전환 기술 200여 건을 공개했습니다. ([스포츠경향](https://sports.khan.co.kr/article/202610201103013/))\n- 국내 기업 ITSpace는 설비 전력 데이터를 실시간으로 AI가 분석해 이상 신호를 알려주는 예지보전 시스템을 토요타 1차 협력사인 일본 츠카다리켄공업에 공급했습니다. ([서울경제](https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market))"
+    },
     {
       "id": "economy-2026-10-23_00-01-33",
       "category": "economy",
