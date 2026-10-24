@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T00:01:45+00:00",
+  "updated_at": "2026-10-24T22:01:18+00:00",
   "briefings": [
+    {
+      "id": "manufacturing-ai-2026-10-24_22-01-18",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-25",
+      "time": "07:01",
+      "published_at": "2026-10-24T22:01:18+00:00",
+      "items": [
+        {
+          "text": "한국 산업AI 기업 아이티스페이스가 전류·전압·고조파 데이터를 AI로 분석해 이상 징후를 단계별로 알리는 예지보전 시스템을 일본 도요타 1차 협력사 쓰카다리켄고교에 공급했습니다(2026.10).",
+          "links": [
+            {
+              "label": "서울경제",
+              "url": "https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market"
+            }
+          ]
+        },
+        {
+          "text": "제조사들은 대규모 투자 전에 테스트 센터에서 피지컬 AI·자동화의 효과를 먼저 검증하는 방식을 늘리고 있으며, Aquant와 CNC 업체 마키노 협업이 한 예입니다(2026.4).",
+          "links": [
+            {
+              "label": "Manufacturing Dive",
+              "url": "https://www.manufacturingdive.com/news/manufacturing-ai-automation-robotics-testing-deloitte-tata/817036/"
+            }
+          ]
+        },
+        {
+          "text": "BMW 레겐스부르크 공장은 AI 지원 시스템으로 연간 500분 이상의 가동 중단을 줄인다고 추산하며, 예지보전이 완성차 현장에서 성과 지표로 쓰이고 있습니다(2025.3 보도).",
+          "links": [
+            {
+              "label": "BizTech",
+              "url": "https://biztechmagazine.com/article/2025/03/reduce-equipment-downtime-manufacturers-turn-ai-predictive-maintenance-tools"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 한국 산업AI 기업 아이티스페이스가 전류·전압·고조파 데이터를 AI로 분석해 이상 징후를 단계별로 알리는 예지보전 시스템을 일본 도요타 1차 협력사 쓰카다리켄고교에 공급했습니다(2026.10). [서울경제](https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market)\n- 제조사들은 대규모 투자 전에 테스트 센터에서 피지컬 AI·자동화의 효과를 먼저 검증하는 방식을 늘리고 있으며, Aquant와 CNC 업체 마키노 협업이 한 예입니다(2026.4). [Manufacturing Dive](https://www.manufacturingdive.com/news/manufacturing-ai-automation-robotics-testing-deloitte-tata/817036/)\n- BMW 레겐스부르크 공장은 AI 지원 시스템으로 연간 500분 이상의 가동 중단을 줄인다고 추산하며, 예지보전이 완성차 현장에서 성과 지표로 쓰이고 있습니다(2025.3 보도). [BizTech](https://biztechmagazine.com/article/2025/03/reduce-equipment-downtime-manufacturers-turn-ai-predictive-maintenance-tools)"
+    },
     {
       "id": "economy-2026-10-24_00-01-45",
       "category": "economy",
