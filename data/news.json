@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T22:01:18+00:00",
+  "updated_at": "2026-10-24T00:01:45+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-10-24_00-01-45",
+      "category": "economy",
+      "category_label": "경제 뉴스",
+      "date": "2026-10-24",
+      "time": "09:01",
+      "published_at": "2026-10-24T00:01:45+00:00",
+      "items": [
+        {
+          "text": "미국 10월 경기 확장 속 물가 압력 확대: 23일 발표된 종합 구매관리자지수는 57.6으로 전월 58.4보다 하락했지만, 판매가격 상승 속도는 2022년 8월 이후 최고 — 경기 확장이 이어지는 가운데 연준의 추가 금리 인상 압력이 커질 가능성",
+          "links": [
+            {
+              "label": "S&P Global",
+              "url": "https://www.spglobal.com/content/dam/spglobal/mi/en/documents/news-insights/research/2026/10/6310716_6310697_0.1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "미국 증시 하락 마감: 23일 뉴욕장 종가 기준 S&P 500은 7,623.68포인트(-0.52%), 나스닥은 25,955.34포인트(-0.21%) — 인공지능 투자 수익성과 자금조달 비용 우려가 지속돼, 다음 주 주요 기업 실적과 연준 결정에 따른 변동성 확대 가능성",
+          "links": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/wall-street-futures-dip-after-ai-rout-telecoms-slide-2026-10-23/"
+            }
+          ]
+        },
+        {
+          "text": "국내 증시 급락 후 반등·환율 소폭 상승: 23일 코스피는 장중 4.12% 하락했다가 전일 대비 0.30% 상승 마감했고, 원·달러 환율은 같은 날 15시 30분 기준 달러당 1,324.6원(+0.4원) — 외국인의 약 1조원 주식 순매도가 이어져, 지수 반등에도 수급 불안과 큰 가격 변동에 유의할 필요",
+          "links": [
+            {
+              "label": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261023134800002"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**미국 10월 경기 확장 속 물가 압력 확대**: 23일 발표된 종합 구매관리자지수는 57.6으로 전월 58.4보다 하락했지만, 판매가격 상승 속도는 2022년 8월 이후 최고 — 경기 확장이 이어지는 가운데 연준의 추가 금리 인상 압력이 커질 가능성 [S&P Global](https://www.spglobal.com/content/dam/spglobal/mi/en/documents/news-insights/research/2026/10/6310716_6310697_0.1.pdf)\n**미국 증시 하락 마감**: 23일 뉴욕장 종가 기준 S&P 500은 7,623.68포인트(-0.52%), 나스닥은 25,955.34포인트(-0.21%) — 인공지능 투자 수익성과 자금조달 비용 우려가 지속돼, 다음 주 주요 기업 실적과 연준 결정에 따른 변동성 확대 가능성 [Reuters](https://www.reuters.com/business/wall-street-futures-dip-after-ai-rout-telecoms-slide-2026-10-23/)\n**국내 증시 급락 후 반등·환율 소폭 상승**: 23일 코스피는 장중 4.12% 하락했다가 전일 대비 0.30% 상승 마감했고, 원·달러 환율은 같은 날 15시 30분 기준 달러당 1,324.6원(+0.4원) — 외국인의 약 1조원 주식 순매도가 이어져, 지수 반등에도 수급 불안과 큰 가격 변동에 유의할 필요 [연합뉴스](https://www.yna.co.kr/view/AKR20261023134800002)"
+    },
     {
       "id": "manufacturing-ai-2026-10-23_22-01-18",
       "category": "manufacturing-ai",
