@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-25T00:02:03+00:00",
+  "updated_at": "2026-10-25T22:01:14+00:00",
   "briefings": [
+    {
+      "id": "manufacturing-ai-2026-10-25_22-01-14",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-26",
+      "time": "07:01",
+      "published_at": "2026-10-25T22:01:14+00:00",
+      "items": [
+        {
+          "text": "국내 AI 기업 아이티스페이스가 모터 전류를 분석하는 AI 예지보전 시스템을 도요타 1차 협력사 쓰카다리켄공업에 공급했고, 이 분야 한국 기업의 첫 일본 수출로 보도됐습니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market"
+            }
+          ]
+        },
+        {
+          "text": "창원시가 산업통상부의 AI 팩토리 공모에 선정돼 2029년까지 약 96억 원을 들여 LG전자 생산기술원 등과 가전 생산·품질·물류를 통합 운영하는 자율제조 공장을 만듭니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.newspim.com/news/view/20261021000024"
+            }
+          ]
+        },
+        {
+          "text": "현대차·기아가 자체 개발한 완성차 외관 검사용 AI 비전 기술을 완성했고, 국내외 생산 라인에 차례로 적용할 계획입니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://sports.khan.co.kr/article/202610201103013/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 국내 AI 기업 아이티스페이스가 모터 전류를 분석하는 AI 예지보전 시스템을 도요타 1차 협력사 쓰카다리켄공업에 공급했고, 이 분야 한국 기업의 첫 일본 수출로 보도됐습니다. [출처](https://en.sedaily.com/finance/2026/10/13/korean-ai-firm-cracks-japans-predictive-maintenance-market)\n- 창원시가 산업통상부의 AI 팩토리 공모에 선정돼 2029년까지 약 96억 원을 들여 LG전자 생산기술원 등과 가전 생산·품질·물류를 통합 운영하는 자율제조 공장을 만듭니다. [출처](https://www.newspim.com/news/view/20261021000024)\n- 현대차·기아가 자체 개발한 완성차 외관 검사용 AI 비전 기술을 완성했고, 국내외 생산 라인에 차례로 적용할 계획입니다. [출처](https://sports.khan.co.kr/article/202610201103013/)"
+    },
     {
       "id": "economy-2026-10-25_00-02-03",
       "category": "economy",
