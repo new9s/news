@@ -1,7 +1,45 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-25T22:01:14+00:00",
+  "updated_at": "2026-10-26T00:02:00+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-10-26_00-02-00",
+      "category": "economy",
+      "category_label": "경제 뉴스",
+      "date": "2026-10-26",
+      "time": "09:02",
+      "published_at": "2026-10-26T00:02:00+00:00",
+      "items": [
+        {
+          "text": "중동 확전 위험 재부각(10월 26일 06:13 한국시간 보도): 미군이 중간선거 후 이란 공격 선택지를 보고했다는 보도, 최종 결정은 미정 — 확전 시 유가·수입물가 상승과 금리·증시 변동성 확대 우려",
+          "links": [
+            {
+              "label": "KBS",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694682"
+            }
+          ]
+        },
+        {
+          "text": "정부, 국내생산세액공제 보완 논의(10월 25일 20:14 한국시간 보도): 전기차 등 제외 업종의 확대 요구 속 관계부처 협의 진행 — 지원 확대 시 국내 생산·투자 유인 강화가 기대되며, 적용 대상은 후속 협의로 확정 예정",
+          "links": [
+            {
+              "label": "KBS",
+              "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694558"
+            }
+          ]
+        },
+        {
+          "text": "중국, 미국의 첨단기술 투자규제 확대안에 반발(10월 25일 10:56 한국시간 보도): 중국 상무부는 24일 생명공학까지 포함한 미국 규정안에 반대·대응 권리 유보 표명 — 미·중 기술투자와 공급망의 정책 불확실성 확대 우려",
+          "links": [
+            {
+              "label": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261025017700083?section=international/correspondents/index"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**중동 확전 위험 재부각**(10월 26일 06:13 한국시간 보도): 미군이 중간선거 후 이란 공격 선택지를 보고했다는 보도, 최종 결정은 미정 — 확전 시 유가·수입물가 상승과 금리·증시 변동성 확대 우려 [KBS](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694682)\n**정부, 국내생산세액공제 보완 논의**(10월 25일 20:14 한국시간 보도): 전기차 등 제외 업종의 확대 요구 속 관계부처 협의 진행 — 지원 확대 시 국내 생산·투자 유인 강화가 기대되며, 적용 대상은 후속 협의로 확정 예정 [KBS](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694558)\n**중국, 미국의 첨단기술 투자규제 확대안에 반발**(10월 25일 10:56 한국시간 보도): 중국 상무부는 24일 생명공학까지 포함한 미국 규정안에 반대·대응 권리 유보 표명 — 미·중 기술투자와 공급망의 정책 불확실성 확대 우려 [연합뉴스](https://www.yna.co.kr/view/AKR20261025017700083?section=international/correspondents/index)"
+    },
     {
       "id": "manufacturing-ai-2026-10-25_22-01-14",
       "category": "manufacturing-ai",
