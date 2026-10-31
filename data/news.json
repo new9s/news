@@ -1,7 +1,63 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:05:49+00:00",
+  "updated_at": "2026-10-31T00:02:04+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-10-31_00-02-04",
+      "category": "economy",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-10-31",
+      "time": "09:02",
+      "published_at": "2026-10-31T00:02:04+00:00",
+      "items": [
+        {
+          "text": "Foxconn, 텍사스 생산시설에 휴머노이드 로봇 10대 초과 배치(2026-10-30 보도) — 회사가 밝힌 실제 내부 도입 사례로, 조립·상하차 자동화의 참고 사례입니다. 생산성·불량률 개선 수치는 공개되지 않았습니다.",
+          "links": [
+            {
+              "label": "Reuters·스트레이츠타임스",
+              "url": "https://www.straitstimes.com/business/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble?ref=latest-headlines"
+            }
+          ]
+        },
+        {
+          "text": "한국·독일, 제조 AI 공동연구·기술협력 확대 추진(2026-10-30 11:04 보도) — 한국의 반도체·배터리 제조와 독일의 정밀기계·산업자동화를 연결하는 협력 기반입니다. 공동선언 단계이며 현장 도입 성과는 아직 제시되지 않았습니다.",
+          "links": [
+            {
+              "label": "아주프레스",
+              "url": "https://www.ajupress.com/view/20261030110470241"
+            }
+          ]
+        },
+        {
+          "text": "추가 소식 부족 — 한국시간 2026-10-31 09:00 확인 기준 최근 24시간 조건을 충족하는 추가 소식을 확보하지 못했습니다. 삼성 자율공장 기사는 10월 30일 00:30 발행으로 제외했습니다.",
+          "links": [
+            {
+              "label": "조선일보",
+              "url": "https://www.chosun.com/economy/industry-company/2026/10/30/KI2UUPZ4PFCZ3DY2IZBDAB4BF4/"
+            }
+          ]
+        },
+        {
+          "text": "추가 소식 부족 — 독일·NVIDIA 산업 AI 협력은 최근 보도와 달리 공식 발표가 2026-10-19로 확인돼, 새로운 제조현장 소식으로 선정하지 않았습니다.",
+          "links": [
+            {
+              "label": "NVIDIA 공식 발표",
+              "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
+            }
+          ]
+        },
+        {
+          "text": "추가 소식 부족 — Unilever의 공장 디지털 트윈 확대·개선 성과 기사는 2026-10-15 발행으로 확인돼 제외했습니다. 과거 성과를 최근 24시간의 신규 성과로 대체하지 않았습니다.",
+          "links": [
+            {
+              "label": "Supply Chain Dive",
+              "url": "https://www.supplychaindive.com/news/unilever-puts-business-results-first-in-factory-digital-twin-rollout/833011/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**Foxconn, 텍사스 생산시설에 휴머노이드 로봇 10대 초과 배치**(2026-10-30 보도) — 회사가 밝힌 실제 내부 도입 사례로, 조립·상하차 자동화의 참고 사례입니다. 생산성·불량률 개선 수치는 공개되지 않았습니다. [Reuters·스트레이츠타임스](https://www.straitstimes.com/business/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble?ref=latest-headlines)\n**한국·독일, 제조 AI 공동연구·기술협력 확대 추진**(2026-10-30 11:04 보도) — 한국의 반도체·배터리 제조와 독일의 정밀기계·산업자동화를 연결하는 협력 기반입니다. 공동선언 단계이며 현장 도입 성과는 아직 제시되지 않았습니다. [아주프레스](https://www.ajupress.com/view/20261030110470241)\n추가 소식 부족 — 한국시간 2026-10-31 09:00 확인 기준 최근 24시간 조건을 충족하는 추가 소식을 확보하지 못했습니다. 삼성 자율공장 기사는 10월 30일 00:30 발행으로 제외했습니다. [조선일보](https://www.chosun.com/economy/industry-company/2026/10/30/KI2UUPZ4PFCZ3DY2IZBDAB4BF4/)\n추가 소식 부족 — 독일·NVIDIA 산업 AI 협력은 최근 보도와 달리 공식 발표가 2026-10-19로 확인돼, 새로운 제조현장 소식으로 선정하지 않았습니다. [NVIDIA 공식 발표](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/)\n추가 소식 부족 — Unilever의 공장 디지털 트윈 확대·개선 성과 기사는 2026-10-15 발행으로 확인돼 제외했습니다. 과거 성과를 최근 24시간의 신규 성과로 대체하지 않았습니다. [Supply Chain Dive](https://www.supplychaindive.com/news/unilever-puts-business-results-first-in-factory-digital-twin-rollout/833011/)"
+    },
     {
       "id": "economy-2026-10-30_00-05-49",
       "category": "economy",
