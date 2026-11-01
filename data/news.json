@@ -1,7 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:02:04+00:00",
+  "updated_at": "2026-11-01T00:02:35+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-01_00-02-35",
+      "category": "economy",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-11-01",
+      "time": "09:02",
+      "published_at": "2026-11-01T00:02:35+00:00",
+      "items": [
+        {
+          "text": "Foundry Robotics, AI 자율조립 공장 확대용 1억 달러 투자 유치(10월 31일 17:08 한국시간 보도) — 로봇 셀 기반 다품종 조립의 위탁생산 확대를 추진하며, 생산성·불량률 개선 수치는 기사에서 검증되지 않았습니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://roboticsandautomationnews.com/2026/10/31/foundry-robotics-raises-100-million-to-build-americas-first-autonomous-factory-for-assembly/106564/"
+            }
+          ]
+        },
+        {
+          "text": "Siemens CEO, 중소 제조업의 산업 데이터 정비·단계적 AI 도입 강조(10월 31일 16:22 보도) — 설비 고장 예측과 디지털 트윈 활용에 앞서 데이터 구조와 현장 지식 확보가 중요하다는 제언이며, 신규 실증 성과 발표와 구분됩니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.koreaherald.com/article/10921341"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**Foundry Robotics, AI 자율조립 공장 확대용 1억 달러 투자 유치**(10월 31일 17:08 한국시간 보도) — 로봇 셀 기반 다품종 조립의 위탁생산 확대를 추진하며, 생산성·불량률 개선 수치는 기사에서 검증되지 않았습니다. [출처](https://roboticsandautomationnews.com/2026/10/31/foundry-robotics-raises-100-million-to-build-americas-first-autonomous-factory-for-assembly/106564/)\n**Siemens CEO, 중소 제조업의 산업 데이터 정비·단계적 AI 도입 강조**(10월 31일 16:22 보도) — 설비 고장 예측과 디지털 트윈 활용에 앞서 데이터 구조와 현장 지식 확보가 중요하다는 제언이며, 신규 실증 성과 발표와 구분됩니다. [출처](https://www.koreaherald.com/article/10921341)"
+    },
     {
       "id": "economy-2026-10-31_00-02-04",
       "category": "economy",
