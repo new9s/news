@@ -1,7 +1,63 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:01:57+00:00",
+  "updated_at": "2026-11-03T00:02:35+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-03_00-02-35",
+      "category": "economy",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-11-03",
+      "time": "09:02",
+      "published_at": "2026-11-03T00:02:35+00:00",
+      "items": [
+        {
+          "text": "식품연, 소스 생산라인 AI·로봇 적용 성과 공개(11월 2일 보도): 2026년 하루 생산량 10→14.7톤, 제조원가 35.5% 감소를 보고 — 온도·압력·중량 분석과 이송·포장 자동화의 결합 사례로, 연구원 발표 수치이며 독립 검증 여부는 미확인입니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.mt.co.kr/economy/2026/11/02/2026110210361758310"
+            }
+          ]
+        },
+        {
+          "text": "ZKH·Intel, 현장형 AI ‘LingLong Insight 1.0’ 출시(11월 2일 19:00 한국시간 배포) — 부품 포장·라벨과 납품서를 현장에서 대조해 베어링 등 유사 부품의 오입고 방지를 지원하며, 생산라인·설비보전 확대는 향후 계획이고 오류 감소 실적은 공개하지 않았습니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.prnewswire.com/news-releases/zkh-and-intel-bring-industrial-multimodal-ai-to-the-edge-with-linglong-insight-1-0--302925961.html"
+            }
+          ]
+        },
+        {
+          "text": "Maya HTT, 제조·엔지니어링 지식검색 AI ‘M-Bot’ 출시(11월 2일 22:00 한국시간 배포) — 사내 구축형으로 공정·시험·과거 기술문제를 출처와 함께 검색해 현장 지식 재활용을 지원하며, 검색속도 개선은 공급사 주장으로 고객 현장 검증 조건은 미공개입니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.prnewswire.com/news-releases/maya-htt-launches-m-bot-a-secure-enterprise-engineering-knowledge-assistant-302924655.html"
+            }
+          ]
+        },
+        {
+          "text": "UptimeAI, ARC 산업용 운영 코파일럿 평가 선도기업 선정 발표(11월 2일 배포) — 열역학·물질수지·고장유형에 근거한 진단과 작업자 승인 절차가 설비 이상분석 AI의 평가 기준으로 부각됐으며, 선정은 기업 보도자료로 확인했고 진단시간 단축 주장은 별도 검증이 필요합니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/arc-names-uptimeai-leader-in-2026-marketmap-for-industrial-copilo-1243925"
+            }
+          ]
+        },
+        {
+          "text": "양산시, 제조 AX 컨퍼런스에서 현장 AI 적용 사례·지원책 공유(11월 2일 17:59 보도; 조사 기준 11월 3일 09:00 한국시간) — 태진시스템의 생산성 개선 경험과 로봇 자동화·국가 연구개발 활용 방안을 소개했으며, 도입 검토에 참고할 수 있으나 개선폭과 검증 조건은 기사에 제시되지 않았습니다.",
+          "links": [
+            {
+              "label": "출처",
+              "url": "https://www.asiae.co.kr/article/yeongnam/2026110217554239168"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**식품연, 소스 생산라인 AI·로봇 적용 성과 공개**(11월 2일 보도): 2026년 하루 생산량 10→14.7톤, 제조원가 35.5% 감소를 보고 — 온도·압력·중량 분석과 이송·포장 자동화의 결합 사례로, 연구원 발표 수치이며 독립 검증 여부는 미확인입니다. [출처](https://www.mt.co.kr/economy/2026/11/02/2026110210361758310)\n**ZKH·Intel, 현장형 AI ‘LingLong Insight 1.0’ 출시**(11월 2일 19:00 한국시간 배포) — 부품 포장·라벨과 납품서를 현장에서 대조해 베어링 등 유사 부품의 오입고 방지를 지원하며, 생산라인·설비보전 확대는 향후 계획이고 오류 감소 실적은 공개하지 않았습니다. [출처](https://www.prnewswire.com/news-releases/zkh-and-intel-bring-industrial-multimodal-ai-to-the-edge-with-linglong-insight-1-0--302925961.html)\n**Maya HTT, 제조·엔지니어링 지식검색 AI ‘M-Bot’ 출시**(11월 2일 22:00 한국시간 배포) — 사내 구축형으로 공정·시험·과거 기술문제를 출처와 함께 검색해 현장 지식 재활용을 지원하며, 검색속도 개선은 공급사 주장으로 고객 현장 검증 조건은 미공개입니다. [출처](https://www.prnewswire.com/news-releases/maya-htt-launches-m-bot-a-secure-enterprise-engineering-knowledge-assistant-302924655.html)\n**UptimeAI, ARC 산업용 운영 코파일럿 평가 선도기업 선정 발표**(11월 2일 배포) — 열역학·물질수지·고장유형에 근거한 진단과 작업자 승인 절차가 설비 이상분석 AI의 평가 기준으로 부각됐으며, 선정은 기업 보도자료로 확인했고 진단시간 단축 주장은 별도 검증이 필요합니다. [출처](https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/arc-names-uptimeai-leader-in-2026-marketmap-for-industrial-copilo-1243925)\n**양산시, 제조 AX 컨퍼런스에서 현장 AI 적용 사례·지원책 공유**(11월 2일 17:59 보도; 조사 기준 11월 3일 09:00 한국시간) — 태진시스템의 생산성 개선 경험과 로봇 자동화·국가 연구개발 활용 방안을 소개했으며, 도입 검토에 참고할 수 있으나 개선폭과 검증 조건은 기사에 제시되지 않았습니다. [출처](https://www.asiae.co.kr/article/yeongnam/2026110217554239168)"
+    },
     {
       "id": "economy-2026-11-02_00-01-57",
       "category": "economy",
