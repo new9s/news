@@ -1,7 +1,63 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:02:35+00:00",
+  "updated_at": "2026-11-04T00:02:12+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-04_00-02-12",
+      "category": "economy",
+      "category_label": "제조산업 AI 뉴스",
+      "date": "2026-11-04",
+      "time": "09:02",
+      "published_at": "2026-11-04T00:02:12+00:00",
+      "items": [
+        {
+          "text": "산업부, 제조 AI 확산전략 발표(11월 3일 14:30 한국시간·11월 4일 09:00 조회) — 기존 제조 AI 모델 541개의 유사 공정 재사용과 공급망 공동 실증을 추진합니다. 공장 전체 자율운영은 향후 목표로, 현장에서는 검증 모델의 재학습·재사용 가능성이 중요해졌습니다.",
+          "links": [
+            {
+              "label": "산업통상부",
+              "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view"
+            }
+          ]
+        },
+        {
+          "text": "NVIDIA, 반도체 공정 AI·공장 디지털 트윈 적용사례 공개(11월 4일 01:00 한국시간) — Lam Research의 플라스마 예측 시연과 Applied Materials의 공장 물류·배치 시뮬레이션을 소개했습니다. 실제 라인 변경 전 가상 검증에 참고할 사례이며, 공급사 발표로 양산 수율 개선이 독립 검증된 내용과 구분해야 합니다.",
+          "links": [
+            {
+              "label": "NVIDIA",
+              "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/"
+            }
+          ]
+        },
+        {
+          "text": "Neurealm·Siemens, 산업 AI 공동 전문센터 출범(11월 3일 11:00 한국시간) — 카메라 영상·설비 데이터·정비 이력을 연결해 품질검사와 예지보전 솔루션을 개발할 계획입니다. 원인분석과 작업 권고의 통합 방향은 유용하지만, 발표에는 고객 현장의 정량 성과가 제시되지 않았습니다.",
+          "links": [
+            {
+              "label": "Neurealm 공식 발표",
+              "url": "https://www.neurealm.com/press-release/neurealm-launches-centre-of-excellence-to-accelerate-industrial-ai-adoption/"
+            }
+          ]
+        },
+        {
+          "text": "식음료 제조업, AI 시범사업 이후 데이터 통합 필요성 부각(11월 3일 15:00 한국시간 보도) — Rockwell Automation의 2026년 보고서를 인용해 생산·업무 시스템 연결과 작업자 재교육을 강조했습니다. 식음료 공장에서는 품질·생산성 지표와 연결된 IT·OT 통합이 핵심이며, 설문 전망을 실측 개선 성과로 해석하지 않아야 합니다.",
+          "links": [
+            {
+              "label": "FutureCIO",
+              "url": "https://futurecio.tech/food-and-beverage-manufacturers-accelerate-efforts-to-scale-ai-beyond-pilot-projects-report-finds/"
+            }
+          ]
+        },
+        {
+          "text": "Faraday, EtherCAT 대응 통신 IP 검증 발표(11월 3일 17:00 한국시간) — 회사는 발표 제품의 EtherCAT 적합성·전자파 내성 시험 통과를 밝혔습니다. 제조 AI·로봇 제어의 통신 신뢰성 확보에 관련된 기반기술 소식으로, 공장 도입이나 생산성 향상 실적까지 입증한 발표는 아닙니다.",
+          "links": [
+            {
+              "label": "Faraday 배포자료·Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/ai/articles/faraday-accelerates-ai-driven-manufacturing-080000865.html"
+            }
+          ]
+        }
+      ],
+      "raw_text": "**산업부, 제조 AI 확산전략 발표**(11월 3일 14:30 한국시간·11월 4일 09:00 조회) — 기존 제조 AI 모델 541개의 유사 공정 재사용과 공급망 공동 실증을 추진합니다. 공장 전체 자율운영은 향후 목표로, 현장에서는 검증 모델의 재학습·재사용 가능성이 중요해졌습니다. [산업통상부](https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172373/view)\n**NVIDIA, 반도체 공정 AI·공장 디지털 트윈 적용사례 공개**(11월 4일 01:00 한국시간) — Lam Research의 플라스마 예측 시연과 Applied Materials의 공장 물류·배치 시뮬레이션을 소개했습니다. 실제 라인 변경 전 가상 검증에 참고할 사례이며, 공급사 발표로 양산 수율 개선이 독립 검증된 내용과 구분해야 합니다. [NVIDIA](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)\n**Neurealm·Siemens, 산업 AI 공동 전문센터 출범**(11월 3일 11:00 한국시간) — 카메라 영상·설비 데이터·정비 이력을 연결해 품질검사와 예지보전 솔루션을 개발할 계획입니다. 원인분석과 작업 권고의 통합 방향은 유용하지만, 발표에는 고객 현장의 정량 성과가 제시되지 않았습니다. [Neurealm 공식 발표](https://www.neurealm.com/press-release/neurealm-launches-centre-of-excellence-to-accelerate-industrial-ai-adoption/)\n**식음료 제조업, AI 시범사업 이후 데이터 통합 필요성 부각**(11월 3일 15:00 한국시간 보도) — Rockwell Automation의 2026년 보고서를 인용해 생산·업무 시스템 연결과 작업자 재교육을 강조했습니다. 식음료 공장에서는 품질·생산성 지표와 연결된 IT·OT 통합이 핵심이며, 설문 전망을 실측 개선 성과로 해석하지 않아야 합니다. [FutureCIO](https://futurecio.tech/food-and-beverage-manufacturers-accelerate-efforts-to-scale-ai-beyond-pilot-projects-report-finds/)\n**Faraday, EtherCAT 대응 통신 IP 검증 발표**(11월 3일 17:00 한국시간) — 회사는 발표 제품의 EtherCAT 적합성·전자파 내성 시험 통과를 밝혔습니다. 제조 AI·로봇 제어의 통신 신뢰성 확보에 관련된 기반기술 소식으로, 공장 도입이나 생산성 향상 실적까지 입증한 발표는 아닙니다. [Faraday 배포자료·Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/faraday-accelerates-ai-driven-manufacturing-080000865.html)"
+    },
     {
       "id": "economy-2026-11-03_00-02-35",
       "category": "economy",
