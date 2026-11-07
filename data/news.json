@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T00:05:54+00:00",
+  "updated_at": "2026-11-07T00:05:27+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-07_00-05-27",
+      "category": "economy",
+      "category_label": "제조산업 뉴스 3분야 15건",
+      "date": "2026-11-07",
+      "time": "09:05",
+      "published_at": "2026-11-07T00:05:27+00:00",
+      "items": [
+        {
+          "text": "산업부가 3일 AI 팩토리 확산전략을 발표, 지원 245개사 중 우수 38곳에서 생산성 30.1%↑·불량률 15.5%↓를 확인하고 541개 모델 재사용에 2027년 예산 6,575억 원을 편성 — 검증된 모델을 우리 공정에 맞춰 재학습하는 방식이 중소 현장의 AI 투자 부담을 줄입니다",
+          "links": [
+            {
+              "label": "뉴스1",
+              "url": "https://www.news1.kr/economy/trend/6341377"
+            }
+          ]
+        },
+        {
+          "text": "KGC가 원주공장 파우치 음료 라인에 X-ray와 AI 비전을 결합한 실링 검사기를 도입하고 로봇 포장까지 연결 — 봉합부 외관 불량을 전수 판정하는 구성이라 동결건조 커피 파우치 실링 검사에 직접 참고할 만합니다",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://www.etnews.com/20261104000224"
+            }
+          ]
+        },
+        {
+          "text": "바이슨이 자동차 단조부품 인라인 검사장비를 모듈형 비전으로 개조해 10일 만에 구축, 분당 검사 28→60개(2.1배)·과검률 20%→0.5%를 기록 — 노후 검사기를 교체하지 않고 처리량과 판정 신뢰도를 함께 올린 사례입니다",
+          "links": [
+            {
+              "label": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/11/06/2026110410161566666"
+            }
+          ]
+        },
+        {
+          "text": "리하온이 MLOps 기반 다품종 비전 식별·복합 불량 검출 솔루션을 설비 증설과 타 공정으로 확대하는 MOU를 체결 — 품목이 바뀌어도 모델 재학습과 버전관리로 검사 기준을 유지하는 체계가 다품종 라인의 핵심입니다",
+          "links": [
+            {
+              "label": "IT조선",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000404"
+            }
+          ]
+        },
+        {
+          "text": "지멘스 에를랑겐 공장은 100개 이상 AI 알고리즘과 디지털 트윈으로 생산계획을 사전 검증해 비용 최대 20%↓, 검사 프로그램 엔지니어링 85%↓를 밝혔고 폭스콘도 계획 노동시간 25%↓ — 설비 변경 전 가상 검증의 효과를 보여줍니다",
+          "links": [
+            {
+              "label": "트윅24",
+              "url": "https://www.twig24.com/news/2026/11/03/20261103032004"
+            }
+          ]
+        },
+        {
+          "text": "MIT 연구진이 바이알을 자석으로 구동되는 와이어에 매달아 연속 동결건조의 건조 편차를 줄이고, 연속 동결건조기 디지털 트윈으로 공정 최적화를 추진 — 동결건조 커피의 배치 간 편차와 사이클 개발 기간을 줄일 수 있는 접근입니다",
+          "links": [
+            {
+              "label": "GEN",
+              "url": "https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/"
+            }
+          ]
+        },
+        {
+          "text": "GEA가 벨기에 티넨 제당공장에 4MW(1,137RT) n-펜탄 고온 히트펌프를 구축, 1차 증발의 75℃ 저온 열을 115~140℃ 공정 증기로 승온해 전체 증기 수요 6%를 대체하고 연 3,000~3,500t CO₂를 감축 — 동결건조 공장 스팀·폐열 회수 규모를 가늠할 현장 사례입니다",
+          "links": [
+            {
+              "label": "NaturalRefrigerants",
+              "url": "https://naturalrefrigerants.com/news/gea-develops-4mw-n-pentane-high-temperatureheat-pump-for-sugar-refinery-in-belgium/"
+            }
+          ]
+        },
+        {
+          "text": "LG전자 무급유 산업용 히트펌프가 출수 115℃·1,000RT를 구현해 제지공장 건조공정에서 실증 중이고, 기계연은 40℃ 폐열로 구동하는 화학흡착식 히트펌프를 개발 — 동결건조기 냉동·응축 폐열 회수에 응용할 수 있습니다",
+          "links": [
+            {
+              "label": "투데이에너지",
+              "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305199"
+            }
+          ]
+        },
+        {
+          "text": "한국기계연구원이 질소 냉매 터보-브레이턴 방식으로 −120℃·15kW 냉각을 내는 산업용 칠러를 개발, COP 0.167·소비전력 90kW를 검증하고 차고엔지니어링에 기술이전(2027년 상용화 목표) — 진공 콜드트랩·극저온 냉각 계통에 참고할 국산화 사례입니다",
+          "links": [
+            {
+              "label": "AZoCleantech",
+              "url": "https://www.azocleantech.com/news.aspx?newsID=36791"
+            }
+          ]
+        },
+        {
+          "text": "존슨컨트롤즈가 식품·음료 공장용 암모니아 히트펌프 HeatPAC을 출시, 냉동 폐열로 130~190℉(약 54~88℃) 온수를 만들어 가스보일러 대비 최대 7배 효율(내부 모델링)을 제시 — 암모니아 냉동기를 쓰는 동결건조 공장의 폐열 회수 후보입니다",
+          "links": [
+            {
+              "label": "Johnson Controls",
+              "url": "https://www.johnsoncontrols.com/media-center/news/press-releases/2026/10/26/johnson-controls-new-standardized-heat-pump"
+            }
+          ]
+        },
+        {
+          "text": "포스코 포항제철소 제선설비부가 코크스 운반차 진동 데이터로 케이블 노후·연결부 풀림 등 6건을 사전 발견하고, EIC기술부는 후판 유량제어밸브 정상 기준을 운전 상황에 맞춰 자동 조정하는 감시 시스템을 개발 — PLC·계측 데이터와 현장 노하우만으로 예지정비를 구현한 사례입니다",
+          "links": [
+            {
+              "label": "프레시안",
+              "url": "https://www.pressian.com/pages/articles/2026110411155792290"
+            }
+          ]
+        },
+        {
+          "text": "디플리가 부산 신항 무인 야드크레인 호이스트 모터 2대와 감속기에 음향 센서를 달아 하루 약 300회 사이클을 제어신호와 동기화하고, 1차 검증에서 정상음과 결함음의 주파수·파형 차이를 확인 — 개조가 어려운 설비에 비접촉 센서를 붙여 CMS로 연결하는 방식입니다",
+          "links": [
+            {
+              "label": "beSUCCESS",
+              "url": "https://besuccess.com/?p=187752"
+            }
+          ]
+        },
+        {
+          "text": "퓨처메인의 ExRBM 2.0이 85종 이상 결함을 자동 진단하고 XAI로 원인·근거를 제시하며 잔존수명(RUL)을 예측, KTL 시험에서 자동진단 정확도 98.3%를 검증 — 정비 시점 판단에 설명 가능한 진단과 RUL이 중요해지고 있습니다",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://www.etnews.com/20261103000145"
+            }
+          ]
+        },
+        {
+          "text": "울산 화학설비 20대 실증을 거친 포터블 AI 예지보전이 올해 4개 현장 150대로 확대됐고, 비츠로시스는 공작기계 진동·전류와 PLC 회전수·가공현황을 연계해 전류 데이터 1억2,000만건으로 진단 — 센서 부담을 낮춘 PLC 기반 현장형 보전입니다",
+          "links": [
+            {
+              "label": "매일경제",
+              "url": "https://www.mk.co.kr/news/business/12193610"
+            }
+          ]
+        },
+        {
+          "text": "한국에머슨이 Rosemount X-well·Flexim 비침습 계측으로 배관을 관통하지 않고 온도·유량을 재고 Permasense로 부식·침식을 추적, HMI와 통합해 예지보전에 연결 — 진공·냉매 배관 건전성 관리에 바로 적용할 수 있는 계측 구성입니다",
+          "links": [
+            {
+              "label": "오토뷰",
+              "url": "https://www.autoview.co.kr/ko-kr/articles/102322"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 산업부가 3일 AI 팩토리 확산전략을 발표, 지원 245개사 중 우수 38곳에서 생산성 30.1%↑·불량률 15.5%↓를 확인하고 541개 모델 재사용에 2027년 예산 6,575억 원을 편성 — 검증된 모델을 우리 공정에 맞춰 재학습하는 방식이 중소 현장의 AI 투자 부담을 줄입니다 [뉴스1](https://www.news1.kr/economy/trend/6341377)\n- KGC가 원주공장 파우치 음료 라인에 X-ray와 AI 비전을 결합한 실링 검사기를 도입하고 로봇 포장까지 연결 — 봉합부 외관 불량을 전수 판정하는 구성이라 동결건조 커피 파우치 실링 검사에 직접 참고할 만합니다 [전자신문](https://www.etnews.com/20261104000224)\n- 바이슨이 자동차 단조부품 인라인 검사장비를 모듈형 비전으로 개조해 10일 만에 구축, 분당 검사 28→60개(2.1배)·과검률 20%→0.5%를 기록 — 노후 검사기를 교체하지 않고 처리량과 판정 신뢰도를 함께 올린 사례입니다 [머니투데이](https://www.mt.co.kr/industry/2026/11/06/2026110410161566666)\n- 리하온이 MLOps 기반 다품종 비전 식별·복합 불량 검출 솔루션을 설비 증설과 타 공정으로 확대하는 MOU를 체결 — 품목이 바뀌어도 모델 재학습과 버전관리로 검사 기준을 유지하는 체계가 다품종 라인의 핵심입니다 [IT조선](https://it.chosun.com/news/articleView.html?idxno=3000000000404)\n- 지멘스 에를랑겐 공장은 100개 이상 AI 알고리즘과 디지털 트윈으로 생산계획을 사전 검증해 비용 최대 20%↓, 검사 프로그램 엔지니어링 85%↓를 밝혔고 폭스콘도 계획 노동시간 25%↓ — 설비 변경 전 가상 검증의 효과를 보여줍니다 [트윅24](https://www.twig24.com/news/2026/11/03/20261103032004)\n- MIT 연구진이 바이알을 자석으로 구동되는 와이어에 매달아 연속 동결건조의 건조 편차를 줄이고, 연속 동결건조기 디지털 트윈으로 공정 최적화를 추진 — 동결건조 커피의 배치 간 편차와 사이클 개발 기간을 줄일 수 있는 접근입니다 [GEN](https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/)\n- GEA가 벨기에 티넨 제당공장에 4MW(1,137RT) n-펜탄 고온 히트펌프를 구축, 1차 증발의 75℃ 저온 열을 115~140℃ 공정 증기로 승온해 전체 증기 수요 6%를 대체하고 연 3,000~3,500t CO₂를 감축 — 동결건조 공장 스팀·폐열 회수 규모를 가늠할 현장 사례입니다 [NaturalRefrigerants](https://naturalrefrigerants.com/news/gea-develops-4mw-n-pentane-high-temperatureheat-pump-for-sugar-refinery-in-belgium/)\n- LG전자 무급유 산업용 히트펌프가 출수 115℃·1,000RT를 구현해 제지공장 건조공정에서 실증 중이고, 기계연은 40℃ 폐열로 구동하는 화학흡착식 히트펌프를 개발 — 동결건조기 냉동·응축 폐열 회수에 응용할 수 있습니다 [투데이에너지](https://www.todayenergy.kr/news/articleView.html?idxno=305199)\n- 한국기계연구원이 질소 냉매 터보-브레이턴 방식으로 −120℃·15kW 냉각을 내는 산업용 칠러를 개발, COP 0.167·소비전력 90kW를 검증하고 차고엔지니어링에 기술이전(2027년 상용화 목표) — 진공 콜드트랩·극저온 냉각 계통에 참고할 국산화 사례입니다 [AZoCleantech](https://www.azocleantech.com/news.aspx?newsID=36791)\n- 존슨컨트롤즈가 식품·음료 공장용 암모니아 히트펌프 HeatPAC을 출시, 냉동 폐열로 130~190℉(약 54~88℃) 온수를 만들어 가스보일러 대비 최대 7배 효율(내부 모델링)을 제시 — 암모니아 냉동기를 쓰는 동결건조 공장의 폐열 회수 후보입니다 [Johnson Controls](https://www.johnsoncontrols.com/media-center/news/press-releases/2026/10/26/johnson-controls-new-standardized-heat-pump)\n- 포스코 포항제철소 제선설비부가 코크스 운반차 진동 데이터로 케이블 노후·연결부 풀림 등 6건을 사전 발견하고, EIC기술부는 후판 유량제어밸브 정상 기준을 운전 상황에 맞춰 자동 조정하는 감시 시스템을 개발 — PLC·계측 데이터와 현장 노하우만으로 예지정비를 구현한 사례입니다 [프레시안](https://www.pressian.com/pages/articles/2026110411155792290)\n- 디플리가 부산 신항 무인 야드크레인 호이스트 모터 2대와 감속기에 음향 센서를 달아 하루 약 300회 사이클을 제어신호와 동기화하고, 1차 검증에서 정상음과 결함음의 주파수·파형 차이를 확인 — 개조가 어려운 설비에 비접촉 센서를 붙여 CMS로 연결하는 방식입니다 [beSUCCESS](https://besuccess.com/?p=187752)\n- 퓨처메인의 ExRBM 2.0이 85종 이상 결함을 자동 진단하고 XAI로 원인·근거를 제시하며 잔존수명(RUL)을 예측, KTL 시험에서 자동진단 정확도 98.3%를 검증 — 정비 시점 판단에 설명 가능한 진단과 RUL이 중요해지고 있습니다 [전자신문](https://www.etnews.com/20261103000145)\n- 울산 화학설비 20대 실증을 거친 포터블 AI 예지보전이 올해 4개 현장 150대로 확대됐고, 비츠로시스는 공작기계 진동·전류와 PLC 회전수·가공현황을 연계해 전류 데이터 1억2,000만건으로 진단 — 센서 부담을 낮춘 PLC 기반 현장형 보전입니다 [매일경제](https://www.mk.co.kr/news/business/12193610)\n- 한국에머슨이 Rosemount X-well·Flexim 비침습 계측으로 배관을 관통하지 않고 온도·유량을 재고 Permasense로 부식·침식을 추적, HMI와 통합해 예지보전에 연결 — 진공·냉매 배관 건전성 관리에 바로 적용할 수 있는 계측 구성입니다 [오토뷰](https://www.autoview.co.kr/ko-kr/articles/102322)"
+    },
     {
       "id": "economy-2026-11-06_00-05-54",
       "category": "economy",
