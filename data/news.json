@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T00:05:27+00:00",
+  "updated_at": "2026-11-09T00:04:43+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-09_00-04-44",
+      "category": "economy",
+      "category_label": "제조산업 뉴스 3분야 15건",
+      "date": "2026-11-09",
+      "time": "09:04",
+      "published_at": "2026-11-09T00:04:43+00:00",
+      "items": [
+        {
+          "text": "농심 녹산 수출공장, 포장 품목 전환 120→30분·배합수 115→30분으로 단축해 생산효율 17.6% 향상 — 다품종 전환 잦은 동결건조 라인의 CIP·여유탱크 설계에 참고",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://www.etnews.com/20261108000028"
+            }
+          ]
+        },
+        {
+          "text": "냉장고 도어 1차 협력사, 모서리 4곳 촬영 AI 비전검사로 육안검사 인력 2명 재배치 — 전자업계 AI 활용률은 11.7%, 모델 변경 시 카메라·검사기준 재설정이 확산 걸림돌",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://www.etnews.com/20261106000208"
+            }
+          ]
+        },
+        {
+          "text": "삼성전자 2030년까지 생산거점 AI 자율공장 전환 목표, SK하이닉스는 엔비디아 옴니버스 디지털 트윈 고도화 — 대기업은 목표·계획 단계로, 로봇이 공정 전반을 운영하는 수준은 아직",
+          "links": [
+            {
+              "label": "매일일보",
+              "url": "https://www.m-i.kr/news/articleView.html?idxno=2015509"
+            }
+          ]
+        },
+        {
+          "text": "KGC 원주공장, 파우치 음료 라인에 AI 실링 검사기 도입…X-ray 이물검사 후 AI 비전이 외관 불량 판정 — 식품 포장 검사를 육안에서 AI로 넘길 때의 검사 순서·데이터 축적 방식",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://www.etnews.com/20261104000224"
+            }
+          ]
+        },
+        {
+          "text": "지멘스 에를랑겐 공장, AI가 생산계획 먼저 제안해 비용 최대 20%↓·검사 준비 공수 85%↓…폭스콘은 계획 노동시간 25%↓ — 자율공장 성과는 아직 벤더 자체 발표 기준",
+          "links": [
+            {
+              "label": "서울신문",
+              "url": "https://news.nate.com/view/20261103n01614"
+            }
+          ]
+        },
+        {
+          "text": "MIT, 바이알을 와이어에 매달아 이송하는 연속 동결건조 공정과 디지털 트윈 개발…마찰·입자 발생 줄이고 건조 균일도 확보 — 연속식 전환 검토 시 예측제어 모델 선행 사례",
+          "links": [
+            {
+              "label": "GEN",
+              "url": "https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/"
+            }
+          ]
+        },
+        {
+          "text": "카자흐스탄 Frutta, 동결건조기 3대로 시간당 1.5톤 딸기 라인 운영…원물 1톤이 동결건조 100kg, 사이클 약 24시간 — 수율과 사이클 시간을 공개한 실제 식품 동결건조 공장 사례",
+          "links": [
+            {
+              "label": "FreshPlaza",
+              "url": "https://www.freshplaza.com/north-america/article/9887284/kazakhstan-plant-produces-freeze-dried-fruit-with-a-shelf-life-of-up-to-five-years/"
+            }
+          ]
+        },
+        {
+          "text": "기계연, 질소 냉매 터보-브레이튼 극저온 칠러 개발…-120℃·15kW, 30분 내 도달, 소비전력 90kW·COP 0.167, 2027년 제품 출시 목표 — GWP 0 냉매로 냉동기 규제에 대응하는 설비 구성 참고",
+          "links": [
+            {
+              "label": "한국기계연구원",
+              "url": "https://www.kimm.re.kr/sub0504/view/id/21508"
+            }
+          ]
+        },
+        {
+          "text": "존슨컨트롤즈, 암모니아 히트펌프 'Frick HeatPAC' 출시…200kW~2MW·최대 87.8℃ 온수, 냉동 폐열 회수 — 살균·세척 온수를 보일러 대신 폐열로 만드는 모델(최대 40% 절감은 자체 모델링",
+          "links": [
+            {
+              "label": "pv magazine",
+              "url": "https://pv-magazine-usa.com/2026/11/05/johnson-controls-launches-industrial-ammonia-heat-pump/"
+            }
+          ]
+        },
+        {
+          "text": "인도 Vintage Coffee, 동결건조 커피 연 5,500톤 설비 증설…고객 구매의향서 전량 확보, 2027년 8월 시험생산·9월 상업생산 목표 — 동결건조 커피 수요와 증설 속도 확인",
+          "links": [
+            {
+              "label": "Investing.com",
+              "url": "https://kr.investing.com/news/transcripts/article-93CH-2158810"
+            }
+          ]
+        },
+        {
+          "text": "TKG휴켐스 여수공장, 순찰 의존 점검을 CCTV·계측기 상시 감지와 질산 압축기 예지보전으로 전환 — 생산 5%↑·비상정지 50%↓·에너지 15%↓는 2028년까지 달성 목표",
+          "links": [
+            {
+              "label": "한국경제",
+              "url": "https://v.daum.net/v/20261104150039014"
+            }
+          ]
+        },
+        {
+          "text": "디플리, 부산 신항 무인 야드 크레인에 음향 예지보전 '리슨 AI' 공급…80dB 소음 속 모터·감속기 이상음 감지, 제어신호와 동기화 — 회전설비 상태감시를 소리로 확장",
+          "links": [
+            {
+              "label": "디지털데일리",
+              "url": "https://www.ddaily.co.kr/page/view/2026110409472679123"
+            }
+          ]
+        },
+        {
+          "text": "현대차, 울산공장 NPMS로 설비 2.8만대·월 7만건 점검 데이터 통합…모바일 제어까지 평가에 반영, 유지보수 능률 5% 향상 기대 — 종이 점검표를 데이터 기반 보전으로 바꾸는 절차",
+          "links": [
+            {
+              "label": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261106038300057"
+            }
+          ]
+        },
+        {
+          "text": "휴대용 단말에 경량 AI를 탑재해 진동·음향방출·열화상으로 현장 판정…울산 화학 140대 등 4개 현장 150대로 실증 확대 — 고정형 센서 설치가 어려운 설비의 순회점검 대안",
+          "links": [
+            {
+              "label": "매일경제",
+              "url": "https://www.mk.co.kr/news/business/12193610"
+            }
+          ]
+        },
+        {
+          "text": "퓨처메인 'ExRBM 2.0', 85종 이상 결함 자동 진단·잔존수명 예측, KTL 시험 자동진단 정확도 98.3% — 진단 근거를 함께 제시하는 XAI 방식은 보전 담당자 판단 보조에 유리",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://www.etnews.com/20261103000145"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 농심 녹산 수출공장, 포장 품목 전환 120→30분·배합수 115→30분으로 단축해 생산효율 17.6% 향상 — 다품종 전환 잦은 동결건조 라인의 CIP·여유탱크 설계에 참고 [전자신문](https://www.etnews.com/20261108000028)\n- 냉장고 도어 1차 협력사, 모서리 4곳 촬영 AI 비전검사로 육안검사 인력 2명 재배치 — 전자업계 AI 활용률은 11.7%, 모델 변경 시 카메라·검사기준 재설정이 확산 걸림돌 [전자신문](https://www.etnews.com/20261106000208)\n- 삼성전자 2030년까지 생산거점 AI 자율공장 전환 목표, SK하이닉스는 엔비디아 옴니버스 디지털 트윈 고도화 — 대기업은 목표·계획 단계로, 로봇이 공정 전반을 운영하는 수준은 아직 [매일일보](https://www.m-i.kr/news/articleView.html?idxno=2015509)\n- KGC 원주공장, 파우치 음료 라인에 AI 실링 검사기 도입…X-ray 이물검사 후 AI 비전이 외관 불량 판정 — 식품 포장 검사를 육안에서 AI로 넘길 때의 검사 순서·데이터 축적 방식 [전자신문](https://www.etnews.com/20261104000224)\n- 지멘스 에를랑겐 공장, AI가 생산계획 먼저 제안해 비용 최대 20%↓·검사 준비 공수 85%↓…폭스콘은 계획 노동시간 25%↓ — 자율공장 성과는 아직 벤더 자체 발표 기준 [서울신문](https://news.nate.com/view/20261103n01614)\n- MIT, 바이알을 와이어에 매달아 이송하는 연속 동결건조 공정과 디지털 트윈 개발…마찰·입자 발생 줄이고 건조 균일도 확보 — 연속식 전환 검토 시 예측제어 모델 선행 사례 [GEN](https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/)\n- 카자흐스탄 Frutta, 동결건조기 3대로 시간당 1.5톤 딸기 라인 운영…원물 1톤이 동결건조 100kg, 사이클 약 24시간 — 수율과 사이클 시간을 공개한 실제 식품 동결건조 공장 사례 [FreshPlaza](https://www.freshplaza.com/north-america/article/9887284/kazakhstan-plant-produces-freeze-dried-fruit-with-a-shelf-life-of-up-to-five-years/)\n- 기계연, 질소 냉매 터보-브레이튼 극저온 칠러 개발…-120℃·15kW, 30분 내 도달, 소비전력 90kW·COP 0.167, 2027년 제품 출시 목표 — GWP 0 냉매로 냉동기 규제에 대응하는 설비 구성 참고 [한국기계연구원](https://www.kimm.re.kr/sub0504/view/id/21508)\n- 존슨컨트롤즈, 암모니아 히트펌프 'Frick HeatPAC' 출시…200kW~2MW·최대 87.8℃ 온수, 냉동 폐열 회수 — 살균·세척 온수를 보일러 대신 폐열로 만드는 모델(최대 40% 절감은 자체 모델링) [pv magazine](https://pv-magazine-usa.com/2026/11/05/johnson-controls-launches-industrial-ammonia-heat-pump/)\n- 인도 Vintage Coffee, 동결건조 커피 연 5,500톤 설비 증설…고객 구매의향서 전량 확보, 2027년 8월 시험생산·9월 상업생산 목표 — 동결건조 커피 수요와 증설 속도 확인 [Investing.com](https://kr.investing.com/news/transcripts/article-93CH-2158810)\n- TKG휴켐스 여수공장, 순찰 의존 점검을 CCTV·계측기 상시 감지와 질산 압축기 예지보전으로 전환 — 생산 5%↑·비상정지 50%↓·에너지 15%↓는 2028년까지 달성 목표 [한국경제](https://v.daum.net/v/20261104150039014)\n- 디플리, 부산 신항 무인 야드 크레인에 음향 예지보전 '리슨 AI' 공급…80dB 소음 속 모터·감속기 이상음 감지, 제어신호와 동기화 — 회전설비 상태감시를 소리로 확장 [디지털데일리](https://www.ddaily.co.kr/page/view/2026110409472679123)\n- 현대차, 울산공장 NPMS로 설비 2.8만대·월 7만건 점검 데이터 통합…모바일 제어까지 평가에 반영, 유지보수 능률 5% 향상 기대 — 종이 점검표를 데이터 기반 보전으로 바꾸는 절차 [연합뉴스](https://www.yna.co.kr/view/AKR20261106038300057)\n- 휴대용 단말에 경량 AI를 탑재해 진동·음향방출·열화상으로 현장 판정…울산 화학 140대 등 4개 현장 150대로 실증 확대 — 고정형 센서 설치가 어려운 설비의 순회점검 대안 [매일경제](https://www.mk.co.kr/news/business/12193610)\n- 퓨처메인 'ExRBM 2.0', 85종 이상 결함 자동 진단·잔존수명 예측, KTL 시험 자동진단 정확도 98.3% — 진단 근거를 함께 제시하는 XAI 방식은 보전 담당자 판단 보조에 유리 [전자신문](https://www.etnews.com/20261103000145)"
+    },
     {
       "id": "economy-2026-11-07_00-05-27",
       "category": "economy",
