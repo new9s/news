@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:04:43+00:00",
+  "updated_at": "2026-11-10T00:06:47+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-10_00-06-48",
+      "category": "economy",
+      "category_label": "제조산업 뉴스 3분야 15건",
+      "date": "2026-11-10",
+      "time": "09:06",
+      "published_at": "2026-11-10T00:06:47+00:00",
+      "items": [
+        {
+          "text": "11월 9일 엔비디아 AI 데이 서울에서 현대차 공장 디지털 트윈과 실제 시간 대비 수십만 배 빠른 반복 시뮬레이션이 소개됐고, AI 에이전트로 트윈 구축 기간을 약 100배 단축할 수 있다고 밝혔다 — 로봇·공정 변경을 가상에서 먼저 검증하려면 트윈 구축 비용과 데이터 정합성이 관건이다",
+          "links": [
+            {
+              "label": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261109077051017"
+            }
+          ]
+        },
+        {
+          "text": "11월 9일 세아베스틸이 에버가드와 4년간 현장 데이터 600만 건을 분석해 250개 구역 AI 안전 솔루션을 개발하고 내년 상반기까지 군산·창녕공장에 구축한다고 밝혔다 — HD현대중공업도 도장 품질검사에 비전 AI를 적용했으며, 안전·품질 AI가 PLC 연동 제어로 확장되는 흐름이다",
+          "links": [
+            {
+              "label": "한국일보",
+              "url": "https://www.hankookilbo.com/news/article/A2026110915080005383"
+            }
+          ]
+        },
+        {
+          "text": "11월 9일 케이쓰리아이가 75억 원 규모 국책과제에서 중대형 모터 하우징의 취부·가접·본용접·검사 자율화율 90% 이상을 목표로 디지털 트윈 통합 관제와 공정 이력 추적을 맡는다 — 중량물 다품종 용접·검사 자동화에 트윈 기반 이력 추적을 결합하는 사례다",
+          "links": [
+            {
+              "label": "뉴시스",
+              "url": "https://www.newsis.com/msi/view/?id=NISX20261109_0003860156"
+            }
+          ]
+        },
+        {
+          "text": "11월 3일 발표된 정부 AI 팩토리 확산전략에서 245개 지원 기업 중 38개 우수사례의 생산성이 평균 30.1% 향상되고 불량률이 15.5% 감소한 것으로 분석됐다 — 541개 AI 모델 중 재사용 가능한 것을 골라 유사 공정에 확산하고 2027년 1,200억 원 투입을 추진하는 방식은 동결건조 사이클·품질 모델 표준화에 참고할 만하다",
+          "links": [
+            {
+              "label": "아시아타임즈",
+              "url": "https://www.asiatime.co.kr/article/20261105500245"
+            }
+          ]
+        },
+        {
+          "text": "11월 4일 부울경 제조 AX 우수사례 공유 내용에서 엠아이엠은 자동차부품 정밀가공에 AI를 적용해 생산성 16.6% 향상, 불량률 3.72%→0.27%를 기록했고 지에스티는 클라우드 스마트공장에 AI 에이전트·비전검사·AMR을 연계했다 — 중소 현장도 비전·에이전트·물류로봇을 묶어 성과를 내는 단계다",
+          "links": [
+            {
+              "label": "경남신문",
+              "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554379"
+            }
+          ]
+        },
+        {
+          "text": "11월 5일 보도된 Reser's Fine Foods 사례에서 오리건주 30만 sq ft 공장이 노후 냉동기 6기를 CO2 중앙냉동으로 교체해 냉동 전력 41% 절감(모델 기준)·냉동능력 114% 확대를 전망했고, 전체 전력은 연 190만 kWh, 20% 줄일 것으로 봤다 — 여러 냉동기를 CO2 중앙 시스템으로 합치면 용량 여유와 온도 안정성을 함께 얻는다",
+          "links": [
+            {
+              "label": "fsenews",
+              "url": "https://fsenews.com/article/reser-s-co-refrigeration-cuts-don-pancho-facility-electricity-20"
+            }
+          ]
+        },
+        {
+          "text": "11월 5일 공개된 네덜란드 Kervo 사례에서 과일가공공장이 800kW 캐스케이드 히트펌프를 설치해 CO2 냉동 폐열로 90℃ 온수와 120℃ 스팀을 생산하고 2026년 7월 상업운전에 들어갔다 — 살균·세척용 스팀을 보일러 대신 냉동 폐열로 만드는 구성은 동결건조 공장 유틸리티 계획에 직접 참고된다",
+          "links": [
+            {
+              "label": "Smart Building",
+              "url": "https://www.smartbuildingmag.com/news/117041-cascade-heat-pumps-upgrade-industrial-refrigeration-waste-heat"
+            }
+          ]
+        },
+        {
+          "text": "11월 6일 영국 Cold Change Group이 진공냉각에 PLC 기반 자동화와 제품별 냉각 프로그램, 원격 데이터 로깅을 적용해 엽채류 냉각을 10시간에서 17분(20→4℃)으로 줄이고 유통기한을 4일 늘린 사례를 공개했다 — 진공냉각도 PLC 레시피와 이력 데이터로 제품별 관리하는 시대다",
+          "links": [
+            {
+              "label": "FreshPlaza",
+              "url": "https://www.freshplaza.com/europe/article/9870494/pre-cooling-technology-gives-exporters-greater-control-over-shelf-life-and-quality/"
+            }
+          ]
+        },
+        {
+          "text": "11월 3일 영국 Mr Whippy가 셰필드 1,500만 파운드 도넛 공장에 Starfrost Helix 스파이럴 냉각을 설치해 첫 제품을 냈고, 주 수백만 개 생산을 위한 자동 연속 냉각과 Star Refrigeration의 CO2 냉동을 함께 적용했다 — 고속 라인에서 냉각을 공정 안에 통합하고 저탄소 냉매로 가는 사례다",
+          "links": [
+            {
+              "label": "Food Engineering",
+              "url": "https://www.foodengineeringmag.com/articles/103998-uk-based-mr-whippy-taps-starfrost-for-spiral-cooling-system"
+            }
+          ]
+        },
+        {
+          "text": "11월 4일 EBM 파프스트가 EC 냉동팬의 운전 데이터를 풍압 센서처럼 써서 착상 정도를 판단하는 'Defrost on Demand'를 공개했다 — -18℃ 검증에서 주당 제상 전력이 7.8kWh에서 3.4kWh로 49% 넘게 줄고, 7시간 고정 주기가 주 3~6회 필요 시 제상으로 바뀌었다",
+          "links": [
+            {
+              "label": "Smart Building",
+              "url": "https://www.smartbuildingmag.com/news/116989-making-better-use-of-the-potential-in-refrigeration-technology"
+            }
+          ]
+        },
+        {
+          "text": "11월 9일 아디아랩이 3D 스캐너·카메라 품질검사와 진동·소음 설비진단을 한 AI 체계로 묶어 품질 데이터 2,000건과 설비 데이터 8,640만 건으로 학습했고, 부산 협성철광 다이아프램 펌프에 예지보전을 적용했다 — AI 판정을 PLC로 넘겨 불량품을 자동 선별하는 것이 다음 단계다",
+          "links": [
+            {
+              "label": "한국경제",
+              "url": "https://www.hankyung.com/article/202611095582O"
+            }
+          ]
+        },
+        {
+          "text": "11월 4일 포스코 포항제철소 현장 직원들이 코크스 운반차 진동 파형을 분석해 전원 케이블 노후·볼트 풀림 등 6건을 사전에 잡았고, 후판공장에는 노이즈를 걸러내고 부하에 따라 정상 기준을 바꾸는 유량 제어 밸브 감시 시스템을 구축했다 — 대형 플랫폼 없이 현장 데이터와 경험으로 예지정비를 구현한 사례다",
+          "links": [
+            {
+              "label": "스트레이트뉴스",
+              "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314585"
+            }
+          ]
+        },
+        {
+          "text": "11월 6일 안동시농산물가공센터가 CIP 자동측정센서를 도입해 세척공정의 전기전도도·온도·유량을 자동 수집·기록하고 수기 기록을 데이터로 대체했다 — 동결건조 라인 CIP도 센서 설치를 위한 배관 개조와 세척액 순환라인 설계를 먼저 해야 데이터가 쌓인다",
+          "links": [
+            {
+              "label": "경북일보",
+              "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090153"
+            }
+          ]
+        },
+        {
+          "text": "11월 5일 한전이 AI·빅데이터로 변전소 설비를 실시간 진단하는 SEDA를 LS일렉트릭에 이전했고, SEDA는 2021년 도입 이후 고장 88건을 예방하고 2025년 370억 원의 복구 비용을 줄였다 — 고장 위험 5단계 분류를 CMS·자산관리와 연결하는 구조는 공장 수전·변압기 보전에 그대로 적용할 수 있다",
+          "links": [
+            {
+              "label": "연합뉴스",
+              "url": "https://www.yna.co.kr/view/AKR20261105025200003"
+            }
+          ]
+        },
+        {
+          "text": "11월 9일 케이엔에스 베트남 법인이 해성옵틱스 베트남 생산시설에 48억 원 규모 카메라 모듈 조립설비와 자동 비전 검사설비 공급을 완료했다 — 조립설비와 비전검사설비를 함께 공급해 해외 생산거점의 자동화 수준을 끌어올린 사례로, 검사 기준의 현지 이관이 관건이다",
+          "links": [
+            {
+              "label": "아시아경제",
+              "url": "https://www.asiae.co.kr/article/stock-disclosure/2026110914412759186"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 11월 9일 엔비디아 AI 데이 서울에서 현대차 공장 디지털 트윈과 실제 시간 대비 수십만 배 빠른 반복 시뮬레이션이 소개됐고, AI 에이전트로 트윈 구축 기간을 약 100배 단축할 수 있다고 밝혔다 — 로봇·공정 변경을 가상에서 먼저 검증하려면 트윈 구축 비용과 데이터 정합성이 관건이다 [연합뉴스](https://www.yna.co.kr/view/AKR20261109077051017)\n- 11월 9일 세아베스틸이 에버가드와 4년간 현장 데이터 600만 건을 분석해 250개 구역 AI 안전 솔루션을 개발하고 내년 상반기까지 군산·창녕공장에 구축한다고 밝혔다 — HD현대중공업도 도장 품질검사에 비전 AI를 적용했으며, 안전·품질 AI가 PLC 연동 제어로 확장되는 흐름이다 [한국일보](https://www.hankookilbo.com/news/article/A2026110915080005383)\n- 11월 9일 케이쓰리아이가 75억 원 규모 국책과제에서 중대형 모터 하우징의 취부·가접·본용접·검사 자율화율 90% 이상을 목표로 디지털 트윈 통합 관제와 공정 이력 추적을 맡는다 — 중량물 다품종 용접·검사 자동화에 트윈 기반 이력 추적을 결합하는 사례다 [뉴시스](https://www.newsis.com/msi/view/?id=NISX20261109_0003860156)\n- 11월 3일 발표된 정부 AI 팩토리 확산전략에서 245개 지원 기업 중 38개 우수사례의 생산성이 평균 30.1% 향상되고 불량률이 15.5% 감소한 것으로 분석됐다 — 541개 AI 모델 중 재사용 가능한 것을 골라 유사 공정에 확산하고 2027년 1,200억 원 투입을 추진하는 방식은 동결건조 사이클·품질 모델 표준화에 참고할 만하다 [아시아타임즈](https://www.asiatime.co.kr/article/20261105500245)\n- 11월 4일 부울경 제조 AX 우수사례 공유 내용에서 엠아이엠은 자동차부품 정밀가공에 AI를 적용해 생산성 16.6% 향상, 불량률 3.72%→0.27%를 기록했고 지에스티는 클라우드 스마트공장에 AI 에이전트·비전검사·AMR을 연계했다 — 중소 현장도 비전·에이전트·물류로봇을 묶어 성과를 내는 단계다 [경남신문](https://www.knnews.co.kr/news/articleView.php?idxno=1554379)\n- 11월 5일 보도된 Reser's Fine Foods 사례에서 오리건주 30만 sq ft 공장이 노후 냉동기 6기를 CO2 중앙냉동으로 교체해 냉동 전력 41% 절감(모델 기준)·냉동능력 114% 확대를 전망했고, 전체 전력은 연 190만 kWh, 20% 줄일 것으로 봤다 — 여러 냉동기를 CO2 중앙 시스템으로 합치면 용량 여유와 온도 안정성을 함께 얻는다 [fsenews](https://fsenews.com/article/reser-s-co-refrigeration-cuts-don-pancho-facility-electricity-20)\n- 11월 5일 공개된 네덜란드 Kervo 사례에서 과일가공공장이 800kW 캐스케이드 히트펌프를 설치해 CO2 냉동 폐열로 90℃ 온수와 120℃ 스팀을 생산하고 2026년 7월 상업운전에 들어갔다 — 살균·세척용 스팀을 보일러 대신 냉동 폐열로 만드는 구성은 동결건조 공장 유틸리티 계획에 직접 참고된다 [Smart Building](https://www.smartbuildingmag.com/news/117041-cascade-heat-pumps-upgrade-industrial-refrigeration-waste-heat)\n- 11월 6일 영국 Cold Change Group이 진공냉각에 PLC 기반 자동화와 제품별 냉각 프로그램, 원격 데이터 로깅을 적용해 엽채류 냉각을 10시간에서 17분(20→4℃)으로 줄이고 유통기한을 4일 늘린 사례를 공개했다 — 진공냉각도 PLC 레시피와 이력 데이터로 제품별 관리하는 시대다 [FreshPlaza](https://www.freshplaza.com/europe/article/9870494/pre-cooling-technology-gives-exporters-greater-control-over-shelf-life-and-quality/)\n- 11월 3일 영국 Mr Whippy가 셰필드 1,500만 파운드 도넛 공장에 Starfrost Helix 스파이럴 냉각을 설치해 첫 제품을 냈고, 주 수백만 개 생산을 위한 자동 연속 냉각과 Star Refrigeration의 CO2 냉동을 함께 적용했다 — 고속 라인에서 냉각을 공정 안에 통합하고 저탄소 냉매로 가는 사례다 [Food Engineering](https://www.foodengineeringmag.com/articles/103998-uk-based-mr-whippy-taps-starfrost-for-spiral-cooling-system)\n- 11월 4일 EBM 파프스트가 EC 냉동팬의 운전 데이터를 풍압 센서처럼 써서 착상 정도를 판단하는 'Defrost on Demand'를 공개했다 — -18℃ 검증에서 주당 제상 전력이 7.8kWh에서 3.4kWh로 49% 넘게 줄고, 7시간 고정 주기가 주 3~6회 필요 시 제상으로 바뀌었다 [Smart Building](https://www.smartbuildingmag.com/news/116989-making-better-use-of-the-potential-in-refrigeration-technology)\n- 11월 9일 아디아랩이 3D 스캐너·카메라 품질검사와 진동·소음 설비진단을 한 AI 체계로 묶어 품질 데이터 2,000건과 설비 데이터 8,640만 건으로 학습했고, 부산 협성철광 다이아프램 펌프에 예지보전을 적용했다 — AI 판정을 PLC로 넘겨 불량품을 자동 선별하는 것이 다음 단계다 [한국경제](https://www.hankyung.com/article/202611095582O)\n- 11월 4일 포스코 포항제철소 현장 직원들이 코크스 운반차 진동 파형을 분석해 전원 케이블 노후·볼트 풀림 등 6건을 사전에 잡았고, 후판공장에는 노이즈를 걸러내고 부하에 따라 정상 기준을 바꾸는 유량 제어 밸브 감시 시스템을 구축했다 — 대형 플랫폼 없이 현장 데이터와 경험으로 예지정비를 구현한 사례다 [스트레이트뉴스](https://www.straightnews.co.kr/news/articleView.html?idxno=314585)\n- 11월 6일 안동시농산물가공센터가 CIP 자동측정센서를 도입해 세척공정의 전기전도도·온도·유량을 자동 수집·기록하고 수기 기록을 데이터로 대체했다 — 동결건조 라인 CIP도 센서 설치를 위한 배관 개조와 세척액 순환라인 설계를 먼저 해야 데이터가 쌓인다 [경북일보](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090153)\n- 11월 5일 한전이 AI·빅데이터로 변전소 설비를 실시간 진단하는 SEDA를 LS일렉트릭에 이전했고, SEDA는 2021년 도입 이후 고장 88건을 예방하고 2025년 370억 원의 복구 비용을 줄였다 — 고장 위험 5단계 분류를 CMS·자산관리와 연결하는 구조는 공장 수전·변압기 보전에 그대로 적용할 수 있다 [연합뉴스](https://www.yna.co.kr/view/AKR20261105025200003)\n- 11월 9일 케이엔에스 베트남 법인이 해성옵틱스 베트남 생산시설에 48억 원 규모 카메라 모듈 조립설비와 자동 비전 검사설비 공급을 완료했다 — 조립설비와 비전검사설비를 함께 공급해 해외 생산거점의 자동화 수준을 끌어올린 사례로, 검사 기준의 현지 이관이 관건이다 [아시아경제](https://www.asiae.co.kr/article/stock-disclosure/2026110914412759186)"
+    },
     {
       "id": "economy-2026-11-09_00-04-44",
       "category": "economy",
