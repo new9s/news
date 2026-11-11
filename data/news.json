@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T00:06:47+00:00",
+  "updated_at": "2026-11-11T00:04:34+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-11_00-04-36",
+      "category": "economy",
+      "category_label": "제조산업 뉴스 3분야 15건",
+      "date": "2026-11-11",
+      "time": "09:04",
+      "published_at": "2026-11-11T00:04:34+00:00",
+      "items": [
+        {
+          "text": "농심이 11월 8일 보도된 부산 녹산 수출전문공장에서 PMS로 품목별 설비 조건을 자동 설정하고 딥러닝 품질검사·AMR을 적용해 포장 품목 전환을 120분→30분, 배합수 제조를 115분→30분으로 줄였다 — 동결건조 라인도 제품 교체 때 레시피와 설비 조건을 한 번에 불러오는 구조가 전환 손실을 줄인다",
+          "links": [
+            {
+              "label": "아시아투데이",
+              "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002987"
+            }
+          ]
+        },
+        {
+          "text": "상하이전기가 11월 10일 가스터빈 블레이드 유연생산라인에 AI 비전·디지털 트윈·로봇을 결합해 무작위 적재 블레이드 픽킹 정확도 99.99% 이상을 달성했고, 용접부는 5G 비전검사로 실시간 결함을 잡으며 SIMPLE 플랫폼은 60기·누적 100만 시간 데이터를 쓴다 — 고가 설비 검사 자동화는 검사 기준 데이터 축적이 먼저다",
+          "links": [
+            {
+              "label": "네이트/PRNewswire",
+              "url": "https://news.nate.com/view/20261110n24976"
+            }
+          ]
+        },
+        {
+          "text": "LG가 11월 5일 16개 계열사 안전혁신 사례 21건 중 15건에 AI를 적용했다고 공개했고, LG전자는 사업장 CCTV 4226대를 AI 관제로 묶어 위험 감지 시 설비 전원을 자동 차단하며 LG화학은 PSM 서류 검토 시간을 98% 줄였다 — 안전 AI를 설비 인터록과 연결하는 것이 다음 단계다",
+          "links": [
+            {
+              "label": "LG",
+              "url": "https://www.lg.co.kr/media/release/30752"
+            }
+          ]
+        },
+        {
+          "text": "아이벡스가 11월 5일 후성정공 열간단조 스크롤 라인에 AI 비전·로봇 빈피킹·MLOps를 묶은 폐루프 검사 시스템을 구축한다고 밝혔다 — 비정렬 제품을 로봇이 집어 검사 자세를 바꾸고 판정 결과를 다시 학습하는 구조는 형상이 복잡한 부품 검사에 참고된다",
+          "links": [
+            {
+              "label": "머니투데이",
+              "url": "https://www.mt.co.kr/index.php/future/2026/11/05/2026110509434874843"
+            }
+          ]
+        },
+        {
+          "text": "바이슨이 11월 6일 자동차 단조부품 업체의 노후 인라인 검사기를 모듈형 비전 플랫폼으로 개조해 분당 검사량을 28개→60개로 2.1배 늘리고 과검률을 20%대→0.5% 이내로 낮췄다(구축 10일) — 검사기 교체 대신 광학계와 판정부만 바꾸는 방식은 기존 설비가 많은 현장에 현실적이다",
+          "links": [
+            {
+              "label": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/11/06/2026110410161566666"
+            }
+          ]
+        },
+        {
+          "text": "인도 Vintage Coffee가 11월 5일 텔랑가나 식품가공단지에 연 5,500t 동결건조 커피 공장을 짓고 유럽산 핵심 설비를 발주했으며 2027 회계연도 상반기(2027년 4~9월) 시운전을 목표로 계획 생산량 상당분의 구매의향서를 확보했다고 밝혔다 — 신규 FD 커피 라인은 설비 발주부터 시운전까지 약 2년이 걸린다는 일정 감각을 준다",
+          "links": [
+            {
+              "label": "Multibagg",
+              "url": "https://www.multibagg.ai/market-pulse/articles/vintage-coffee-freeze-dried-project-ppt-cmw3dfqkt005o2mphswrm6wi3"
+            }
+          ]
+        },
+        {
+          "text": "MIT 연구팀이 11월 4일 바이알을 자기 구동 와이어에 매달아 연속 동결건조하는 방식과 이 공정의 디지털 트윈을 공개했다 — 바이알이 같은 열·진공 이력을 받아 건조 편차가 줄고, 트윈으로 예측 제어를 설계할 수 있어 사이클 재현성 개선에 참고된다",
+          "links": [
+            {
+              "label": "GEN",
+              "url": "https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/"
+            }
+          ]
+        },
+        {
+          "text": "쎌바이오텍 김포공장이 11월 10일 공개된 취재에서 유산균을 약 96시간 동결건조한 뒤 단백질·다당류로 두 번 코팅하고, 2층 검사공정은 7년 전 도입한 AI 비전으로 정제 균열·이물을 선별한다고 밝혔다 — 생존율을 좌우하는 건조 사이클과 후공정 코팅을 한 흐름으로 관리하는 사례다",
+          "links": [
+            {
+              "label": "파이낸셜뉴스",
+              "url": "https://www.fnnews.com/news/202611101818582345"
+            }
+          ]
+        },
+        {
+          "text": "카자흐스탄 Frutta가 11월 10일 알마티주 일리 지구 공장에 3t들이 동결건조기 3대를 돌려 1사이클 약 24시간, 딸기 원료 시간당 최대 1.5t을 처리하고 포장에 따라 5년 유통기한을 확보한다고 밝혔다 — 대형 배치 3대로 원료 9t을 동시에 건조하는 운영은 배치 편성과 냉동 전처리 용량 설계에 참고된다",
+          "links": [
+            {
+              "label": "FreshPlaza",
+              "url": "https://www.freshplaza.com/north-america/article/9887284/kazakhstan-plant-produces-freeze-dried-fruit-with-a-shelf-life-of-up-to-five-years/"
+            }
+          ]
+        },
+        {
+          "text": "유럽자연냉매협회(Eurammon)가 11월 9일 냉매 선택 가이드를 공개해 암모니아·CO2·탄화수소·물·공기·헬륨을 -130~+200℃, 1kW 미만~20MW 이상 범위에서 4단계로 고르게 했다 — 동결건조 공장의 냉동기·히트펌프·160℃ 공정증기 설비를 냉매별로 비교할 때 출발점이 된다",
+          "links": [
+            {
+              "label": "Refindustry",
+              "url": "https://refindustry.com/news/eurammon-publishes-guide-to-selecting-natural-refrigerants-for-rachp-systems/"
+            }
+          ]
+        },
+        {
+          "text": "B&K Vibro가 11월 9일 Lafarge 프랑스 생피에르라쿠르 시멘트 공장의 진동 감시를 3단계로 확대해 키른·볼밀·분급기·냉각탑에 이어 원료분쇄기·예열탑 팬·클링커 쿨러까지 상시 감시하고 원시 파형은 중앙 진단센터 AI로 보낸다 — 현장 1차 진단과 중앙 AI 2차 진단을 나누는 운영이 대형 설비에 맞다",
+          "links": [
+            {
+              "label": "B&K Vibro",
+              "url": "https://www.bkvibro.com/bk-vibros-monitoring-solution-to-be-installed-throughout-st-pierre-la-cour-cement-plant/"
+            }
+          ]
+        },
+        {
+          "text": "인천공항공사가 11월 8일 제2터미널 수하물 처리시스템에 AI 스마트 모니터링을 도입해 약 630개 소터와 컨베이어 구동모터·수취대를 실시간 감시하고 이상 원인과 정상·주의·위험 3단계를 표시한다 — 컨베이어·모터를 3단계 경보로 관리하는 방식은 PLC 알람 피로를 줄이는 설계에 참고된다",
+          "links": [
+            {
+              "label": "세계일보",
+              "url": "https://www.segye.com/newsView/20261106506088"
+            }
+          ]
+        },
+        {
+          "text": "TKG휴켐스가 11월 4일 여수공장에 CCTV·계측기 기반 상시 이상감지와 질산공정 압축기 예지보전을 도입해 2028년 말까지 구축을 마치겠다고 밝혔다 — 목표는 생산량 5%↑, 비상정지 50%↓, 에너지 15%↓이며, 순찰 공백을 센서로 메우는 것이 첫 단계라는 점이 적용 순서를 보여준다",
+          "links": [
+            {
+              "label": "한국경제",
+              "url": "https://v.daum.net/v/20261104150039014"
+            }
+          ]
+        },
+        {
+          "text": "디플리가 11월 4일 부산 신항 자동화 야드크레인 호이스트 모터 2대와 감속기에 음향 센서를 붙여 하루 약 300회 인양 사이클을 제어신호와 동기화해 이상음을 판별하고 CMS로 알린다 — 비접촉 음향 센서는 개조가 어려운 기존 설비의 상시 감시에 유효하다",
+          "links": [
+            {
+              "label": "beSUCCESS",
+              "url": "https://besuccess.com/?p=187752"
+            }
+          ]
+        },
+        {
+          "text": "센사타가 11월 9일 진동·온도·음향방출·회전속도·습도·자속 6종을 한 센서로 모으는 무선 6VW 시리즈를 발표하고 엣지에서 이상을 1차 판별한 뒤 클라우드에서 잔여수명을 계산한다고 밝혔다(설치 5분 이내·개조 불필요) — 센서 종류와 설치 시간을 줄이는 방향은 다품종 설비 부착 부담을 낮춘다",
+          "links": [
+            {
+              "label": "Electronic Specifier",
+              "url": "https://www.electronicspecifier.com/products/artificial-intelligence/sensata-adds-predictive-maintenance-for-rotary-equipment/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- 농심이 11월 8일 보도된 부산 녹산 수출전문공장에서 PMS로 품목별 설비 조건을 자동 설정하고 딥러닝 품질검사·AMR을 적용해 포장 품목 전환을 120분→30분, 배합수 제조를 115분→30분으로 줄였다 — 동결건조 라인도 제품 교체 때 레시피와 설비 조건을 한 번에 불러오는 구조가 전환 손실을 줄인다 [아시아투데이](https://www.asiatoday.co.kr/kn/view.php?key=20261109010002987)\n- 상하이전기가 11월 10일 가스터빈 블레이드 유연생산라인에 AI 비전·디지털 트윈·로봇을 결합해 무작위 적재 블레이드 픽킹 정확도 99.99% 이상을 달성했고, 용접부는 5G 비전검사로 실시간 결함을 잡으며 SIMPLE 플랫폼은 60기·누적 100만 시간 데이터를 쓴다 — 고가 설비 검사 자동화는 검사 기준 데이터 축적이 먼저다 [네이트/PRNewswire](https://news.nate.com/view/20261110n24976)\n- LG가 11월 5일 16개 계열사 안전혁신 사례 21건 중 15건에 AI를 적용했다고 공개했고, LG전자는 사업장 CCTV 4226대를 AI 관제로 묶어 위험 감지 시 설비 전원을 자동 차단하며 LG화학은 PSM 서류 검토 시간을 98% 줄였다 — 안전 AI를 설비 인터록과 연결하는 것이 다음 단계다 [LG](https://www.lg.co.kr/media/release/30752)\n- 아이벡스가 11월 5일 후성정공 열간단조 스크롤 라인에 AI 비전·로봇 빈피킹·MLOps를 묶은 폐루프 검사 시스템을 구축한다고 밝혔다 — 비정렬 제품을 로봇이 집어 검사 자세를 바꾸고 판정 결과를 다시 학습하는 구조는 형상이 복잡한 부품 검사에 참고된다 [머니투데이](https://www.mt.co.kr/index.php/future/2026/11/05/2026110509434874843)\n- 바이슨이 11월 6일 자동차 단조부품 업체의 노후 인라인 검사기를 모듈형 비전 플랫폼으로 개조해 분당 검사량을 28개→60개로 2.1배 늘리고 과검률을 20%대→0.5% 이내로 낮췄다(구축 10일) — 검사기 교체 대신 광학계와 판정부만 바꾸는 방식은 기존 설비가 많은 현장에 현실적이다 [머니투데이](https://www.mt.co.kr/industry/2026/11/06/2026110410161566666)\n- 인도 Vintage Coffee가 11월 5일 텔랑가나 식품가공단지에 연 5,500t 동결건조 커피 공장을 짓고 유럽산 핵심 설비를 발주했으며 2027 회계연도 상반기(2027년 4~9월) 시운전을 목표로 계획 생산량 상당분의 구매의향서를 확보했다고 밝혔다 — 신규 FD 커피 라인은 설비 발주부터 시운전까지 약 2년이 걸린다는 일정 감각을 준다 [Multibagg](https://www.multibagg.ai/market-pulse/articles/vintage-coffee-freeze-dried-project-ppt-cmw3dfqkt005o2mphswrm6wi3)\n- MIT 연구팀이 11월 4일 바이알을 자기 구동 와이어에 매달아 연속 동결건조하는 방식과 이 공정의 디지털 트윈을 공개했다 — 바이알이 같은 열·진공 이력을 받아 건조 편차가 줄고, 트윈으로 예측 제어를 설계할 수 있어 사이클 재현성 개선에 참고된다 [GEN](https://www.genengnews.com/topics/bioprocessing/suspended-vials-help-optimize-continuous-freeze-drying/)\n- 쎌바이오텍 김포공장이 11월 10일 공개된 취재에서 유산균을 약 96시간 동결건조한 뒤 단백질·다당류로 두 번 코팅하고, 2층 검사공정은 7년 전 도입한 AI 비전으로 정제 균열·이물을 선별한다고 밝혔다 — 생존율을 좌우하는 건조 사이클과 후공정 코팅을 한 흐름으로 관리하는 사례다 [파이낸셜뉴스](https://www.fnnews.com/news/202611101818582345)\n- 카자흐스탄 Frutta가 11월 10일 알마티주 일리 지구 공장에 3t들이 동결건조기 3대를 돌려 1사이클 약 24시간, 딸기 원료 시간당 최대 1.5t을 처리하고 포장에 따라 5년 유통기한을 확보한다고 밝혔다 — 대형 배치 3대로 원료 9t을 동시에 건조하는 운영은 배치 편성과 냉동 전처리 용량 설계에 참고된다 [FreshPlaza](https://www.freshplaza.com/north-america/article/9887284/kazakhstan-plant-produces-freeze-dried-fruit-with-a-shelf-life-of-up-to-five-years/)\n- 유럽자연냉매협회(Eurammon)가 11월 9일 냉매 선택 가이드를 공개해 암모니아·CO2·탄화수소·물·공기·헬륨을 -130~+200℃, 1kW 미만~20MW 이상 범위에서 4단계로 고르게 했다 — 동결건조 공장의 냉동기·히트펌프·160℃ 공정증기 설비를 냉매별로 비교할 때 출발점이 된다 [Refindustry](https://refindustry.com/news/eurammon-publishes-guide-to-selecting-natural-refrigerants-for-rachp-systems/)\n- B&K Vibro가 11월 9일 Lafarge 프랑스 생피에르라쿠르 시멘트 공장의 진동 감시를 3단계로 확대해 키른·볼밀·분급기·냉각탑에 이어 원료분쇄기·예열탑 팬·클링커 쿨러까지 상시 감시하고 원시 파형은 중앙 진단센터 AI로 보낸다 — 현장 1차 진단과 중앙 AI 2차 진단을 나누는 운영이 대형 설비에 맞다 [B&K Vibro](https://www.bkvibro.com/bk-vibros-monitoring-solution-to-be-installed-throughout-st-pierre-la-cour-cement-plant/)\n- 인천공항공사가 11월 8일 제2터미널 수하물 처리시스템에 AI 스마트 모니터링을 도입해 약 630개 소터와 컨베이어 구동모터·수취대를 실시간 감시하고 이상 원인과 정상·주의·위험 3단계를 표시한다 — 컨베이어·모터를 3단계 경보로 관리하는 방식은 PLC 알람 피로를 줄이는 설계에 참고된다 [세계일보](https://www.segye.com/newsView/20261106506088)\n- TKG휴켐스가 11월 4일 여수공장에 CCTV·계측기 기반 상시 이상감지와 질산공정 압축기 예지보전을 도입해 2028년 말까지 구축을 마치겠다고 밝혔다 — 목표는 생산량 5%↑, 비상정지 50%↓, 에너지 15%↓이며, 순찰 공백을 센서로 메우는 것이 첫 단계라는 점이 적용 순서를 보여준다 [한국경제](https://v.daum.net/v/20261104150039014)\n- 디플리가 11월 4일 부산 신항 자동화 야드크레인 호이스트 모터 2대와 감속기에 음향 센서를 붙여 하루 약 300회 인양 사이클을 제어신호와 동기화해 이상음을 판별하고 CMS로 알린다 — 비접촉 음향 센서는 개조가 어려운 기존 설비의 상시 감시에 유효하다 [beSUCCESS](https://besuccess.com/?p=187752)\n- 센사타가 11월 9일 진동·온도·음향방출·회전속도·습도·자속 6종을 한 센서로 모으는 무선 6VW 시리즈를 발표하고 엣지에서 이상을 1차 판별한 뒤 클라우드에서 잔여수명을 계산한다고 밝혔다(설치 5분 이내·개조 불필요) — 센서 종류와 설치 시간을 줄이는 방향은 다품종 설비 부착 부담을 낮춘다 [Electronic Specifier](https://www.electronicspecifier.com/products/artificial-intelligence/sensata-adds-predictive-maintenance-for-rotary-equipment/)"
+    },
     {
       "id": "economy-2026-11-10_00-06-48",
       "category": "economy",
