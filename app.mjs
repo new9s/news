@@ -119,9 +119,13 @@ async function load() {
   try {
     const response = await fetch('./data/news.json', {cache:'no-store',signal:request.signal});
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = validateFeed(await response.json());
+    const raw = await response.text();
+    const data = validateFeed(JSON.parse(raw));
     if (request !== controller) return;
     feed = data;
+    const archiveItems = feed.briefings.reduce((count, briefing) => count + briefing.items.length, 0);
+    const archiveKb = (new TextEncoder().encode(raw).length / 1024).toFixed(1);
+    $('#archive-stats').textContent = `아카이브 ${feed.briefings.length}건 · 기사 ${archiveItems}건 · JSON ${archiveKb} KB`;
     const previousDate = dateInput.value;
     const dates = availableDates(feed.briefings);
     dateInput.replaceChildren(...dates.map(date => {
