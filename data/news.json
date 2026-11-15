@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:05:21+00:00",
+  "updated_at": "2026-11-15T00:06:24+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-15_00-06-26",
+      "category": "economy",
+      "category_label": "제조산업 뉴스 3분야 15건",
+      "date": "2026-11-15",
+      "time": "09:06",
+      "published_at": "2026-11-15T00:06:24+00:00",
+      "items": [
+        {
+          "text": "[11/14 21:35] 아치 시스템스가 방산·규제 제조사용 팩토리 AI 플랫폼을 녹스의 FedRAMP High(Class D) 경계 안 단일 테넌트로 돌릴 수 있게 열었다 — 공장 데이터를 외부 AI로 보내려면 인증 경계 안으로 들어와야 한다는 조건을 보여 주는 사례이며, 식품 GMP 공장은 같은 제약을 망분리와 감사추적 설계로 푸는 문제라 우리 현장과 직접 닿는 지점은 적습니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "MarketScale",
+              "url": "https://www.marketscale.com/industries/industrial-iot/defense-factories-can-now-run-arch-systems-full-ai-platform-in-fedramp-high"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 21:22] 폭스콘이 엔비디아 DGX 슈퍼팟과 자체 산업용 LLM '폭스브레인'으로 자가학습형 AI 팩토리를 가동해 SMT 표면실장 결함 90% 자동 교정, 사출 공정 전환 공수 50% 단축을 냈다고 밝혔다 — 검사 판정을 설비 파라미터 보정까지 되먹임했기 때문에 나온 수치라서, 동결건조 커피의 잔류수분·색차 판정도 선반 온도와 진공도 레시피로 되돌리는 루프가 있어야 같은 효과가 납니다(수치는 회사 발표 주장).",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116308"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 20:31] 헥사곤이 베이커휴즈로부터 비파괴검사 업체 웨이게이트 인수를 마무리하고 3D 치수측정과 산업용 CT·초음파·방사선 검사를 한 사업부로 묶었다 — 바깥 치수와 속 결함을 같은 데이터 체계에 넣겠다는 구상인데, 우리 쪽에서는 분말 입도·밀도와 잔류수분·용해도를 배치 ID 하나로 묶는 일과 같은 구조입니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116306"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 20:23] LMI가 독일 비트로닉의 용접 비드 검사(WSI) 사업부를 인수하고 라인 속도로 구동되는 '비로 WSI'와 공정 데이터 연동 소프트웨어 '웰드루프'를 확보했다 — 샘플 검사를 인라인으로 옮기려면 센서 처리량과 공정 데이터 연동이 동시에 갖춰져야 한다는 사례로, 트레이 적재 상태나 케이크 균열을 인라인으로 보려는 검사 구상에 같은 조건이 걸립니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116305"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 09:54] MES·AI·IoT·로봇·비전검사·SCADA 전문기업들이 한국다크팩토리AI사업협동조합을 출범하고 숙련공의 작업 경험과 공정별 판단 기준을 제조데이터로 체계화하는 공동 실증을 추진한다 — 개별 중소기업이 단독으로 사기 어려운 AI를 조합 단위로 묶어 비용을 나누는 방식이라, 사내 암묵지를 데이터로 남기는 작업의 외부 실증 경로로 쓸 수 있습니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "한국경제TV",
+              "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140016"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 05:45] 독일 데이터센터 19곳을 분석한 연구에서 13곳이 대수층 열저장(ATES)으로 연 707GWh를 공급해 약 2만 동 난방을 감당할 수 있다는 결과가 나왔다 — 데이터센터 전력의 30~50%가 냉각에 들어가고 열회수율 60%를 가정했기 때문에 나온 값이라, 동결건조기 냉동기 응축 폐열을 공정 온수로 올려 쓸 때도 같은 회수율과 수질·주입온도 제약이 그대로 적용됩니다(모델링 결과).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/aquifer-storage-can-channel-german-data-centre-waste-heat-to-20000-buildings/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 15:12] 부-스타가 미쓰비시전기 클리마베네타와 데이터센터용 냉각유체분배장치 ME-CDU(설계조건 1,100~1,168kW)와 오일프리 자기부상 칠러 TECS-W(모듈당 281~528kW)를 내놨다 — CDU가 판형 열교환기로 시설 측 냉각수와 서버 측 냉각유체 회로를 갈라 수질·압력 오염을 막는 구조인데, 동결건조기 브라인 회로와 칠러 회로를 분리하는 우리 배관 설계와 같은 원리입니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "냉동공조저널",
+              "url": "https://www.hvacrj.co.kr/news/articleView.html?idxno=31474"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 14:18] 식용곤충 단백질을 다룬 Frontiers in Nutrition 리뷰가 건조 방식이 단백질의 미세구조·기능성·저장 안정성을 결정한다고 정리했다 — 건조를 단순 수분 제거가 아니라 열·수화 스트레스로 규정했기 때문에, 같은 원료에 동결건조와 열풍건조를 적용하면 재수화성과 향미 보존이 갈리는 이유가 설명됩니다(원료 조단백 35~60%, 건조중량 기준).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/drying-methods-reshape-edible-insect-protein-structure-functionality-and-storage-stability/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 12:20] 항체-약물 접합체(ADC)를 제형부터 제조 단계까지 동결건조로 안정화하는 조건을 정리한 연구가 나왔다 — 2025년 7월 기준 승인 19건(2건 철회)에 임상 파이프라인 370건이 걸린 품목군이라 사이클 편차가 곧 허가 리스크가 되는데, 식품인 커피에서는 같은 편차가 잔류수분 규격 이탈과 향미 손실로 나타납니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/lyophilization-stabilizes-antibody-drug-conjugate-products-across-formulation-and-manufacturing-stages/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 11:17] 자당 용액 동결건조에서 2.45GHz 마이크로파 흡수는 얼음이나 용질이 아니라 동결농축액의 유리수 부피분율이 지배한다는 측정 결과가 나왔다 — 고형분 농도가 다르면 같은 마이크로파 출력에서 승화 속도가 달라진다는 뜻이라, 추출 농도가 배치마다 흔들리는 커피 농축액에 마이크로파 보조 건조를 붙일 때는 출력을 농도에 맞춰 보정해야 합니다(실험실 규모, 5~72wt% 자당).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/free-water-governs-microwave-heating-in-freeze-drying-solutions-of-sucrose/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 21:08] 자이스가 외부 트래커와 마커 없이 3.3m 반경에서 100µm 미만 측정 불확도를 내는 계측 로봇 '탈로스'를 공개했다 — 로봇 자체 키네마틱스만으로 오차를 잡고 200Hz로 스캔하기 때문에 대형 부품을 라인 옆에서 뗐다 붙이지 않고 잴 수 있어, 챔버·트레이 같은 대형 치공구 측정에 쓸 수 있습니다(수치는 사양 기준, 정량 성과 없음).",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116307"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 20:59] 록웰오토메이션이 11월 10일 내놓은 PanelView Pro는 기존 FactoryTalk View ME 화면과 판넬 컷아웃을 그대로 쓰고 디스플레이·로직 모듈을 분리해 모듈 단위 교체를 가능하게 한다 — HMI 교체 비용의 핵심인 화면 재작성과 판넬 가공을 없앴기 때문에 예비품 목록이 완제품에서 모듈로 바뀌며, WinCC를 쓰는 우리 현장도 노후 HMI 교체 시 화면 자산 재사용과 예비품 단위를 먼저 계산해야 한다는 기준을 줍니다(2026년 4분기 출시 예정).",
+          "links": [
+            {
+              "label": "MarketScale",
+              "url": "https://www.marketscale.com/industries/industrial-iot/rockwells-panelview-pro-lets-plants-upgrade-hmi-screens-without-rewriting-apps"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 20:09] 로봇 500만 대 시대에 달력식 주기 점검으로는 관절·감속기 마모를 못 잡는다는 지적과 함께, 진동·모터 전류·토크 신호로 감속기 백래시와 과부하를 조기에 잡는 예지보전 방식이 제시됐다 — 같은 로봇도 공작물 무게와 모션 궤적에 따라 부하가 달라 공정 데이터와 함께 봐야 오탐이 줄어들므로, 진공펌프와 냉동 압축기 진동 감시에도 운전 조건 태깅이 먼저 붙어야 합니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116303"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 14:26] 프랑스에서 10월 11~12일 밤 약 700개 소매점 냉동설비의 제상(defrost) 설정을 원격 조작당해 식품이 부패하고 최소 15건의 화재가 났으며, 11월 2일 2차 공격은 9개국으로 번졌다(ANSSI) — 냉동 컨트롤러가 외부에서 제상 모드를 바꿀 수 있었기 때문에 벌어진 일이라, 원격 접속 포트와 제상 모드 권한을 분리하지 않으면 같은 사고가 우리 PLC에도 그대로 적용됩니다.",
+          "links": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/explained/explained-sci-tech/europe-supermarket-fridge-hack-india-cold-chain-10962181/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 10:27] 영주에서 열린 한국베어링컨퍼런스가 '로봇 대전환 시대, 베어링의 미래'를 주제로 150여 명이 참석해 로봇용 고하중 베어링 대응을 논의했다 — 로봇 감속기·관절에 들어가는 베어링 수명이 라인 정지와 직결되기 때문에 정비 부품으로서 조달 리드타임 관리가 중요해지며, 영주 첨단베어링 국가산단(사업비 2,964억 원, 118만㎡)이 국산 공급 기반이 될 수 있습니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "영주시민신문",
+              "url": "https://www.yjinews.com/news/articleView.html?idxno=93222"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/14 21:35] 아치 시스템스가 방산·규제 제조사용 팩토리 AI 플랫폼을 녹스의 FedRAMP High(Class D) 경계 안 단일 테넌트로 돌릴 수 있게 열었다 — 공장 데이터를 외부 AI로 보내려면 인증 경계 안으로 들어와야 한다는 조건을 보여 주는 사례이며, 식품 GMP 공장은 같은 제약을 망분리와 감사추적 설계로 푸는 문제라 우리 현장과 직접 닿는 지점은 적습니다(정량 성과 없음). [MarketScale](https://www.marketscale.com/industries/industrial-iot/defense-factories-can-now-run-arch-systems-full-ai-platform-in-fedramp-high)\n[11/14 21:22] 폭스콘이 엔비디아 DGX 슈퍼팟과 자체 산업용 LLM '폭스브레인'으로 자가학습형 AI 팩토리를 가동해 SMT 표면실장 결함 90% 자동 교정, 사출 공정 전환 공수 50% 단축을 냈다고 밝혔다 — 검사 판정을 설비 파라미터 보정까지 되먹임했기 때문에 나온 수치라서, 동결건조 커피의 잔류수분·색차 판정도 선반 온도와 진공도 레시피로 되돌리는 루프가 있어야 같은 효과가 납니다(수치는 회사 발표 주장). [헬로티](https://www.hellot.net/news/article.html?no=116308)\n[11/14 20:31] 헥사곤이 베이커휴즈로부터 비파괴검사 업체 웨이게이트 인수를 마무리하고 3D 치수측정과 산업용 CT·초음파·방사선 검사를 한 사업부로 묶었다 — 바깥 치수와 속 결함을 같은 데이터 체계에 넣겠다는 구상인데, 우리 쪽에서는 분말 입도·밀도와 잔류수분·용해도를 배치 ID 하나로 묶는 일과 같은 구조입니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116306)\n[11/14 20:23] LMI가 독일 비트로닉의 용접 비드 검사(WSI) 사업부를 인수하고 라인 속도로 구동되는 '비로 WSI'와 공정 데이터 연동 소프트웨어 '웰드루프'를 확보했다 — 샘플 검사를 인라인으로 옮기려면 센서 처리량과 공정 데이터 연동이 동시에 갖춰져야 한다는 사례로, 트레이 적재 상태나 케이크 균열을 인라인으로 보려는 검사 구상에 같은 조건이 걸립니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116305)\n[11/14 09:54] MES·AI·IoT·로봇·비전검사·SCADA 전문기업들이 한국다크팩토리AI사업협동조합을 출범하고 숙련공의 작업 경험과 공정별 판단 기준을 제조데이터로 체계화하는 공동 실증을 추진한다 — 개별 중소기업이 단독으로 사기 어려운 AI를 조합 단위로 묶어 비용을 나누는 방식이라, 사내 암묵지를 데이터로 남기는 작업의 외부 실증 경로로 쓸 수 있습니다(정량 성과 없음). [한국경제TV](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140016)\n[11/15 05:45] 독일 데이터센터 19곳을 분석한 연구에서 13곳이 대수층 열저장(ATES)으로 연 707GWh를 공급해 약 2만 동 난방을 감당할 수 있다는 결과가 나왔다 — 데이터센터 전력의 30~50%가 냉각에 들어가고 열회수율 60%를 가정했기 때문에 나온 값이라, 동결건조기 냉동기 응축 폐열을 공정 온수로 올려 쓸 때도 같은 회수율과 수질·주입온도 제약이 그대로 적용됩니다(모델링 결과). [Bioengineer.org](https://bioengineer.org/aquifer-storage-can-channel-german-data-centre-waste-heat-to-20000-buildings/)\n[11/14 15:12] 부-스타가 미쓰비시전기 클리마베네타와 데이터센터용 냉각유체분배장치 ME-CDU(설계조건 1,100~1,168kW)와 오일프리 자기부상 칠러 TECS-W(모듈당 281~528kW)를 내놨다 — CDU가 판형 열교환기로 시설 측 냉각수와 서버 측 냉각유체 회로를 갈라 수질·압력 오염을 막는 구조인데, 동결건조기 브라인 회로와 칠러 회로를 분리하는 우리 배관 설계와 같은 원리입니다(정량 성과 없음). [냉동공조저널](https://www.hvacrj.co.kr/news/articleView.html?idxno=31474)\n[11/14 14:18] 식용곤충 단백질을 다룬 Frontiers in Nutrition 리뷰가 건조 방식이 단백질의 미세구조·기능성·저장 안정성을 결정한다고 정리했다 — 건조를 단순 수분 제거가 아니라 열·수화 스트레스로 규정했기 때문에, 같은 원료에 동결건조와 열풍건조를 적용하면 재수화성과 향미 보존이 갈리는 이유가 설명됩니다(원료 조단백 35~60%, 건조중량 기준). [Bioengineer.org](https://bioengineer.org/drying-methods-reshape-edible-insect-protein-structure-functionality-and-storage-stability/)\n[11/14 12:20] 항체-약물 접합체(ADC)를 제형부터 제조 단계까지 동결건조로 안정화하는 조건을 정리한 연구가 나왔다 — 2025년 7월 기준 승인 19건(2건 철회)에 임상 파이프라인 370건이 걸린 품목군이라 사이클 편차가 곧 허가 리스크가 되는데, 식품인 커피에서는 같은 편차가 잔류수분 규격 이탈과 향미 손실로 나타납니다(정량 성과 없음). [Bioengineer.org](https://bioengineer.org/lyophilization-stabilizes-antibody-drug-conjugate-products-across-formulation-and-manufacturing-stages/)\n[11/14 11:17] 자당 용액 동결건조에서 2.45GHz 마이크로파 흡수는 얼음이나 용질이 아니라 동결농축액의 유리수 부피분율이 지배한다는 측정 결과가 나왔다 — 고형분 농도가 다르면 같은 마이크로파 출력에서 승화 속도가 달라진다는 뜻이라, 추출 농도가 배치마다 흔들리는 커피 농축액에 마이크로파 보조 건조를 붙일 때는 출력을 농도에 맞춰 보정해야 합니다(실험실 규모, 5~72wt% 자당). [Bioengineer.org](https://bioengineer.org/free-water-governs-microwave-heating-in-freeze-drying-solutions-of-sucrose/)\n[11/14 21:08] 자이스가 외부 트래커와 마커 없이 3.3m 반경에서 100µm 미만 측정 불확도를 내는 계측 로봇 '탈로스'를 공개했다 — 로봇 자체 키네마틱스만으로 오차를 잡고 200Hz로 스캔하기 때문에 대형 부품을 라인 옆에서 뗐다 붙이지 않고 잴 수 있어, 챔버·트레이 같은 대형 치공구 측정에 쓸 수 있습니다(수치는 사양 기준, 정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116307)\n[11/14 20:59] 록웰오토메이션이 11월 10일 내놓은 PanelView Pro는 기존 FactoryTalk View ME 화면과 판넬 컷아웃을 그대로 쓰고 디스플레이·로직 모듈을 분리해 모듈 단위 교체를 가능하게 한다 — HMI 교체 비용의 핵심인 화면 재작성과 판넬 가공을 없앴기 때문에 예비품 목록이 완제품에서 모듈로 바뀌며, WinCC를 쓰는 우리 현장도 노후 HMI 교체 시 화면 자산 재사용과 예비품 단위를 먼저 계산해야 한다는 기준을 줍니다(2026년 4분기 출시 예정). [MarketScale](https://www.marketscale.com/industries/industrial-iot/rockwells-panelview-pro-lets-plants-upgrade-hmi-screens-without-rewriting-apps)\n[11/14 20:09] 로봇 500만 대 시대에 달력식 주기 점검으로는 관절·감속기 마모를 못 잡는다는 지적과 함께, 진동·모터 전류·토크 신호로 감속기 백래시와 과부하를 조기에 잡는 예지보전 방식이 제시됐다 — 같은 로봇도 공작물 무게와 모션 궤적에 따라 부하가 달라 공정 데이터와 함께 봐야 오탐이 줄어들므로, 진공펌프와 냉동 압축기 진동 감시에도 운전 조건 태깅이 먼저 붙어야 합니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116303)\n[11/14 14:26] 프랑스에서 10월 11~12일 밤 약 700개 소매점 냉동설비의 제상(defrost) 설정을 원격 조작당해 식품이 부패하고 최소 15건의 화재가 났으며, 11월 2일 2차 공격은 9개국으로 번졌다(ANSSI) — 냉동 컨트롤러가 외부에서 제상 모드를 바꿀 수 있었기 때문에 벌어진 일이라, 원격 접속 포트와 제상 모드 권한을 분리하지 않으면 같은 사고가 우리 PLC에도 그대로 적용됩니다. [The Indian Express](https://indianexpress.com/article/explained/explained-sci-tech/europe-supermarket-fridge-hack-india-cold-chain-10962181/)\n[11/14 10:27] 영주에서 열린 한국베어링컨퍼런스가 '로봇 대전환 시대, 베어링의 미래'를 주제로 150여 명이 참석해 로봇용 고하중 베어링 대응을 논의했다 — 로봇 감속기·관절에 들어가는 베어링 수명이 라인 정지와 직결되기 때문에 정비 부품으로서 조달 리드타임 관리가 중요해지며, 영주 첨단베어링 국가산단(사업비 2,964억 원, 118만㎡)이 국산 공급 기반이 될 수 있습니다(정량 성과 없음). [영주시민신문](https://www.yjinews.com/news/articleView.html?idxno=93222)"
+    },
     {
       "id": "economy-2026-11-14_00-05-22",
       "category": "economy",
