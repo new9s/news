@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T00:06:24+00:00",
+  "updated_at": "2026-11-16T00:07:25+00:00",
   "briefings": [
+    {
+      "id": "economy-2026-11-16_00-07-26",
+      "category": "economy",
+      "category_label": "제조산업 뉴스 3분야 15건",
+      "date": "2026-11-16",
+      "time": "09:07",
+      "published_at": "2026-11-16T00:07:25+00:00",
+      "items": [
+        {
+          "text": "[11/15 20:55] 광주·전남 제조 230개사 조사에서 AI 도입 검토 85%, 실제 운용 4%, 장벽 1위가 초기 투자비 27% — 동결건조기 한 대를 자동화해도 진공·냉동·계측 부대설비 개선비가 함께 붙어서, 투자비를 설비 단독으로 잡으면 사업성이 서지 않습니다.",
+          "links": [
+            {
+              "label": "KBC광주방송",
+              "url": "https://www.ikbc.co.kr/article/view/kbc202611150040"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 19:34] M.AX 클라우드 연계의 반대급부로 PLC를 직접 겨냥한 CyberAv3ngers, 제약사 랜섬웨어로 전 세계 생산라인이 멈춘 사례를 들어 IDMZ·마이크로세그멘테이션을 제시 — 동결건조기 제어망은 폐쇄로 두고 품질 데이터만 단방향으로 내보내는 분리 설계가 필요합니다.",
+          "links": [
+            {
+              "label": "데이터넷",
+              "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300167"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 19:48] 시계열 로그·교대일지·작업지시서가 태그명과 자산코드 표기 불일치로 끊겨 있어 온톨로지로 맥락을 붙이는 '산업용 기억'론 — 숙련 운전원이 물러나기 전에 사이클 로그와 육필 일지를 같은 설비 ID로 묶어두지 않으면 AI에 넣을 데이터가 남지 않습니다.",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116312"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 23:35] 식품진흥원이 11월 10일 워크숍에서 공정 조건·품질지표 매핑과 AI 예측·추천, 결과 시각화를 논의(정량 성과 없음) — 레시피의 선반온도·챔버압력을 최종 수분·향미 지표와 어떤 주기로 짝지을지가 정해져야 시뮬레이션 결과가 현장 값으로 쓰입니다.",
+          "links": [
+            {
+              "label": "한국영농신문",
+              "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71837"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 19:46] TÜV SÜD·Accenture가 디지털 트윈으로 AMR 안전성을 먼저 검증해 가동을 최대 30% 앞당길 수 있다고 발표 — TÜV SÜD 추정치를 인용한 발표 주장이고 현장 검사는 그대로 남습니다. 가상 시운전 증거를 인증에 쓰려면 트윈 정확도와 모델 추적성 기준을 먼저 맞춰야 합니다.",
+          "links": [
+            {
+              "label": "MarketScale",
+              "url": "https://www.marketscale.com/industries/industrial-iot/tv-sd-says-simulated-robot-safety-checks-could-start-production-up-to-30-sooner"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 20:53] 스위스 Embodied AI가 9개월 만에 산업용 휴머노이드 AIR를 공개, 케이블 핸들링 신뢰성 98%(자사 목표 90%)는 자사 발표 — 제조업 22%가 2년 내 피지컬 AI 도입을 계획(현재 9%)한다는 조사도 함께 나왔습니다. 동결건조 챔버 앞 저온·진공 구간은 검증된 평지 공장과 조건이 달라 트레이 적재 자동화는 별도 실증이 선행돼야 합니다.",
+          "links": [
+            {
+              "label": "Robotics & Automation News",
+              "url": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 10:52] 이마트·롯데마트는 외부 원격 통합제어를 쓰지 않고, 삼성서울병원과 적십자 혈액관리본부는 외부망과 분리 — 유럽 사고의 핵심은 관리자 권한이 뚫리면 다수 설비가 동시에 조작된다는 점이라, 냉동기 유지보수용 원격 접속 경로와 온도 설정 변경 이력을 함께 남겨야 합니다.",
+          "links": [
+            {
+              "label": "한스경제",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883296"
+            }
+          ]
+        },
+        {
+          "text": "[11/16 07:34] 식약처가 지난달 말 대웅제약·지씨셀·지오영·CDMO에 냉장·냉동 설비 보안 공문을 발송, 프랑스에서는 혈액 보관 설비 온도가 영하 30도에서 110도까지 올라간 사례 — 보톡스는 WHO 기준 2~8도 유지가 필수라 온도 이탈이 곧 제품 폐기로 이어집니다. 냉장·냉동 보관 구간의 온도 이력 관리가 같은 방식으로 요구됩니다.",
+          "links": [
+            {
+              "label": "Chosunbiz",
+              "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/2RNH5ZGU5RFFTEVWLQ4XCQ775E/"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 14:30] 호주 보고서에서 HFC-134a 애프터마켓 수요가 2025년 762톤으로 사상 최대인데 HFO-1234yf는 연 10톤 미만, 2028년부터 공급 압박 — 대체 냉매 전환이 규제 속도를 못 따라가면 정비 단가가 먼저 오릅니다. 냉매 재고·회수·재생 이력을 지금 관리해야 원가와 규제 대응이 같이 갑니다.",
+          "links": [
+            {
+              "label": "Paint & Panel",
+              "url": "https://www.paintandpanel.com.au/news/news/vehicle-air-conditioning-faces-refrigerant-supply-squeeze"
+            }
+          ]
+        },
+        {
+          "text": "[11/16 08:32] 다임테크놀로지가 SEMICON Europa 2026에서 OHT 약 1000대를 단일 AI로 통합 제어해 교착을 없애고, 하드웨어 교체 없이 로봇 생산성 20% 이상을 올렸다고 발표(자사 PoC 기준) — 개별 설비 자동화만으로 전체 흐름이 최적화되지 않는다는 전제가, 3교대에서 설비·반송·창고를 함께 스케줄링하는 문제와 맞닿습니다.",
+          "links": [
+            {
+              "label": "뉴스톱",
+              "url": "https://www.newstopkorea.com/news/articleView.html?idxno=49057"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 13:28] LS일렉트릭 라피넷이 현대차 울산 EV 신공장 설비 I/O 주 통신망과 기아 PV5 라인에 적용, IEC 61158 Type 21이면서 EtherNet/IP·Modbus TCP를 함께 지원하고 PV5에는 Safety I/O까지 적용 — PLC와 현장 I/O 사이 규격을 섞어 쓸 수 있다는 뜻이라, GEA 설비와 국산 제어망을 병행할 때 안전 신호 분리가 관건입니다.",
+          "links": [
+            {
+              "label": "데일리시큐",
+              "url": "https://dailysecu.com/news/articleView.html?idxno=209531"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 18:27] 두산에너빌리티가 운전 데이터로 이상 징후를 조기경보하는 PreVision과 AI 비파괴검사 미세균열 탐지를 발전사 100여 명에게 공개 — 제작·정비 경험과 운전 데이터를 결합한 사례입니다. 동결건조기도 선반온도·챔버압력·콘덴서 온도 이력이 같은 구조의 조기경보 입력이 됩니다.",
+          "links": [
+            {
+              "label": "에너지신문",
+              "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229785"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 13:46] 안동 실증센터에서 AI 선별 정확도 사과 94.69%를 기록했고 모델은 초당 32개를 판독하지만 실제 선별설비는 초당 3개만 처리 — 병목이 판독에서 이송·적재로 옮겨간 사례입니다. 비전 검사를 붙일 때 카메라 해상도보다 트레이 이송 속도가 실제 처리량을 정합니다.",
+          "links": [
+            {
+              "label": "전자신문",
+              "url": "https://etnews.com/20261115000045"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 14:41] KT가 인천 남동산단 20개사에 AI 화재감지기 105대를 구축, 수만 건 감지 이력으로 패턴을 판정해 관제센터가 전화·문자·119 자동 신고 — 상주 인력이 적은 야간·새벽 대응을 겨냥한 구조입니다. 3교대 야간조의 순찰 부담을 센서 판정으로 나눌 수 있는지가 관건입니다.",
+          "links": [
+            {
+              "label": "디지털데일리",
+              "url": "https://www.ddaily.co.kr/page/view/2026111514410482722"
+            }
+          ]
+        },
+        {
+          "text": "[11/16 06:54] 삼성전자·SK하이닉스·마이크론이 SEMI와 함께 웨이퍼 팹 이동로봇 충전 규격 5개 영역(배터리 규격·BMS 규약·접속 단자·거치대 구조·충전 상태 교신)을 표준화 협의 — 강제성 없는 자율 표준이고 절감 규모는 미공개입니다. AGV·AMR 도입 전에 벤더별 충전 규격이 겹치는지 확인해야 거치대와 예비 부품을 이중으로 사지 않습니다.",
+          "links": [
+            {
+              "label": "글로벌이코노믹",
+              "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611160645377351fbbec65dfb_1"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/15 20:55] 광주·전남 제조 230개사 조사에서 AI 도입 검토 85%, 실제 운용 4%, 장벽 1위가 초기 투자비 27% — 동결건조기 한 대를 자동화해도 진공·냉동·계측 부대설비 개선비가 함께 붙어서, 투자비를 설비 단독으로 잡으면 사업성이 서지 않습니다. [KBC광주방송](https://www.ikbc.co.kr/article/view/kbc202611150040)\n[11/15 19:34] M.AX 클라우드 연계의 반대급부로 PLC를 직접 겨냥한 CyberAv3ngers, 제약사 랜섬웨어로 전 세계 생산라인이 멈춘 사례를 들어 IDMZ·마이크로세그멘테이션을 제시 — 동결건조기 제어망은 폐쇄로 두고 품질 데이터만 단방향으로 내보내는 분리 설계가 필요합니다. [데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=300167)\n[11/15 19:48] 시계열 로그·교대일지·작업지시서가 태그명과 자산코드 표기 불일치로 끊겨 있어 온톨로지로 맥락을 붙이는 '산업용 기억'론 — 숙련 운전원이 물러나기 전에 사이클 로그와 육필 일지를 같은 설비 ID로 묶어두지 않으면 AI에 넣을 데이터가 남지 않습니다. [헬로티](https://www.hellot.net/news/article.html?no=116312)\n[11/15 23:35] 식품진흥원이 11월 10일 워크숍에서 공정 조건·품질지표 매핑과 AI 예측·추천, 결과 시각화를 논의(정량 성과 없음) — 레시피의 선반온도·챔버압력을 최종 수분·향미 지표와 어떤 주기로 짝지을지가 정해져야 시뮬레이션 결과가 현장 값으로 쓰입니다. [한국영농신문](https://www.youngnong.co.kr/news/articleView.html?idxno=71837)\n[11/15 19:46] TÜV SÜD·Accenture가 디지털 트윈으로 AMR 안전성을 먼저 검증해 가동을 최대 30% 앞당길 수 있다고 발표 — TÜV SÜD 추정치를 인용한 발표 주장이고 현장 검사는 그대로 남습니다. 가상 시운전 증거를 인증에 쓰려면 트윈 정확도와 모델 추적성 기준을 먼저 맞춰야 합니다. [MarketScale](https://www.marketscale.com/industries/industrial-iot/tv-sd-says-simulated-robot-safety-checks-could-start-production-up-to-30-sooner)\n[11/15 20:53] 스위스 Embodied AI가 9개월 만에 산업용 휴머노이드 AIR를 공개, 케이블 핸들링 신뢰성 98%(자사 목표 90%)는 자사 발표 — 제조업 22%가 2년 내 피지컬 AI 도입을 계획(현재 9%)한다는 조사도 함께 나왔습니다. 동결건조 챔버 앞 저온·진공 구간은 검증된 평지 공장과 조건이 달라 트레이 적재 자동화는 별도 실증이 선행돼야 합니다. [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/)\n[11/15 10:52] 이마트·롯데마트는 외부 원격 통합제어를 쓰지 않고, 삼성서울병원과 적십자 혈액관리본부는 외부망과 분리 — 유럽 사고의 핵심은 관리자 권한이 뚫리면 다수 설비가 동시에 조작된다는 점이라, 냉동기 유지보수용 원격 접속 경로와 온도 설정 변경 이력을 함께 남겨야 합니다. [한스경제](http://www.hansbiz.co.kr/news/articleView.html?idxno=883296)\n[11/16 07:34] 식약처가 지난달 말 대웅제약·지씨셀·지오영·CDMO에 냉장·냉동 설비 보안 공문을 발송, 프랑스에서는 혈액 보관 설비 온도가 영하 30도에서 110도까지 올라간 사례 — 보톡스는 WHO 기준 2~8도 유지가 필수라 온도 이탈이 곧 제품 폐기로 이어집니다. 냉장·냉동 보관 구간의 온도 이력 관리가 같은 방식으로 요구됩니다. [Chosunbiz](https://biz.chosun.com/science-chosun/bio/2026/11/16/2RNH5ZGU5RFFTEVWLQ4XCQ775E/)\n[11/15 14:30] 호주 보고서에서 HFC-134a 애프터마켓 수요가 2025년 762톤으로 사상 최대인데 HFO-1234yf는 연 10톤 미만, 2028년부터 공급 압박 — 대체 냉매 전환이 규제 속도를 못 따라가면 정비 단가가 먼저 오릅니다. 냉매 재고·회수·재생 이력을 지금 관리해야 원가와 규제 대응이 같이 갑니다. [Paint & Panel](https://www.paintandpanel.com.au/news/news/vehicle-air-conditioning-faces-refrigerant-supply-squeeze)\n[11/16 08:32] 다임테크놀로지가 SEMICON Europa 2026에서 OHT 약 1000대를 단일 AI로 통합 제어해 교착을 없애고, 하드웨어 교체 없이 로봇 생산성 20% 이상을 올렸다고 발표(자사 PoC 기준) — 개별 설비 자동화만으로 전체 흐름이 최적화되지 않는다는 전제가, 3교대에서 설비·반송·창고를 함께 스케줄링하는 문제와 맞닿습니다. [뉴스톱](https://www.newstopkorea.com/news/articleView.html?idxno=49057)\n[11/15 13:28] LS일렉트릭 라피넷이 현대차 울산 EV 신공장 설비 I/O 주 통신망과 기아 PV5 라인에 적용, IEC 61158 Type 21이면서 EtherNet/IP·Modbus TCP를 함께 지원하고 PV5에는 Safety I/O까지 적용 — PLC와 현장 I/O 사이 규격을 섞어 쓸 수 있다는 뜻이라, GEA 설비와 국산 제어망을 병행할 때 안전 신호 분리가 관건입니다. [데일리시큐](https://dailysecu.com/news/articleView.html?idxno=209531)\n[11/15 18:27] 두산에너빌리티가 운전 데이터로 이상 징후를 조기경보하는 PreVision과 AI 비파괴검사 미세균열 탐지를 발전사 100여 명에게 공개 — 제작·정비 경험과 운전 데이터를 결합한 사례입니다. 동결건조기도 선반온도·챔버압력·콘덴서 온도 이력이 같은 구조의 조기경보 입력이 됩니다. [에너지신문](https://www.energy-news.co.kr/news/articleView.html?idxno=229785)\n[11/15 13:46] 안동 실증센터에서 AI 선별 정확도 사과 94.69%를 기록했고 모델은 초당 32개를 판독하지만 실제 선별설비는 초당 3개만 처리 — 병목이 판독에서 이송·적재로 옮겨간 사례입니다. 비전 검사를 붙일 때 카메라 해상도보다 트레이 이송 속도가 실제 처리량을 정합니다. [전자신문](https://etnews.com/20261115000045)\n[11/15 14:41] KT가 인천 남동산단 20개사에 AI 화재감지기 105대를 구축, 수만 건 감지 이력으로 패턴을 판정해 관제센터가 전화·문자·119 자동 신고 — 상주 인력이 적은 야간·새벽 대응을 겨냥한 구조입니다. 3교대 야간조의 순찰 부담을 센서 판정으로 나눌 수 있는지가 관건입니다. [디지털데일리](https://www.ddaily.co.kr/page/view/2026111514410482722)\n[11/16 06:54] 삼성전자·SK하이닉스·마이크론이 SEMI와 함께 웨이퍼 팹 이동로봇 충전 규격 5개 영역(배터리 규격·BMS 규약·접속 단자·거치대 구조·충전 상태 교신)을 표준화 협의 — 강제성 없는 자율 표준이고 절감 규모는 미공개입니다. AGV·AMR 도입 전에 벤더별 충전 규격이 겹치는지 확인해야 거치대와 예비 부품을 이중으로 사지 않습니다. [글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/11/202611160645377351fbbec65dfb_1)"
+    },
     {
       "id": "economy-2026-11-15_00-06-26",
       "category": "economy",
