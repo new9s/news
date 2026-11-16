@@ -6,8 +6,14 @@ export function filterBriefings(briefings, {date = '', category = 'all', query =
 }
 
 export function categoryLabels(briefings, category) {
+  const defaults = {
+    economy: '경제',
+    'manufacturing-ai': '제조산업 AI',
+    'freeze-drying-equipment': '동결건조·핵심 설비',
+    'maintenance-automation': '설비보전·자동화'
+  };
   return [...new Set(briefings.filter(b => b.category === category).map(b => b.category_label))].join(' · ')
-    || (category === 'economy' ? '경제' : '제조 AI');
+    || defaults[category] || category;
 }
 
 export function safeUrl(value) {
@@ -22,7 +28,7 @@ export function validateFeed(feed) {
   const text = value => typeof value === 'string';
   const iso = value => text(value) && Number.isFinite(Date.parse(value));
   if (!feed || feed.schema_version !== 1 || !iso(feed.updated_at) || !Array.isArray(feed.briefings)
-    || !feed.briefings.every(b => b && text(b.id) && ['manufacturing-ai','economy'].includes(b.category)
+    || !feed.briefings.every(b => b && text(b.id) && ['manufacturing-ai','freeze-drying-equipment','maintenance-automation','economy'].includes(b.category)
       && text(b.category_label) && /^\d{4}-\d{2}-\d{2}$/.test(b.date) && /^\d{2}:\d{2}$/.test(b.time)
       && iso(b.published_at) && text(b.raw_text) && Array.isArray(b.items)
       && b.items.every(item => item && text(item.text) && Array.isArray(item.links)

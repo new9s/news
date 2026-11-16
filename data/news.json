@@ -3,9 +3,9 @@
   "updated_at": "2026-11-16T00:07:25+00:00",
   "briefings": [
     {
-      "id": "economy-2026-11-16_00-07-26",
-      "category": "economy",
-      "category_label": "제조산업 뉴스 3분야 15건",
+      "id": "manufacturing-ai-2026-11-16_00-07-26",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI",
       "date": "2026-11-16",
       "time": "09:07",
       "published_at": "2026-11-16T00:07:25+00:00",
@@ -63,34 +63,18 @@
               "url": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/"
             }
           ]
-        },
-        {
-          "text": "[11/15 10:52] 이마트·롯데마트는 외부 원격 통합제어를 쓰지 않고, 삼성서울병원과 적십자 혈액관리본부는 외부망과 분리 — 유럽 사고의 핵심은 관리자 권한이 뚫리면 다수 설비가 동시에 조작된다는 점이라, 냉동기 유지보수용 원격 접속 경로와 온도 설정 변경 이력을 함께 남겨야 합니다.",
-          "links": [
-            {
-              "label": "한스경제",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883296"
-            }
-          ]
-        },
-        {
-          "text": "[11/16 07:34] 식약처가 지난달 말 대웅제약·지씨셀·지오영·CDMO에 냉장·냉동 설비 보안 공문을 발송, 프랑스에서는 혈액 보관 설비 온도가 영하 30도에서 110도까지 올라간 사례 — 보톡스는 WHO 기준 2~8도 유지가 필수라 온도 이탈이 곧 제품 폐기로 이어집니다. 냉장·냉동 보관 구간의 온도 이력 관리가 같은 방식으로 요구됩니다.",
-          "links": [
-            {
-              "label": "Chosunbiz",
-              "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/2RNH5ZGU5RFFTEVWLQ4XCQ775E/"
-            }
-          ]
-        },
-        {
-          "text": "[11/15 14:30] 호주 보고서에서 HFC-134a 애프터마켓 수요가 2025년 762톤으로 사상 최대인데 HFO-1234yf는 연 10톤 미만, 2028년부터 공급 압박 — 대체 냉매 전환이 규제 속도를 못 따라가면 정비 단가가 먼저 오릅니다. 냉매 재고·회수·재생 이력을 지금 관리해야 원가와 규제 대응이 같이 갑니다.",
-          "links": [
-            {
-              "label": "Paint & Panel",
-              "url": "https://www.paintandpanel.com.au/news/news/vehicle-air-conditioning-faces-refrigerant-supply-squeeze"
-            }
-          ]
-        },
+        }
+      ],
+      "raw_text": "[11/15 20:55] 광주·전남 제조 230개사 조사에서 AI 도입 검토 85%, 실제 운용 4%, 장벽 1위가 초기 투자비 27% — 동결건조기 한 대를 자동화해도 진공·냉동·계측 부대설비 개선비가 함께 붙어서, 투자비를 설비 단독으로 잡으면 사업성이 서지 않습니다. [KBC광주방송](https://www.ikbc.co.kr/article/view/kbc202611150040)\n[11/15 19:34] M.AX 클라우드 연계의 반대급부로 PLC를 직접 겨냥한 CyberAv3ngers, 제약사 랜섬웨어로 전 세계 생산라인이 멈춘 사례를 들어 IDMZ·마이크로세그멘테이션을 제시 — 동결건조기 제어망은 폐쇄로 두고 품질 데이터만 단방향으로 내보내는 분리 설계가 필요합니다. [데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=300167)\n[11/15 19:48] 시계열 로그·교대일지·작업지시서가 태그명과 자산코드 표기 불일치로 끊겨 있어 온톨로지로 맥락을 붙이는 '산업용 기억'론 — 숙련 운전원이 물러나기 전에 사이클 로그와 육필 일지를 같은 설비 ID로 묶어두지 않으면 AI에 넣을 데이터가 남지 않습니다. [헬로티](https://www.hellot.net/news/article.html?no=116312)\n[11/15 23:35] 식품진흥원이 11월 10일 워크숍에서 공정 조건·품질지표 매핑과 AI 예측·추천, 결과 시각화를 논의(정량 성과 없음) — 레시피의 선반온도·챔버압력을 최종 수분·향미 지표와 어떤 주기로 짝지을지가 정해져야 시뮬레이션 결과가 현장 값으로 쓰입니다. [한국영농신문](https://www.youngnong.co.kr/news/articleView.html?idxno=71837)\n[11/15 19:46] TÜV SÜD·Accenture가 디지털 트윈으로 AMR 안전성을 먼저 검증해 가동을 최대 30% 앞당길 수 있다고 발표 — TÜV SÜD 추정치를 인용한 발표 주장이고 현장 검사는 그대로 남습니다. 가상 시운전 증거를 인증에 쓰려면 트윈 정확도와 모델 추적성 기준을 먼저 맞춰야 합니다. [MarketScale](https://www.marketscale.com/industries/industrial-iot/tv-sd-says-simulated-robot-safety-checks-could-start-production-up-to-30-sooner)\n[11/15 20:53] 스위스 Embodied AI가 9개월 만에 산업용 휴머노이드 AIR를 공개, 케이블 핸들링 신뢰성 98%(자사 목표 90%)는 자사 발표 — 제조업 22%가 2년 내 피지컬 AI 도입을 계획(현재 9%)한다는 조사도 함께 나왔습니다. 동결건조 챔버 앞 저온·진공 구간은 검증된 평지 공장과 조건이 달라 트레이 적재 자동화는 별도 실증이 선행돼야 합니다. [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/)"
+    },
+    {
+      "id": "maintenance-automation-2026-11-16_00-07-26",
+      "category": "maintenance-automation",
+      "category_label": "설비보전·자동화",
+      "date": "2026-11-16",
+      "time": "09:07",
+      "published_at": "2026-11-16T00:07:25+00:00",
+      "items": [
         {
           "text": "[11/16 08:32] 다임테크놀로지가 SEMICON Europa 2026에서 OHT 약 1000대를 단일 AI로 통합 제어해 교착을 없애고, 하드웨어 교체 없이 로봇 생산성 20% 이상을 올렸다고 발표(자사 PoC 기준) — 개별 설비 자동화만으로 전체 흐름이 최적화되지 않는다는 전제가, 3교대에서 설비·반송·창고를 함께 스케줄링하는 문제와 맞닿습니다.",
           "links": [
@@ -146,12 +130,50 @@
           ]
         }
       ],
-      "raw_text": "[11/15 20:55] 광주·전남 제조 230개사 조사에서 AI 도입 검토 85%, 실제 운용 4%, 장벽 1위가 초기 투자비 27% — 동결건조기 한 대를 자동화해도 진공·냉동·계측 부대설비 개선비가 함께 붙어서, 투자비를 설비 단독으로 잡으면 사업성이 서지 않습니다. [KBC광주방송](https://www.ikbc.co.kr/article/view/kbc202611150040)\n[11/15 19:34] M.AX 클라우드 연계의 반대급부로 PLC를 직접 겨냥한 CyberAv3ngers, 제약사 랜섬웨어로 전 세계 생산라인이 멈춘 사례를 들어 IDMZ·마이크로세그멘테이션을 제시 — 동결건조기 제어망은 폐쇄로 두고 품질 데이터만 단방향으로 내보내는 분리 설계가 필요합니다. [데이터넷](https://www.datanet.co.kr/news/articleView.html?idxno=300167)\n[11/15 19:48] 시계열 로그·교대일지·작업지시서가 태그명과 자산코드 표기 불일치로 끊겨 있어 온톨로지로 맥락을 붙이는 '산업용 기억'론 — 숙련 운전원이 물러나기 전에 사이클 로그와 육필 일지를 같은 설비 ID로 묶어두지 않으면 AI에 넣을 데이터가 남지 않습니다. [헬로티](https://www.hellot.net/news/article.html?no=116312)\n[11/15 23:35] 식품진흥원이 11월 10일 워크숍에서 공정 조건·품질지표 매핑과 AI 예측·추천, 결과 시각화를 논의(정량 성과 없음) — 레시피의 선반온도·챔버압력을 최종 수분·향미 지표와 어떤 주기로 짝지을지가 정해져야 시뮬레이션 결과가 현장 값으로 쓰입니다. [한국영농신문](https://www.youngnong.co.kr/news/articleView.html?idxno=71837)\n[11/15 19:46] TÜV SÜD·Accenture가 디지털 트윈으로 AMR 안전성을 먼저 검증해 가동을 최대 30% 앞당길 수 있다고 발표 — TÜV SÜD 추정치를 인용한 발표 주장이고 현장 검사는 그대로 남습니다. 가상 시운전 증거를 인증에 쓰려면 트윈 정확도와 모델 추적성 기준을 먼저 맞춰야 합니다. [MarketScale](https://www.marketscale.com/industries/industrial-iot/tv-sd-says-simulated-robot-safety-checks-could-start-production-up-to-30-sooner)\n[11/15 20:53] 스위스 Embodied AI가 9개월 만에 산업용 휴머노이드 AIR를 공개, 케이블 핸들링 신뢰성 98%(자사 목표 90%)는 자사 발표 — 제조업 22%가 2년 내 피지컬 AI 도입을 계획(현재 9%)한다는 조사도 함께 나왔습니다. 동결건조 챔버 앞 저온·진공 구간은 검증된 평지 공장과 조건이 달라 트레이 적재 자동화는 별도 실증이 선행돼야 합니다. [Robotics & Automation News](https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/)\n[11/15 10:52] 이마트·롯데마트는 외부 원격 통합제어를 쓰지 않고, 삼성서울병원과 적십자 혈액관리본부는 외부망과 분리 — 유럽 사고의 핵심은 관리자 권한이 뚫리면 다수 설비가 동시에 조작된다는 점이라, 냉동기 유지보수용 원격 접속 경로와 온도 설정 변경 이력을 함께 남겨야 합니다. [한스경제](http://www.hansbiz.co.kr/news/articleView.html?idxno=883296)\n[11/16 07:34] 식약처가 지난달 말 대웅제약·지씨셀·지오영·CDMO에 냉장·냉동 설비 보안 공문을 발송, 프랑스에서는 혈액 보관 설비 온도가 영하 30도에서 110도까지 올라간 사례 — 보톡스는 WHO 기준 2~8도 유지가 필수라 온도 이탈이 곧 제품 폐기로 이어집니다. 냉장·냉동 보관 구간의 온도 이력 관리가 같은 방식으로 요구됩니다. [Chosunbiz](https://biz.chosun.com/science-chosun/bio/2026/11/16/2RNH5ZGU5RFFTEVWLQ4XCQ775E/)\n[11/15 14:30] 호주 보고서에서 HFC-134a 애프터마켓 수요가 2025년 762톤으로 사상 최대인데 HFO-1234yf는 연 10톤 미만, 2028년부터 공급 압박 — 대체 냉매 전환이 규제 속도를 못 따라가면 정비 단가가 먼저 오릅니다. 냉매 재고·회수·재생 이력을 지금 관리해야 원가와 규제 대응이 같이 갑니다. [Paint & Panel](https://www.paintandpanel.com.au/news/news/vehicle-air-conditioning-faces-refrigerant-supply-squeeze)\n[11/16 08:32] 다임테크놀로지가 SEMICON Europa 2026에서 OHT 약 1000대를 단일 AI로 통합 제어해 교착을 없애고, 하드웨어 교체 없이 로봇 생산성 20% 이상을 올렸다고 발표(자사 PoC 기준) — 개별 설비 자동화만으로 전체 흐름이 최적화되지 않는다는 전제가, 3교대에서 설비·반송·창고를 함께 스케줄링하는 문제와 맞닿습니다. [뉴스톱](https://www.newstopkorea.com/news/articleView.html?idxno=49057)\n[11/15 13:28] LS일렉트릭 라피넷이 현대차 울산 EV 신공장 설비 I/O 주 통신망과 기아 PV5 라인에 적용, IEC 61158 Type 21이면서 EtherNet/IP·Modbus TCP를 함께 지원하고 PV5에는 Safety I/O까지 적용 — PLC와 현장 I/O 사이 규격을 섞어 쓸 수 있다는 뜻이라, GEA 설비와 국산 제어망을 병행할 때 안전 신호 분리가 관건입니다. [데일리시큐](https://dailysecu.com/news/articleView.html?idxno=209531)\n[11/15 18:27] 두산에너빌리티가 운전 데이터로 이상 징후를 조기경보하는 PreVision과 AI 비파괴검사 미세균열 탐지를 발전사 100여 명에게 공개 — 제작·정비 경험과 운전 데이터를 결합한 사례입니다. 동결건조기도 선반온도·챔버압력·콘덴서 온도 이력이 같은 구조의 조기경보 입력이 됩니다. [에너지신문](https://www.energy-news.co.kr/news/articleView.html?idxno=229785)\n[11/15 13:46] 안동 실증센터에서 AI 선별 정확도 사과 94.69%를 기록했고 모델은 초당 32개를 판독하지만 실제 선별설비는 초당 3개만 처리 — 병목이 판독에서 이송·적재로 옮겨간 사례입니다. 비전 검사를 붙일 때 카메라 해상도보다 트레이 이송 속도가 실제 처리량을 정합니다. [전자신문](https://etnews.com/20261115000045)\n[11/15 14:41] KT가 인천 남동산단 20개사에 AI 화재감지기 105대를 구축, 수만 건 감지 이력으로 패턴을 판정해 관제센터가 전화·문자·119 자동 신고 — 상주 인력이 적은 야간·새벽 대응을 겨냥한 구조입니다. 3교대 야간조의 순찰 부담을 센서 판정으로 나눌 수 있는지가 관건입니다. [디지털데일리](https://www.ddaily.co.kr/page/view/2026111514410482722)\n[11/16 06:54] 삼성전자·SK하이닉스·마이크론이 SEMI와 함께 웨이퍼 팹 이동로봇 충전 규격 5개 영역(배터리 규격·BMS 규약·접속 단자·거치대 구조·충전 상태 교신)을 표준화 협의 — 강제성 없는 자율 표준이고 절감 규모는 미공개입니다. AGV·AMR 도입 전에 벤더별 충전 규격이 겹치는지 확인해야 거치대와 예비 부품을 이중으로 사지 않습니다. [글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/11/202611160645377351fbbec65dfb_1)"
+      "raw_text": "[11/16 08:32] 다임테크놀로지가 SEMICON Europa 2026에서 OHT 약 1000대를 단일 AI로 통합 제어해 교착을 없애고, 하드웨어 교체 없이 로봇 생산성 20% 이상을 올렸다고 발표(자사 PoC 기준) — 개별 설비 자동화만으로 전체 흐름이 최적화되지 않는다는 전제가, 3교대에서 설비·반송·창고를 함께 스케줄링하는 문제와 맞닿습니다. [뉴스톱](https://www.newstopkorea.com/news/articleView.html?idxno=49057)\n[11/15 13:28] LS일렉트릭 라피넷이 현대차 울산 EV 신공장 설비 I/O 주 통신망과 기아 PV5 라인에 적용, IEC 61158 Type 21이면서 EtherNet/IP·Modbus TCP를 함께 지원하고 PV5에는 Safety I/O까지 적용 — PLC와 현장 I/O 사이 규격을 섞어 쓸 수 있다는 뜻이라, GEA 설비와 국산 제어망을 병행할 때 안전 신호 분리가 관건입니다. [데일리시큐](https://dailysecu.com/news/articleView.html?idxno=209531)\n[11/15 18:27] 두산에너빌리티가 운전 데이터로 이상 징후를 조기경보하는 PreVision과 AI 비파괴검사 미세균열 탐지를 발전사 100여 명에게 공개 — 제작·정비 경험과 운전 데이터를 결합한 사례입니다. 동결건조기도 선반온도·챔버압력·콘덴서 온도 이력이 같은 구조의 조기경보 입력이 됩니다. [에너지신문](https://www.energy-news.co.kr/news/articleView.html?idxno=229785)\n[11/15 13:46] 안동 실증센터에서 AI 선별 정확도 사과 94.69%를 기록했고 모델은 초당 32개를 판독하지만 실제 선별설비는 초당 3개만 처리 — 병목이 판독에서 이송·적재로 옮겨간 사례입니다. 비전 검사를 붙일 때 카메라 해상도보다 트레이 이송 속도가 실제 처리량을 정합니다. [전자신문](https://etnews.com/20261115000045)\n[11/15 14:41] KT가 인천 남동산단 20개사에 AI 화재감지기 105대를 구축, 수만 건 감지 이력으로 패턴을 판정해 관제센터가 전화·문자·119 자동 신고 — 상주 인력이 적은 야간·새벽 대응을 겨냥한 구조입니다. 3교대 야간조의 순찰 부담을 센서 판정으로 나눌 수 있는지가 관건입니다. [디지털데일리](https://www.ddaily.co.kr/page/view/2026111514410482722)\n[11/16 06:54] 삼성전자·SK하이닉스·마이크론이 SEMI와 함께 웨이퍼 팹 이동로봇 충전 규격 5개 영역(배터리 규격·BMS 규약·접속 단자·거치대 구조·충전 상태 교신)을 표준화 협의 — 강제성 없는 자율 표준이고 절감 규모는 미공개입니다. AGV·AMR 도입 전에 벤더별 충전 규격이 겹치는지 확인해야 거치대와 예비 부품을 이중으로 사지 않습니다. [글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/11/202611160645377351fbbec65dfb_1)"
     },
     {
-      "id": "economy-2026-11-15_00-06-26",
-      "category": "economy",
-      "category_label": "제조산업 뉴스 3분야 15건",
+      "id": "freeze-drying-equipment-2026-11-16_00-07-26",
+      "category": "freeze-drying-equipment",
+      "category_label": "동결건조·핵심 설비",
+      "date": "2026-11-16",
+      "time": "09:07",
+      "published_at": "2026-11-16T00:07:25+00:00",
+      "items": [
+        {
+          "text": "[11/15 10:52] 이마트·롯데마트는 외부 원격 통합제어를 쓰지 않고, 삼성서울병원과 적십자 혈액관리본부는 외부망과 분리 — 유럽 사고의 핵심은 관리자 권한이 뚫리면 다수 설비가 동시에 조작된다는 점이라, 냉동기 유지보수용 원격 접속 경로와 온도 설정 변경 이력을 함께 남겨야 합니다.",
+          "links": [
+            {
+              "label": "한스경제",
+              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883296"
+            }
+          ]
+        },
+        {
+          "text": "[11/16 07:34] 식약처가 지난달 말 대웅제약·지씨셀·지오영·CDMO에 냉장·냉동 설비 보안 공문을 발송, 프랑스에서는 혈액 보관 설비 온도가 영하 30도에서 110도까지 올라간 사례 — 보톡스는 WHO 기준 2~8도 유지가 필수라 온도 이탈이 곧 제품 폐기로 이어집니다. 냉장·냉동 보관 구간의 온도 이력 관리가 같은 방식으로 요구됩니다.",
+          "links": [
+            {
+              "label": "Chosunbiz",
+              "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/2RNH5ZGU5RFFTEVWLQ4XCQ775E/"
+            }
+          ]
+        },
+        {
+          "text": "[11/15 14:30] 호주 보고서에서 HFC-134a 애프터마켓 수요가 2025년 762톤으로 사상 최대인데 HFO-1234yf는 연 10톤 미만, 2028년부터 공급 압박 — 대체 냉매 전환이 규제 속도를 못 따라가면 정비 단가가 먼저 오릅니다. 냉매 재고·회수·재생 이력을 지금 관리해야 원가와 규제 대응이 같이 갑니다.",
+          "links": [
+            {
+              "label": "Paint & Panel",
+              "url": "https://www.paintandpanel.com.au/news/news/vehicle-air-conditioning-faces-refrigerant-supply-squeeze"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/15 10:52] 이마트·롯데마트는 외부 원격 통합제어를 쓰지 않고, 삼성서울병원과 적십자 혈액관리본부는 외부망과 분리 — 유럽 사고의 핵심은 관리자 권한이 뚫리면 다수 설비가 동시에 조작된다는 점이라, 냉동기 유지보수용 원격 접속 경로와 온도 설정 변경 이력을 함께 남겨야 합니다. [한스경제](http://www.hansbiz.co.kr/news/articleView.html?idxno=883296)\n[11/16 07:34] 식약처가 지난달 말 대웅제약·지씨셀·지오영·CDMO에 냉장·냉동 설비 보안 공문을 발송, 프랑스에서는 혈액 보관 설비 온도가 영하 30도에서 110도까지 올라간 사례 — 보톡스는 WHO 기준 2~8도 유지가 필수라 온도 이탈이 곧 제품 폐기로 이어집니다. 냉장·냉동 보관 구간의 온도 이력 관리가 같은 방식으로 요구됩니다. [Chosunbiz](https://biz.chosun.com/science-chosun/bio/2026/11/16/2RNH5ZGU5RFFTEVWLQ4XCQ775E/)\n[11/15 14:30] 호주 보고서에서 HFC-134a 애프터마켓 수요가 2025년 762톤으로 사상 최대인데 HFO-1234yf는 연 10톤 미만, 2028년부터 공급 압박 — 대체 냉매 전환이 규제 속도를 못 따라가면 정비 단가가 먼저 오릅니다. 냉매 재고·회수·재생 이력을 지금 관리해야 원가와 규제 대응이 같이 갑니다. [Paint & Panel](https://www.paintandpanel.com.au/news/news/vehicle-air-conditioning-faces-refrigerant-supply-squeeze)"
+    },
+    {
+      "id": "manufacturing-ai-2026-11-15_00-06-26",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI",
       "date": "2026-11-15",
       "time": "09:06",
       "published_at": "2026-11-15T00:06:24+00:00",
@@ -200,52 +222,18 @@
               "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140016"
             }
           ]
-        },
-        {
-          "text": "[11/15 05:45] 독일 데이터센터 19곳을 분석한 연구에서 13곳이 대수층 열저장(ATES)으로 연 707GWh를 공급해 약 2만 동 난방을 감당할 수 있다는 결과가 나왔다 — 데이터센터 전력의 30~50%가 냉각에 들어가고 열회수율 60%를 가정했기 때문에 나온 값이라, 동결건조기 냉동기 응축 폐열을 공정 온수로 올려 쓸 때도 같은 회수율과 수질·주입온도 제약이 그대로 적용됩니다(모델링 결과).",
-          "links": [
-            {
-              "label": "Bioengineer.org",
-              "url": "https://bioengineer.org/aquifer-storage-can-channel-german-data-centre-waste-heat-to-20000-buildings/"
-            }
-          ]
-        },
-        {
-          "text": "[11/14 15:12] 부-스타가 미쓰비시전기 클리마베네타와 데이터센터용 냉각유체분배장치 ME-CDU(설계조건 1,100~1,168kW)와 오일프리 자기부상 칠러 TECS-W(모듈당 281~528kW)를 내놨다 — CDU가 판형 열교환기로 시설 측 냉각수와 서버 측 냉각유체 회로를 갈라 수질·압력 오염을 막는 구조인데, 동결건조기 브라인 회로와 칠러 회로를 분리하는 우리 배관 설계와 같은 원리입니다(정량 성과 없음).",
-          "links": [
-            {
-              "label": "냉동공조저널",
-              "url": "https://www.hvacrj.co.kr/news/articleView.html?idxno=31474"
-            }
-          ]
-        },
-        {
-          "text": "[11/14 14:18] 식용곤충 단백질을 다룬 Frontiers in Nutrition 리뷰가 건조 방식이 단백질의 미세구조·기능성·저장 안정성을 결정한다고 정리했다 — 건조를 단순 수분 제거가 아니라 열·수화 스트레스로 규정했기 때문에, 같은 원료에 동결건조와 열풍건조를 적용하면 재수화성과 향미 보존이 갈리는 이유가 설명됩니다(원료 조단백 35~60%, 건조중량 기준).",
-          "links": [
-            {
-              "label": "Bioengineer.org",
-              "url": "https://bioengineer.org/drying-methods-reshape-edible-insect-protein-structure-functionality-and-storage-stability/"
-            }
-          ]
-        },
-        {
-          "text": "[11/14 12:20] 항체-약물 접합체(ADC)를 제형부터 제조 단계까지 동결건조로 안정화하는 조건을 정리한 연구가 나왔다 — 2025년 7월 기준 승인 19건(2건 철회)에 임상 파이프라인 370건이 걸린 품목군이라 사이클 편차가 곧 허가 리스크가 되는데, 식품인 커피에서는 같은 편차가 잔류수분 규격 이탈과 향미 손실로 나타납니다(정량 성과 없음).",
-          "links": [
-            {
-              "label": "Bioengineer.org",
-              "url": "https://bioengineer.org/lyophilization-stabilizes-antibody-drug-conjugate-products-across-formulation-and-manufacturing-stages/"
-            }
-          ]
-        },
-        {
-          "text": "[11/14 11:17] 자당 용액 동결건조에서 2.45GHz 마이크로파 흡수는 얼음이나 용질이 아니라 동결농축액의 유리수 부피분율이 지배한다는 측정 결과가 나왔다 — 고형분 농도가 다르면 같은 마이크로파 출력에서 승화 속도가 달라진다는 뜻이라, 추출 농도가 배치마다 흔들리는 커피 농축액에 마이크로파 보조 건조를 붙일 때는 출력을 농도에 맞춰 보정해야 합니다(실험실 규모, 5~72wt% 자당).",
-          "links": [
-            {
-              "label": "Bioengineer.org",
-              "url": "https://bioengineer.org/free-water-governs-microwave-heating-in-freeze-drying-solutions-of-sucrose/"
-            }
-          ]
-        },
+        }
+      ],
+      "raw_text": "[11/14 21:35] 아치 시스템스가 방산·규제 제조사용 팩토리 AI 플랫폼을 녹스의 FedRAMP High(Class D) 경계 안 단일 테넌트로 돌릴 수 있게 열었다 — 공장 데이터를 외부 AI로 보내려면 인증 경계 안으로 들어와야 한다는 조건을 보여 주는 사례이며, 식품 GMP 공장은 같은 제약을 망분리와 감사추적 설계로 푸는 문제라 우리 현장과 직접 닿는 지점은 적습니다(정량 성과 없음). [MarketScale](https://www.marketscale.com/industries/industrial-iot/defense-factories-can-now-run-arch-systems-full-ai-platform-in-fedramp-high)\n[11/14 21:22] 폭스콘이 엔비디아 DGX 슈퍼팟과 자체 산업용 LLM '폭스브레인'으로 자가학습형 AI 팩토리를 가동해 SMT 표면실장 결함 90% 자동 교정, 사출 공정 전환 공수 50% 단축을 냈다고 밝혔다 — 검사 판정을 설비 파라미터 보정까지 되먹임했기 때문에 나온 수치라서, 동결건조 커피의 잔류수분·색차 판정도 선반 온도와 진공도 레시피로 되돌리는 루프가 있어야 같은 효과가 납니다(수치는 회사 발표 주장). [헬로티](https://www.hellot.net/news/article.html?no=116308)\n[11/14 20:31] 헥사곤이 베이커휴즈로부터 비파괴검사 업체 웨이게이트 인수를 마무리하고 3D 치수측정과 산업용 CT·초음파·방사선 검사를 한 사업부로 묶었다 — 바깥 치수와 속 결함을 같은 데이터 체계에 넣겠다는 구상인데, 우리 쪽에서는 분말 입도·밀도와 잔류수분·용해도를 배치 ID 하나로 묶는 일과 같은 구조입니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116306)\n[11/14 20:23] LMI가 독일 비트로닉의 용접 비드 검사(WSI) 사업부를 인수하고 라인 속도로 구동되는 '비로 WSI'와 공정 데이터 연동 소프트웨어 '웰드루프'를 확보했다 — 샘플 검사를 인라인으로 옮기려면 센서 처리량과 공정 데이터 연동이 동시에 갖춰져야 한다는 사례로, 트레이 적재 상태나 케이크 균열을 인라인으로 보려는 검사 구상에 같은 조건이 걸립니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116305)\n[11/14 09:54] MES·AI·IoT·로봇·비전검사·SCADA 전문기업들이 한국다크팩토리AI사업협동조합을 출범하고 숙련공의 작업 경험과 공정별 판단 기준을 제조데이터로 체계화하는 공동 실증을 추진한다 — 개별 중소기업이 단독으로 사기 어려운 AI를 조합 단위로 묶어 비용을 나누는 방식이라, 사내 암묵지를 데이터로 남기는 작업의 외부 실증 경로로 쓸 수 있습니다(정량 성과 없음). [한국경제TV](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140016)"
+    },
+    {
+      "id": "maintenance-automation-2026-11-15_00-06-26",
+      "category": "maintenance-automation",
+      "category_label": "설비보전·자동화",
+      "date": "2026-11-15",
+      "time": "09:06",
+      "published_at": "2026-11-15T00:06:24+00:00",
+      "items": [
         {
           "text": "[11/14 21:08] 자이스가 외부 트래커와 마커 없이 3.3m 반경에서 100µm 미만 측정 불확도를 내는 계측 로봇 '탈로스'를 공개했다 — 로봇 자체 키네마틱스만으로 오차를 잡고 200Hz로 스캔하기 때문에 대형 부품을 라인 옆에서 뗐다 붙이지 않고 잴 수 있어, 챔버·트레이 같은 대형 치공구 측정에 쓸 수 있습니다(수치는 사양 기준, 정량 성과 없음).",
           "links": [
@@ -292,12 +280,68 @@
           ]
         }
       ],
-      "raw_text": "[11/14 21:35] 아치 시스템스가 방산·규제 제조사용 팩토리 AI 플랫폼을 녹스의 FedRAMP High(Class D) 경계 안 단일 테넌트로 돌릴 수 있게 열었다 — 공장 데이터를 외부 AI로 보내려면 인증 경계 안으로 들어와야 한다는 조건을 보여 주는 사례이며, 식품 GMP 공장은 같은 제약을 망분리와 감사추적 설계로 푸는 문제라 우리 현장과 직접 닿는 지점은 적습니다(정량 성과 없음). [MarketScale](https://www.marketscale.com/industries/industrial-iot/defense-factories-can-now-run-arch-systems-full-ai-platform-in-fedramp-high)\n[11/14 21:22] 폭스콘이 엔비디아 DGX 슈퍼팟과 자체 산업용 LLM '폭스브레인'으로 자가학습형 AI 팩토리를 가동해 SMT 표면실장 결함 90% 자동 교정, 사출 공정 전환 공수 50% 단축을 냈다고 밝혔다 — 검사 판정을 설비 파라미터 보정까지 되먹임했기 때문에 나온 수치라서, 동결건조 커피의 잔류수분·색차 판정도 선반 온도와 진공도 레시피로 되돌리는 루프가 있어야 같은 효과가 납니다(수치는 회사 발표 주장). [헬로티](https://www.hellot.net/news/article.html?no=116308)\n[11/14 20:31] 헥사곤이 베이커휴즈로부터 비파괴검사 업체 웨이게이트 인수를 마무리하고 3D 치수측정과 산업용 CT·초음파·방사선 검사를 한 사업부로 묶었다 — 바깥 치수와 속 결함을 같은 데이터 체계에 넣겠다는 구상인데, 우리 쪽에서는 분말 입도·밀도와 잔류수분·용해도를 배치 ID 하나로 묶는 일과 같은 구조입니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116306)\n[11/14 20:23] LMI가 독일 비트로닉의 용접 비드 검사(WSI) 사업부를 인수하고 라인 속도로 구동되는 '비로 WSI'와 공정 데이터 연동 소프트웨어 '웰드루프'를 확보했다 — 샘플 검사를 인라인으로 옮기려면 센서 처리량과 공정 데이터 연동이 동시에 갖춰져야 한다는 사례로, 트레이 적재 상태나 케이크 균열을 인라인으로 보려는 검사 구상에 같은 조건이 걸립니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116305)\n[11/14 09:54] MES·AI·IoT·로봇·비전검사·SCADA 전문기업들이 한국다크팩토리AI사업협동조합을 출범하고 숙련공의 작업 경험과 공정별 판단 기준을 제조데이터로 체계화하는 공동 실증을 추진한다 — 개별 중소기업이 단독으로 사기 어려운 AI를 조합 단위로 묶어 비용을 나누는 방식이라, 사내 암묵지를 데이터로 남기는 작업의 외부 실증 경로로 쓸 수 있습니다(정량 성과 없음). [한국경제TV](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140016)\n[11/15 05:45] 독일 데이터센터 19곳을 분석한 연구에서 13곳이 대수층 열저장(ATES)으로 연 707GWh를 공급해 약 2만 동 난방을 감당할 수 있다는 결과가 나왔다 — 데이터센터 전력의 30~50%가 냉각에 들어가고 열회수율 60%를 가정했기 때문에 나온 값이라, 동결건조기 냉동기 응축 폐열을 공정 온수로 올려 쓸 때도 같은 회수율과 수질·주입온도 제약이 그대로 적용됩니다(모델링 결과). [Bioengineer.org](https://bioengineer.org/aquifer-storage-can-channel-german-data-centre-waste-heat-to-20000-buildings/)\n[11/14 15:12] 부-스타가 미쓰비시전기 클리마베네타와 데이터센터용 냉각유체분배장치 ME-CDU(설계조건 1,100~1,168kW)와 오일프리 자기부상 칠러 TECS-W(모듈당 281~528kW)를 내놨다 — CDU가 판형 열교환기로 시설 측 냉각수와 서버 측 냉각유체 회로를 갈라 수질·압력 오염을 막는 구조인데, 동결건조기 브라인 회로와 칠러 회로를 분리하는 우리 배관 설계와 같은 원리입니다(정량 성과 없음). [냉동공조저널](https://www.hvacrj.co.kr/news/articleView.html?idxno=31474)\n[11/14 14:18] 식용곤충 단백질을 다룬 Frontiers in Nutrition 리뷰가 건조 방식이 단백질의 미세구조·기능성·저장 안정성을 결정한다고 정리했다 — 건조를 단순 수분 제거가 아니라 열·수화 스트레스로 규정했기 때문에, 같은 원료에 동결건조와 열풍건조를 적용하면 재수화성과 향미 보존이 갈리는 이유가 설명됩니다(원료 조단백 35~60%, 건조중량 기준). [Bioengineer.org](https://bioengineer.org/drying-methods-reshape-edible-insect-protein-structure-functionality-and-storage-stability/)\n[11/14 12:20] 항체-약물 접합체(ADC)를 제형부터 제조 단계까지 동결건조로 안정화하는 조건을 정리한 연구가 나왔다 — 2025년 7월 기준 승인 19건(2건 철회)에 임상 파이프라인 370건이 걸린 품목군이라 사이클 편차가 곧 허가 리스크가 되는데, 식품인 커피에서는 같은 편차가 잔류수분 규격 이탈과 향미 손실로 나타납니다(정량 성과 없음). [Bioengineer.org](https://bioengineer.org/lyophilization-stabilizes-antibody-drug-conjugate-products-across-formulation-and-manufacturing-stages/)\n[11/14 11:17] 자당 용액 동결건조에서 2.45GHz 마이크로파 흡수는 얼음이나 용질이 아니라 동결농축액의 유리수 부피분율이 지배한다는 측정 결과가 나왔다 — 고형분 농도가 다르면 같은 마이크로파 출력에서 승화 속도가 달라진다는 뜻이라, 추출 농도가 배치마다 흔들리는 커피 농축액에 마이크로파 보조 건조를 붙일 때는 출력을 농도에 맞춰 보정해야 합니다(실험실 규모, 5~72wt% 자당). [Bioengineer.org](https://bioengineer.org/free-water-governs-microwave-heating-in-freeze-drying-solutions-of-sucrose/)\n[11/14 21:08] 자이스가 외부 트래커와 마커 없이 3.3m 반경에서 100µm 미만 측정 불확도를 내는 계측 로봇 '탈로스'를 공개했다 — 로봇 자체 키네마틱스만으로 오차를 잡고 200Hz로 스캔하기 때문에 대형 부품을 라인 옆에서 뗐다 붙이지 않고 잴 수 있어, 챔버·트레이 같은 대형 치공구 측정에 쓸 수 있습니다(수치는 사양 기준, 정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116307)\n[11/14 20:59] 록웰오토메이션이 11월 10일 내놓은 PanelView Pro는 기존 FactoryTalk View ME 화면과 판넬 컷아웃을 그대로 쓰고 디스플레이·로직 모듈을 분리해 모듈 단위 교체를 가능하게 한다 — HMI 교체 비용의 핵심인 화면 재작성과 판넬 가공을 없앴기 때문에 예비품 목록이 완제품에서 모듈로 바뀌며, WinCC를 쓰는 우리 현장도 노후 HMI 교체 시 화면 자산 재사용과 예비품 단위를 먼저 계산해야 한다는 기준을 줍니다(2026년 4분기 출시 예정). [MarketScale](https://www.marketscale.com/industries/industrial-iot/rockwells-panelview-pro-lets-plants-upgrade-hmi-screens-without-rewriting-apps)\n[11/14 20:09] 로봇 500만 대 시대에 달력식 주기 점검으로는 관절·감속기 마모를 못 잡는다는 지적과 함께, 진동·모터 전류·토크 신호로 감속기 백래시와 과부하를 조기에 잡는 예지보전 방식이 제시됐다 — 같은 로봇도 공작물 무게와 모션 궤적에 따라 부하가 달라 공정 데이터와 함께 봐야 오탐이 줄어들므로, 진공펌프와 냉동 압축기 진동 감시에도 운전 조건 태깅이 먼저 붙어야 합니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116303)\n[11/14 14:26] 프랑스에서 10월 11~12일 밤 약 700개 소매점 냉동설비의 제상(defrost) 설정을 원격 조작당해 식품이 부패하고 최소 15건의 화재가 났으며, 11월 2일 2차 공격은 9개국으로 번졌다(ANSSI) — 냉동 컨트롤러가 외부에서 제상 모드를 바꿀 수 있었기 때문에 벌어진 일이라, 원격 접속 포트와 제상 모드 권한을 분리하지 않으면 같은 사고가 우리 PLC에도 그대로 적용됩니다. [The Indian Express](https://indianexpress.com/article/explained/explained-sci-tech/europe-supermarket-fridge-hack-india-cold-chain-10962181/)\n[11/14 10:27] 영주에서 열린 한국베어링컨퍼런스가 '로봇 대전환 시대, 베어링의 미래'를 주제로 150여 명이 참석해 로봇용 고하중 베어링 대응을 논의했다 — 로봇 감속기·관절에 들어가는 베어링 수명이 라인 정지와 직결되기 때문에 정비 부품으로서 조달 리드타임 관리가 중요해지며, 영주 첨단베어링 국가산단(사업비 2,964억 원, 118만㎡)이 국산 공급 기반이 될 수 있습니다(정량 성과 없음). [영주시민신문](https://www.yjinews.com/news/articleView.html?idxno=93222)"
+      "raw_text": "[11/14 21:08] 자이스가 외부 트래커와 마커 없이 3.3m 반경에서 100µm 미만 측정 불확도를 내는 계측 로봇 '탈로스'를 공개했다 — 로봇 자체 키네마틱스만으로 오차를 잡고 200Hz로 스캔하기 때문에 대형 부품을 라인 옆에서 뗐다 붙이지 않고 잴 수 있어, 챔버·트레이 같은 대형 치공구 측정에 쓸 수 있습니다(수치는 사양 기준, 정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116307)\n[11/14 20:59] 록웰오토메이션이 11월 10일 내놓은 PanelView Pro는 기존 FactoryTalk View ME 화면과 판넬 컷아웃을 그대로 쓰고 디스플레이·로직 모듈을 분리해 모듈 단위 교체를 가능하게 한다 — HMI 교체 비용의 핵심인 화면 재작성과 판넬 가공을 없앴기 때문에 예비품 목록이 완제품에서 모듈로 바뀌며, WinCC를 쓰는 우리 현장도 노후 HMI 교체 시 화면 자산 재사용과 예비품 단위를 먼저 계산해야 한다는 기준을 줍니다(2026년 4분기 출시 예정). [MarketScale](https://www.marketscale.com/industries/industrial-iot/rockwells-panelview-pro-lets-plants-upgrade-hmi-screens-without-rewriting-apps)\n[11/14 20:09] 로봇 500만 대 시대에 달력식 주기 점검으로는 관절·감속기 마모를 못 잡는다는 지적과 함께, 진동·모터 전류·토크 신호로 감속기 백래시와 과부하를 조기에 잡는 예지보전 방식이 제시됐다 — 같은 로봇도 공작물 무게와 모션 궤적에 따라 부하가 달라 공정 데이터와 함께 봐야 오탐이 줄어들므로, 진공펌프와 냉동 압축기 진동 감시에도 운전 조건 태깅이 먼저 붙어야 합니다(정량 성과 없음). [헬로티](https://www.hellot.net/news/article.html?no=116303)\n[11/14 14:26] 프랑스에서 10월 11~12일 밤 약 700개 소매점 냉동설비의 제상(defrost) 설정을 원격 조작당해 식품이 부패하고 최소 15건의 화재가 났으며, 11월 2일 2차 공격은 9개국으로 번졌다(ANSSI) — 냉동 컨트롤러가 외부에서 제상 모드를 바꿀 수 있었기 때문에 벌어진 일이라, 원격 접속 포트와 제상 모드 권한을 분리하지 않으면 같은 사고가 우리 PLC에도 그대로 적용됩니다. [The Indian Express](https://indianexpress.com/article/explained/explained-sci-tech/europe-supermarket-fridge-hack-india-cold-chain-10962181/)\n[11/14 10:27] 영주에서 열린 한국베어링컨퍼런스가 '로봇 대전환 시대, 베어링의 미래'를 주제로 150여 명이 참석해 로봇용 고하중 베어링 대응을 논의했다 — 로봇 감속기·관절에 들어가는 베어링 수명이 라인 정지와 직결되기 때문에 정비 부품으로서 조달 리드타임 관리가 중요해지며, 영주 첨단베어링 국가산단(사업비 2,964억 원, 118만㎡)이 국산 공급 기반이 될 수 있습니다(정량 성과 없음). [영주시민신문](https://www.yjinews.com/news/articleView.html?idxno=93222)"
     },
     {
-      "id": "economy-2026-11-14_00-05-22",
-      "category": "economy",
-      "category_label": "제조산업 뉴스 3분야 15건",
+      "id": "freeze-drying-equipment-2026-11-15_00-06-26",
+      "category": "freeze-drying-equipment",
+      "category_label": "동결건조·핵심 설비",
+      "date": "2026-11-15",
+      "time": "09:06",
+      "published_at": "2026-11-15T00:06:24+00:00",
+      "items": [
+        {
+          "text": "[11/15 05:45] 독일 데이터센터 19곳을 분석한 연구에서 13곳이 대수층 열저장(ATES)으로 연 707GWh를 공급해 약 2만 동 난방을 감당할 수 있다는 결과가 나왔다 — 데이터센터 전력의 30~50%가 냉각에 들어가고 열회수율 60%를 가정했기 때문에 나온 값이라, 동결건조기 냉동기 응축 폐열을 공정 온수로 올려 쓸 때도 같은 회수율과 수질·주입온도 제약이 그대로 적용됩니다(모델링 결과).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/aquifer-storage-can-channel-german-data-centre-waste-heat-to-20000-buildings/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 15:12] 부-스타가 미쓰비시전기 클리마베네타와 데이터센터용 냉각유체분배장치 ME-CDU(설계조건 1,100~1,168kW)와 오일프리 자기부상 칠러 TECS-W(모듈당 281~528kW)를 내놨다 — CDU가 판형 열교환기로 시설 측 냉각수와 서버 측 냉각유체 회로를 갈라 수질·압력 오염을 막는 구조인데, 동결건조기 브라인 회로와 칠러 회로를 분리하는 우리 배관 설계와 같은 원리입니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "냉동공조저널",
+              "url": "https://www.hvacrj.co.kr/news/articleView.html?idxno=31474"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 14:18] 식용곤충 단백질을 다룬 Frontiers in Nutrition 리뷰가 건조 방식이 단백질의 미세구조·기능성·저장 안정성을 결정한다고 정리했다 — 건조를 단순 수분 제거가 아니라 열·수화 스트레스로 규정했기 때문에, 같은 원료에 동결건조와 열풍건조를 적용하면 재수화성과 향미 보존이 갈리는 이유가 설명됩니다(원료 조단백 35~60%, 건조중량 기준).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/drying-methods-reshape-edible-insect-protein-structure-functionality-and-storage-stability/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 12:20] 항체-약물 접합체(ADC)를 제형부터 제조 단계까지 동결건조로 안정화하는 조건을 정리한 연구가 나왔다 — 2025년 7월 기준 승인 19건(2건 철회)에 임상 파이프라인 370건이 걸린 품목군이라 사이클 편차가 곧 허가 리스크가 되는데, 식품인 커피에서는 같은 편차가 잔류수분 규격 이탈과 향미 손실로 나타납니다(정량 성과 없음).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/lyophilization-stabilizes-antibody-drug-conjugate-products-across-formulation-and-manufacturing-stages/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 11:17] 자당 용액 동결건조에서 2.45GHz 마이크로파 흡수는 얼음이나 용질이 아니라 동결농축액의 유리수 부피분율이 지배한다는 측정 결과가 나왔다 — 고형분 농도가 다르면 같은 마이크로파 출력에서 승화 속도가 달라진다는 뜻이라, 추출 농도가 배치마다 흔들리는 커피 농축액에 마이크로파 보조 건조를 붙일 때는 출력을 농도에 맞춰 보정해야 합니다(실험실 규모, 5~72wt% 자당).",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/free-water-governs-microwave-heating-in-freeze-drying-solutions-of-sucrose/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/15 05:45] 독일 데이터센터 19곳을 분석한 연구에서 13곳이 대수층 열저장(ATES)으로 연 707GWh를 공급해 약 2만 동 난방을 감당할 수 있다는 결과가 나왔다 — 데이터센터 전력의 30~50%가 냉각에 들어가고 열회수율 60%를 가정했기 때문에 나온 값이라, 동결건조기 냉동기 응축 폐열을 공정 온수로 올려 쓸 때도 같은 회수율과 수질·주입온도 제약이 그대로 적용됩니다(모델링 결과). [Bioengineer.org](https://bioengineer.org/aquifer-storage-can-channel-german-data-centre-waste-heat-to-20000-buildings/)\n[11/14 15:12] 부-스타가 미쓰비시전기 클리마베네타와 데이터센터용 냉각유체분배장치 ME-CDU(설계조건 1,100~1,168kW)와 오일프리 자기부상 칠러 TECS-W(모듈당 281~528kW)를 내놨다 — CDU가 판형 열교환기로 시설 측 냉각수와 서버 측 냉각유체 회로를 갈라 수질·압력 오염을 막는 구조인데, 동결건조기 브라인 회로와 칠러 회로를 분리하는 우리 배관 설계와 같은 원리입니다(정량 성과 없음). [냉동공조저널](https://www.hvacrj.co.kr/news/articleView.html?idxno=31474)\n[11/14 14:18] 식용곤충 단백질을 다룬 Frontiers in Nutrition 리뷰가 건조 방식이 단백질의 미세구조·기능성·저장 안정성을 결정한다고 정리했다 — 건조를 단순 수분 제거가 아니라 열·수화 스트레스로 규정했기 때문에, 같은 원료에 동결건조와 열풍건조를 적용하면 재수화성과 향미 보존이 갈리는 이유가 설명됩니다(원료 조단백 35~60%, 건조중량 기준). [Bioengineer.org](https://bioengineer.org/drying-methods-reshape-edible-insect-protein-structure-functionality-and-storage-stability/)\n[11/14 12:20] 항체-약물 접합체(ADC)를 제형부터 제조 단계까지 동결건조로 안정화하는 조건을 정리한 연구가 나왔다 — 2025년 7월 기준 승인 19건(2건 철회)에 임상 파이프라인 370건이 걸린 품목군이라 사이클 편차가 곧 허가 리스크가 되는데, 식품인 커피에서는 같은 편차가 잔류수분 규격 이탈과 향미 손실로 나타납니다(정량 성과 없음). [Bioengineer.org](https://bioengineer.org/lyophilization-stabilizes-antibody-drug-conjugate-products-across-formulation-and-manufacturing-stages/)\n[11/14 11:17] 자당 용액 동결건조에서 2.45GHz 마이크로파 흡수는 얼음이나 용질이 아니라 동결농축액의 유리수 부피분율이 지배한다는 측정 결과가 나왔다 — 고형분 농도가 다르면 같은 마이크로파 출력에서 승화 속도가 달라진다는 뜻이라, 추출 농도가 배치마다 흔들리는 커피 농축액에 마이크로파 보조 건조를 붙일 때는 출력을 농도에 맞춰 보정해야 합니다(실험실 규모, 5~72wt% 자당). [Bioengineer.org](https://bioengineer.org/free-water-governs-microwave-heating-in-freeze-drying-solutions-of-sucrose/)"
+    },
+    {
+      "id": "manufacturing-ai-2026-11-14_00-05-22",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI",
       "date": "2026-11-14",
       "time": "09:05",
       "published_at": "2026-11-14T00:05:21+00:00",
@@ -346,52 +390,18 @@
               "url": "http://www.engjournal.co.kr/news/articleView.html?idxno=4049"
             }
           ]
-        },
-        {
-          "text": "[11/14 05:57] AAPS Open에 마이크로파 보조 동결건조의 열역학 모델 연구가 실렸습니다. 바이알 벽의 체적 전자파 가열과 그것이 얼린 제품으로 전도되는 경로를 무시할 수 없다는 결론으로, 2차원 level set 시뮬레이션과 0차원 집중용량 모델을 실험과 대조했습니다. 선반 온도만으로 제품 온도를 예측하는 기존 가정이 깨지는 조건이라, 선반 온도·챔버 압력 기반으로 사이클을 설계하는 CONRAD 500 XL의 제어 논리에도 같은 한계가 생깁니다. 정량 성과 없음.",
-          "links": [
-            {
-              "label": "Bioengineer.org",
-              "url": "https://bioengineer.org/novel-mechanistic-models-capture-heat-dynamics-in-microwave-assisted-pharmaceutical-lyophilization/"
-            }
-          ]
-        },
-        {
-          "text": "[11/13 15:40] 감압식 제어 빙핵(RD-CIN)의 설계 공간을 CFD로 예측한 연구가 나왔습니다. Siemens STAR-CCM+에 등온팽창 모델을 구현해 2R·6R 바이알, LyoStar 3에 ControLyo를 붙여 검증했고, 과냉각이 크면 기공이 작고 구불구불해져 승화 수증기 이동이 느려지고 1차건조가 길어진다고 정리했습니다. 1차건조가 수분 95~98%를 빼고 2차가 2~5%를 잡는 구조이니, 빙결 단계의 과냉각 편차를 줄이는 것이 배치 전체 건조시간을 줄이는 레버가 됩니다. 정량 단축치는 없음.",
-          "links": [
-            {
-              "label": "Bioengineer.org",
-              "url": "https://bioengineer.org/design-space-modeling-predicts-controlled-ice-nucleation-in-pharmaceutical-freeze-drying/"
-            }
-          ]
-        },
-        {
-          "text": "[11/14 04:25] Simtra BioPharma Solutions가 인디애나 블루밍턴에 2억5000만 달러 이상을 들인 Building H를 열었습니다. 연면적 15만3000평방피트에 주사기 2라인과 바이알 1라인, 바이알 라인은 동결건조기 3대가 공급하며, 2027년까지 충전 라인을 11개에서 18개로 늘린다는 계획입니다. 충전 라인 증설이 동결건조기 대수와 사이클 타임에 묶여 함께 계산된다는 사례로, 우리도 동결건조기 처리능력이 전체 생산능력을 결정하는 구조가 같습니다. 라인 확대 일정은 회사 발표 주장입니다.",
-          "links": [
-            {
-              "label": "MarketScale",
-              "url": "https://www.marketscale.com/industries/sciences/simtra-opens-250-million-plus-bloomington-building-with-three-sterile-filling-lines"
-            }
-          ]
-        },
-        {
-          "text": "[11/14 03:00] ACHR News가 냉동창고 열배출 시스템의 과대설계 문제를 다뤘습니다. 정전이 두려워 예비 용량을 크게 잡는 관행이 물과 에너지 소비를 늘리고, 온도 유지가 흔들리면 오염 위험과 유지보수 부담까지 키운다는 것입니다. 증발식 응축기는 암모니아 같은 고압·극저온 대형 단일 목적에, 쿨링타워+열교환기는 중소형·부분부하 변동이 큰 현장에 맞는다고 구분합니다. 우리 냉동설비도 실제 열부하 기준으로 용량을 다시 계산하면 부분부하 효율 손실을 줄일 여지가 있습니다. 정량 성과 없음.",
-          "links": [
-            {
-              "label": "ACHR News",
-              "url": "https://www.achrnews.com/articles/167000-bigger-isnt-always-better-in-cold-storage-cooling"
-            }
-          ]
-        },
-        {
-          "text": "[11/13 21:17] 독일 정보보안청(BSI)이 Danfoss 산업용 냉각기기의 취약점이 남아 있다고 경고했습니다. 유럽 유통 냉장·냉동설비 공격 이후 나온 조치로, Danfoss가 아직 충분한 패치를 내놓지 못했고 신규 패치도 추가 취약점을 배제하지 못한다며 산업제어시스템을 인터넷에 직접 노출하지 말라고 요구했습니다. 온도 컨트롤러 설정이 바뀌면 연속 가열·제상 사이클로 몰려 재고 손실과 화재 위험이 생기므로, 동결건조기·냉동기 원격 접속 경로를 먼저 목록화해 둘 필요가 있습니다. 정량 성과 없음.",
-          "links": [
-            {
-              "label": "CNA(Reuters)",
-              "url": "https://www.channelnewsasia.com/business/german-watchdog-warns-some-cooling-systems-remain-vulnerable-hacking-6549466"
-            }
-          ]
-        },
+        }
+      ],
+      "raw_text": "[11/14 08:48] 앤스로픽이 제조업용 '클로드 포 매뉴팩처링'을 공개했습니다. 견적 초안 작성, 불량 원인 추정과 시정조치 보고서, 설비 고장 원인·점검 순서 제시까지 17개 기능이고, 인포 플러그인으로 구매발주·재고 재배정·생산일정 변경까지 연결됩니다. 다만 AI가 공장 설비를 직접 제어하는 기능은 빠져 있어 PLC 제어 루프와는 분리된 구조입니다. 10만 달러 이상 지출 기업 고객은 2026년 9월 말 기준 1만1900곳(전년 동기 950곳, 앤스로픽 SEC 제출 자료)이고, 제조 현장의 생산성·비용 절감 실적은 아직 공개되지 않았습니다. [이데일리](https://www.edaily.co.kr/News/Read?newsId=02427206645645720&mediaCodeNo=257)\n[11/14 06:14] 삼성메디슨이 홍천에 500억원을 들인 신제조동(연면적 1만4548㎡)을 준공했습니다. 1만5000~2만개 부품 중 핵심 전자부품은 클린룸 SMT 라인이 24시간 실장하고, 조립은 경력 10~15년 마이스터의 1인 완결형으로 두었으며, 출하는 40℃에서 24시간 이상 에이징 검증을 거칩니다. 자동화를 실장·검증에 몰아넣고 조립은 사람이 잡는 구성이라, 전 공정 무인화보다 계측·검증 자동화를 먼저 붙이는 순서가 우리 라인에도 맞습니다. 생산능력 2배(2030년, 연 4만대 인프라)는 회사 발표 주장입니다. [더구루](https://www.theguru.co.kr/news/article.html?no=109732)\n[11/13 17:20] 다임테크놀로지가 인텔코리아와 AI 다크팩토리 기술협력 MOU를 맺었습니다. 이기종 로봇 오케스트레이션·공장 시뮬레이션·생산일정 최적화를 카이로버스(KAIST 카이로스37의 상용판) 위에서 검증하고, 인텔은 코어 울트라·제온·아크 GPU와 오픈비노로 컴퓨팅을 지원합니다. 서로 다른 제조사 로봇과 설비를 하나의 운영 체계로 묶는 계층이 먼저 필요하다는 접근으로, GEA 제어계와 개별 PLC·계측이 섞인 우리 설비도 같은 지점에서 막힙니다. 정량 성과 없음(PoC 예정). [이데일리](https://www.edaily.co.kr/News/Read?newsId=04444406645645392&mediaCodeNo=257)\n[11/13 17:00] 한국식품연구원이 '2026 글로벌 푸드테크 기술 표준화 심포지엄' 내용을 공개했습니다. 식품은 원료마다 크기·형태·물성이 다르고 품목별 공정 조건도 달라 일반 제조업 자동화를 그대로 옮길 수 없으며, 장비마다 통신방식과 데이터 형식이 달라 설비 연계 자체가 걸린다고 짚었습니다. 동결건조 커피도 품목·배치별 건조 곡선이 달라 표준 데이터 모델 없이는 AI 학습용 이력이 쌓이지 않는다는 점이 같은 문제입니다. 정량 성과 없음. [머니투데이](https://www.mt.co.kr/index.php/future/2026/11/13/2026111313315595498)\n[11/13 09:26] 한국생산기술연구원 제조AI연구센터가 '에이전틱 디지털 트윈' 연구를 소개했습니다. AI 에이전트가 트윈 상태를 읽고 대안을 제안한 뒤 시험 결과로 판단을 고치는 구조이며, CES 2027 출품 준비 중인 RGBD2TwinSet은 이동식 RGB-D 센서로 공장·창고 공간을 3D 객체 자산으로 만듭니다. 연구 책임자는 \"현장 전체의 생산성 향상으로 곧바로 환산해서는 안 된다\", \"판단 비용이 큰 공정 하나에서 시작하는 편이 현실적\"이라고 못 박았습니다. 동결건조 1차건조 편차처럼 판단 비용이 큰 공정 하나를 골라 트윈을 붙이는 순서가 여기에 해당합니다. [공학저널](http://www.engjournal.co.kr/news/articleView.html?idxno=4049)"
+    },
+    {
+      "id": "maintenance-automation-2026-11-14_00-05-22",
+      "category": "maintenance-automation",
+      "category_label": "설비보전·자동화",
+      "date": "2026-11-14",
+      "time": "09:05",
+      "published_at": "2026-11-14T00:05:21+00:00",
+      "items": [
         {
           "text": "[11/13 16:22] 슈나이더일렉트릭이 Altivar 600 드라이브에 내장된 AI 예지보전 'ATV Predict'를 소개하는 온라인 세미나를 12월 2일 엽니다. 별도 센서 없이 드라이브가 이미 수집하는 전류·전압·속도·토크로 설비 상태를 진단하고, 펌프 캐비테이션 사례를 이상 징후 감지부터 스트레스 지표 변화, 권장 조치까지 따라갑니다. 진공펌프와 냉동 압축기 모터가 인버터로 구동된다면 추가 진동센서 없이 같은 데이터로 초기 이상을 볼 수 있다는 뜻입니다. 정량 성과 없음(세미나 예고).",
           "links": [
@@ -438,12 +448,68 @@
           ]
         }
       ],
-      "raw_text": "[11/14 08:48] 앤스로픽이 제조업용 '클로드 포 매뉴팩처링'을 공개했습니다. 견적 초안 작성, 불량 원인 추정과 시정조치 보고서, 설비 고장 원인·점검 순서 제시까지 17개 기능이고, 인포 플러그인으로 구매발주·재고 재배정·생산일정 변경까지 연결됩니다. 다만 AI가 공장 설비를 직접 제어하는 기능은 빠져 있어 PLC 제어 루프와는 분리된 구조입니다. 10만 달러 이상 지출 기업 고객은 2026년 9월 말 기준 1만1900곳(전년 동기 950곳, 앤스로픽 SEC 제출 자료)이고, 제조 현장의 생산성·비용 절감 실적은 아직 공개되지 않았습니다. [이데일리](https://www.edaily.co.kr/News/Read?newsId=02427206645645720&mediaCodeNo=257)\n[11/14 06:14] 삼성메디슨이 홍천에 500억원을 들인 신제조동(연면적 1만4548㎡)을 준공했습니다. 1만5000~2만개 부품 중 핵심 전자부품은 클린룸 SMT 라인이 24시간 실장하고, 조립은 경력 10~15년 마이스터의 1인 완결형으로 두었으며, 출하는 40℃에서 24시간 이상 에이징 검증을 거칩니다. 자동화를 실장·검증에 몰아넣고 조립은 사람이 잡는 구성이라, 전 공정 무인화보다 계측·검증 자동화를 먼저 붙이는 순서가 우리 라인에도 맞습니다. 생산능력 2배(2030년, 연 4만대 인프라)는 회사 발표 주장입니다. [더구루](https://www.theguru.co.kr/news/article.html?no=109732)\n[11/13 17:20] 다임테크놀로지가 인텔코리아와 AI 다크팩토리 기술협력 MOU를 맺었습니다. 이기종 로봇 오케스트레이션·공장 시뮬레이션·생산일정 최적화를 카이로버스(KAIST 카이로스37의 상용판) 위에서 검증하고, 인텔은 코어 울트라·제온·아크 GPU와 오픈비노로 컴퓨팅을 지원합니다. 서로 다른 제조사 로봇과 설비를 하나의 운영 체계로 묶는 계층이 먼저 필요하다는 접근으로, GEA 제어계와 개별 PLC·계측이 섞인 우리 설비도 같은 지점에서 막힙니다. 정량 성과 없음(PoC 예정). [이데일리](https://www.edaily.co.kr/News/Read?newsId=04444406645645392&mediaCodeNo=257)\n[11/13 17:00] 한국식품연구원이 '2026 글로벌 푸드테크 기술 표준화 심포지엄' 내용을 공개했습니다. 식품은 원료마다 크기·형태·물성이 다르고 품목별 공정 조건도 달라 일반 제조업 자동화를 그대로 옮길 수 없으며, 장비마다 통신방식과 데이터 형식이 달라 설비 연계 자체가 걸린다고 짚었습니다. 동결건조 커피도 품목·배치별 건조 곡선이 달라 표준 데이터 모델 없이는 AI 학습용 이력이 쌓이지 않는다는 점이 같은 문제입니다. 정량 성과 없음. [머니투데이](https://www.mt.co.kr/index.php/future/2026/11/13/2026111313315595498)\n[11/13 09:26] 한국생산기술연구원 제조AI연구센터가 '에이전틱 디지털 트윈' 연구를 소개했습니다. AI 에이전트가 트윈 상태를 읽고 대안을 제안한 뒤 시험 결과로 판단을 고치는 구조이며, CES 2027 출품 준비 중인 RGBD2TwinSet은 이동식 RGB-D 센서로 공장·창고 공간을 3D 객체 자산으로 만듭니다. 연구 책임자는 \"현장 전체의 생산성 향상으로 곧바로 환산해서는 안 된다\", \"판단 비용이 큰 공정 하나에서 시작하는 편이 현실적\"이라고 못 박았습니다. 동결건조 1차건조 편차처럼 판단 비용이 큰 공정 하나를 골라 트윈을 붙이는 순서가 여기에 해당합니다. [공학저널](http://www.engjournal.co.kr/news/articleView.html?idxno=4049)\n[11/14 05:57] AAPS Open에 마이크로파 보조 동결건조의 열역학 모델 연구가 실렸습니다. 바이알 벽의 체적 전자파 가열과 그것이 얼린 제품으로 전도되는 경로를 무시할 수 없다는 결론으로, 2차원 level set 시뮬레이션과 0차원 집중용량 모델을 실험과 대조했습니다. 선반 온도만으로 제품 온도를 예측하는 기존 가정이 깨지는 조건이라, 선반 온도·챔버 압력 기반으로 사이클을 설계하는 CONRAD 500 XL의 제어 논리에도 같은 한계가 생깁니다. 정량 성과 없음. [Bioengineer.org](https://bioengineer.org/novel-mechanistic-models-capture-heat-dynamics-in-microwave-assisted-pharmaceutical-lyophilization/)\n[11/13 15:40] 감압식 제어 빙핵(RD-CIN)의 설계 공간을 CFD로 예측한 연구가 나왔습니다. Siemens STAR-CCM+에 등온팽창 모델을 구현해 2R·6R 바이알, LyoStar 3에 ControLyo를 붙여 검증했고, 과냉각이 크면 기공이 작고 구불구불해져 승화 수증기 이동이 느려지고 1차건조가 길어진다고 정리했습니다. 1차건조가 수분 95~98%를 빼고 2차가 2~5%를 잡는 구조이니, 빙결 단계의 과냉각 편차를 줄이는 것이 배치 전체 건조시간을 줄이는 레버가 됩니다. 정량 단축치는 없음. [Bioengineer.org](https://bioengineer.org/design-space-modeling-predicts-controlled-ice-nucleation-in-pharmaceutical-freeze-drying/)\n[11/14 04:25] Simtra BioPharma Solutions가 인디애나 블루밍턴에 2억5000만 달러 이상을 들인 Building H를 열었습니다. 연면적 15만3000평방피트에 주사기 2라인과 바이알 1라인, 바이알 라인은 동결건조기 3대가 공급하며, 2027년까지 충전 라인을 11개에서 18개로 늘린다는 계획입니다. 충전 라인 증설이 동결건조기 대수와 사이클 타임에 묶여 함께 계산된다는 사례로, 우리도 동결건조기 처리능력이 전체 생산능력을 결정하는 구조가 같습니다. 라인 확대 일정은 회사 발표 주장입니다. [MarketScale](https://www.marketscale.com/industries/sciences/simtra-opens-250-million-plus-bloomington-building-with-three-sterile-filling-lines)\n[11/14 03:00] ACHR News가 냉동창고 열배출 시스템의 과대설계 문제를 다뤘습니다. 정전이 두려워 예비 용량을 크게 잡는 관행이 물과 에너지 소비를 늘리고, 온도 유지가 흔들리면 오염 위험과 유지보수 부담까지 키운다는 것입니다. 증발식 응축기는 암모니아 같은 고압·극저온 대형 단일 목적에, 쿨링타워+열교환기는 중소형·부분부하 변동이 큰 현장에 맞는다고 구분합니다. 우리 냉동설비도 실제 열부하 기준으로 용량을 다시 계산하면 부분부하 효율 손실을 줄일 여지가 있습니다. 정량 성과 없음. [ACHR News](https://www.achrnews.com/articles/167000-bigger-isnt-always-better-in-cold-storage-cooling)\n[11/13 21:17] 독일 정보보안청(BSI)이 Danfoss 산업용 냉각기기의 취약점이 남아 있다고 경고했습니다. 유럽 유통 냉장·냉동설비 공격 이후 나온 조치로, Danfoss가 아직 충분한 패치를 내놓지 못했고 신규 패치도 추가 취약점을 배제하지 못한다며 산업제어시스템을 인터넷에 직접 노출하지 말라고 요구했습니다. 온도 컨트롤러 설정이 바뀌면 연속 가열·제상 사이클로 몰려 재고 손실과 화재 위험이 생기므로, 동결건조기·냉동기 원격 접속 경로를 먼저 목록화해 둘 필요가 있습니다. 정량 성과 없음. [CNA(Reuters)](https://www.channelnewsasia.com/business/german-watchdog-warns-some-cooling-systems-remain-vulnerable-hacking-6549466)\n[11/13 16:22] 슈나이더일렉트릭이 Altivar 600 드라이브에 내장된 AI 예지보전 'ATV Predict'를 소개하는 온라인 세미나를 12월 2일 엽니다. 별도 센서 없이 드라이브가 이미 수집하는 전류·전압·속도·토크로 설비 상태를 진단하고, 펌프 캐비테이션 사례를 이상 징후 감지부터 스트레스 지표 변화, 권장 조치까지 따라갑니다. 진공펌프와 냉동 압축기 모터가 인버터로 구동된다면 추가 진동센서 없이 같은 데이터로 초기 이상을 볼 수 있다는 뜻입니다. 정량 성과 없음(세미나 예고). [헬로티](https://www.hellot.net/news/article.html?no=116294)\n[11/14 03:37] Automation World가 예지보전의 '인사이트-실행' 격차를 짚었습니다. Deloitte 2023년 스마트팩토리 조사에서 상태감시를 도입한 제조사는 72%였지만, 알람과 CMMS 연계를 자동화한 곳은 26%에 그쳤고 나머지는 메일·메모·엑셀로 처리하고 있습니다. 진동값이 7.1mm/s를 넘거나 압축기 토출온도가 72시간 오르는 것을 감지해도, 작업지시·자재 확인·생산창 조정으로 넘기는 흐름이 없으면 정비는 담당자 기억에 매달립니다. 우리 예방보전도 센서 증설보다 알람→작업지시 자동 전환 지점을 먼저 정하는 편이 효과적입니다. [Automation World](https://www.automationworld.com/factory/plant-maintenance/news/55418866/from-sensor-alert-to-work-order-how-cmms-closes-the-insight-to-action-gap-in-predictive-maintenance)\n[11/13 21:00] 로크웰 오토메이션이 LogixEdge 컨트롤러를 내놨습니다. Logix 결정론적 제어와 엣지 컴퓨팅, 컨테이너 애플리케이션을 산업용 PC 한 대에 올려 시각화·분석·AI 워크로드를 제어기 옆에서 돌리는 구조입니다. 제어와 소프트웨어를 같은 하드웨어에 두면 게이트웨이를 따로 두는 계층이 줄지만, 제어 주기와 분석 부하가 같은 자원을 나눠 쓰는 만큼 자원 분리 설계가 관건이 됩니다. WinCC와 PLC 사이에 두는 중간 계층을 어떻게 잡을지에 직접 닿습니다. 정량 성과 없음. [ARC Advisory](https://www.arcweb.com/blog/rockwell-automation-introduces-logixedge-controller-software-defined-automation)\n[11/13 16:48] 위드로봇이 포스코 광양제철소 제선부·공정DX연구소와 함께 개발한 '스마트 와이어볼'이 포스코그룹 테크포럼 협업상(11/10)을 받았습니다. 와이어를 따라 이동하며 영상·소리·열화상을 함께 모으고, 자체 AI 보드 카멜레온7 라이트가 현장에서 바로 처리해 정상 상태 데이터에서 벗어난 신호를 찾습니다. 사람이 접근하기 어렵거나 같은 구간을 반복 순찰해야 하는 곳을 대신한다는 구성이라, 설비 상부 배관·냉동기 실외기 열화상 점검에 같은 패턴을 쓸 수 있습니다. 정량 성과 없음. [플래텀](https://platum.kr/archives/298574)\n[11/13 21:52] 철골 가공업체 FB2M이 Visometry의 태블릿 AR 소프트웨어 'Twyn'을 도입해 검사 시간을 하루에서 30분 이내로 줄였습니다. CAD 모델을 실물 위에 겹쳐 보여 치수 이탈을 그 자리에서 판정하므로, 측정하고 사무실로 돌아가 대조하던 왕복이 사라진 것이 90% 단축의 이유입니다. 우리 현장에서는 배관·지지대 설치처럼 도면 대조가 필요한 작업에 해당하고, 제품 자체의 품질 판정에는 해당하지 않습니다. [Imaging and Machine Vision Europe](https://www.imveurope.com/article/steel-fabs-inspection-time-cut-90-tablet-ar)"
+      "raw_text": "[11/13 16:22] 슈나이더일렉트릭이 Altivar 600 드라이브에 내장된 AI 예지보전 'ATV Predict'를 소개하는 온라인 세미나를 12월 2일 엽니다. 별도 센서 없이 드라이브가 이미 수집하는 전류·전압·속도·토크로 설비 상태를 진단하고, 펌프 캐비테이션 사례를 이상 징후 감지부터 스트레스 지표 변화, 권장 조치까지 따라갑니다. 진공펌프와 냉동 압축기 모터가 인버터로 구동된다면 추가 진동센서 없이 같은 데이터로 초기 이상을 볼 수 있다는 뜻입니다. 정량 성과 없음(세미나 예고). [헬로티](https://www.hellot.net/news/article.html?no=116294)\n[11/14 03:37] Automation World가 예지보전의 '인사이트-실행' 격차를 짚었습니다. Deloitte 2023년 스마트팩토리 조사에서 상태감시를 도입한 제조사는 72%였지만, 알람과 CMMS 연계를 자동화한 곳은 26%에 그쳤고 나머지는 메일·메모·엑셀로 처리하고 있습니다. 진동값이 7.1mm/s를 넘거나 압축기 토출온도가 72시간 오르는 것을 감지해도, 작업지시·자재 확인·생산창 조정으로 넘기는 흐름이 없으면 정비는 담당자 기억에 매달립니다. 우리 예방보전도 센서 증설보다 알람→작업지시 자동 전환 지점을 먼저 정하는 편이 효과적입니다. [Automation World](https://www.automationworld.com/factory/plant-maintenance/news/55418866/from-sensor-alert-to-work-order-how-cmms-closes-the-insight-to-action-gap-in-predictive-maintenance)\n[11/13 21:00] 로크웰 오토메이션이 LogixEdge 컨트롤러를 내놨습니다. Logix 결정론적 제어와 엣지 컴퓨팅, 컨테이너 애플리케이션을 산업용 PC 한 대에 올려 시각화·분석·AI 워크로드를 제어기 옆에서 돌리는 구조입니다. 제어와 소프트웨어를 같은 하드웨어에 두면 게이트웨이를 따로 두는 계층이 줄지만, 제어 주기와 분석 부하가 같은 자원을 나눠 쓰는 만큼 자원 분리 설계가 관건이 됩니다. WinCC와 PLC 사이에 두는 중간 계층을 어떻게 잡을지에 직접 닿습니다. 정량 성과 없음. [ARC Advisory](https://www.arcweb.com/blog/rockwell-automation-introduces-logixedge-controller-software-defined-automation)\n[11/13 16:48] 위드로봇이 포스코 광양제철소 제선부·공정DX연구소와 함께 개발한 '스마트 와이어볼'이 포스코그룹 테크포럼 협업상(11/10)을 받았습니다. 와이어를 따라 이동하며 영상·소리·열화상을 함께 모으고, 자체 AI 보드 카멜레온7 라이트가 현장에서 바로 처리해 정상 상태 데이터에서 벗어난 신호를 찾습니다. 사람이 접근하기 어렵거나 같은 구간을 반복 순찰해야 하는 곳을 대신한다는 구성이라, 설비 상부 배관·냉동기 실외기 열화상 점검에 같은 패턴을 쓸 수 있습니다. 정량 성과 없음. [플래텀](https://platum.kr/archives/298574)\n[11/13 21:52] 철골 가공업체 FB2M이 Visometry의 태블릿 AR 소프트웨어 'Twyn'을 도입해 검사 시간을 하루에서 30분 이내로 줄였습니다. CAD 모델을 실물 위에 겹쳐 보여 치수 이탈을 그 자리에서 판정하므로, 측정하고 사무실로 돌아가 대조하던 왕복이 사라진 것이 90% 단축의 이유입니다. 우리 현장에서는 배관·지지대 설치처럼 도면 대조가 필요한 작업에 해당하고, 제품 자체의 품질 판정에는 해당하지 않습니다. [Imaging and Machine Vision Europe](https://www.imveurope.com/article/steel-fabs-inspection-time-cut-90-tablet-ar)"
     },
     {
-      "id": "economy-2026-11-13_00-08-32",
-      "category": "economy",
-      "category_label": "제조산업 뉴스 3분야 15건",
+      "id": "freeze-drying-equipment-2026-11-14_00-05-22",
+      "category": "freeze-drying-equipment",
+      "category_label": "동결건조·핵심 설비",
+      "date": "2026-11-14",
+      "time": "09:05",
+      "published_at": "2026-11-14T00:05:21+00:00",
+      "items": [
+        {
+          "text": "[11/14 05:57] AAPS Open에 마이크로파 보조 동결건조의 열역학 모델 연구가 실렸습니다. 바이알 벽의 체적 전자파 가열과 그것이 얼린 제품으로 전도되는 경로를 무시할 수 없다는 결론으로, 2차원 level set 시뮬레이션과 0차원 집중용량 모델을 실험과 대조했습니다. 선반 온도만으로 제품 온도를 예측하는 기존 가정이 깨지는 조건이라, 선반 온도·챔버 압력 기반으로 사이클을 설계하는 CONRAD 500 XL의 제어 논리에도 같은 한계가 생깁니다. 정량 성과 없음.",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/novel-mechanistic-models-capture-heat-dynamics-in-microwave-assisted-pharmaceutical-lyophilization/"
+            }
+          ]
+        },
+        {
+          "text": "[11/13 15:40] 감압식 제어 빙핵(RD-CIN)의 설계 공간을 CFD로 예측한 연구가 나왔습니다. Siemens STAR-CCM+에 등온팽창 모델을 구현해 2R·6R 바이알, LyoStar 3에 ControLyo를 붙여 검증했고, 과냉각이 크면 기공이 작고 구불구불해져 승화 수증기 이동이 느려지고 1차건조가 길어진다고 정리했습니다. 1차건조가 수분 95~98%를 빼고 2차가 2~5%를 잡는 구조이니, 빙결 단계의 과냉각 편차를 줄이는 것이 배치 전체 건조시간을 줄이는 레버가 됩니다. 정량 단축치는 없음.",
+          "links": [
+            {
+              "label": "Bioengineer.org",
+              "url": "https://bioengineer.org/design-space-modeling-predicts-controlled-ice-nucleation-in-pharmaceutical-freeze-drying/"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 04:25] Simtra BioPharma Solutions가 인디애나 블루밍턴에 2억5000만 달러 이상을 들인 Building H를 열었습니다. 연면적 15만3000평방피트에 주사기 2라인과 바이알 1라인, 바이알 라인은 동결건조기 3대가 공급하며, 2027년까지 충전 라인을 11개에서 18개로 늘린다는 계획입니다. 충전 라인 증설이 동결건조기 대수와 사이클 타임에 묶여 함께 계산된다는 사례로, 우리도 동결건조기 처리능력이 전체 생산능력을 결정하는 구조가 같습니다. 라인 확대 일정은 회사 발표 주장입니다.",
+          "links": [
+            {
+              "label": "MarketScale",
+              "url": "https://www.marketscale.com/industries/sciences/simtra-opens-250-million-plus-bloomington-building-with-three-sterile-filling-lines"
+            }
+          ]
+        },
+        {
+          "text": "[11/14 03:00] ACHR News가 냉동창고 열배출 시스템의 과대설계 문제를 다뤘습니다. 정전이 두려워 예비 용량을 크게 잡는 관행이 물과 에너지 소비를 늘리고, 온도 유지가 흔들리면 오염 위험과 유지보수 부담까지 키운다는 것입니다. 증발식 응축기는 암모니아 같은 고압·극저온 대형 단일 목적에, 쿨링타워+열교환기는 중소형·부분부하 변동이 큰 현장에 맞는다고 구분합니다. 우리 냉동설비도 실제 열부하 기준으로 용량을 다시 계산하면 부분부하 효율 손실을 줄일 여지가 있습니다. 정량 성과 없음.",
+          "links": [
+            {
+              "label": "ACHR News",
+              "url": "https://www.achrnews.com/articles/167000-bigger-isnt-always-better-in-cold-storage-cooling"
+            }
+          ]
+        },
+        {
+          "text": "[11/13 21:17] 독일 정보보안청(BSI)이 Danfoss 산업용 냉각기기의 취약점이 남아 있다고 경고했습니다. 유럽 유통 냉장·냉동설비 공격 이후 나온 조치로, Danfoss가 아직 충분한 패치를 내놓지 못했고 신규 패치도 추가 취약점을 배제하지 못한다며 산업제어시스템을 인터넷에 직접 노출하지 말라고 요구했습니다. 온도 컨트롤러 설정이 바뀌면 연속 가열·제상 사이클로 몰려 재고 손실과 화재 위험이 생기므로, 동결건조기·냉동기 원격 접속 경로를 먼저 목록화해 둘 필요가 있습니다. 정량 성과 없음.",
+          "links": [
+            {
+              "label": "CNA(Reuters)",
+              "url": "https://www.channelnewsasia.com/business/german-watchdog-warns-some-cooling-systems-remain-vulnerable-hacking-6549466"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/14 05:57] AAPS Open에 마이크로파 보조 동결건조의 열역학 모델 연구가 실렸습니다. 바이알 벽의 체적 전자파 가열과 그것이 얼린 제품으로 전도되는 경로를 무시할 수 없다는 결론으로, 2차원 level set 시뮬레이션과 0차원 집중용량 모델을 실험과 대조했습니다. 선반 온도만으로 제품 온도를 예측하는 기존 가정이 깨지는 조건이라, 선반 온도·챔버 압력 기반으로 사이클을 설계하는 CONRAD 500 XL의 제어 논리에도 같은 한계가 생깁니다. 정량 성과 없음. [Bioengineer.org](https://bioengineer.org/novel-mechanistic-models-capture-heat-dynamics-in-microwave-assisted-pharmaceutical-lyophilization/)\n[11/13 15:40] 감압식 제어 빙핵(RD-CIN)의 설계 공간을 CFD로 예측한 연구가 나왔습니다. Siemens STAR-CCM+에 등온팽창 모델을 구현해 2R·6R 바이알, LyoStar 3에 ControLyo를 붙여 검증했고, 과냉각이 크면 기공이 작고 구불구불해져 승화 수증기 이동이 느려지고 1차건조가 길어진다고 정리했습니다. 1차건조가 수분 95~98%를 빼고 2차가 2~5%를 잡는 구조이니, 빙결 단계의 과냉각 편차를 줄이는 것이 배치 전체 건조시간을 줄이는 레버가 됩니다. 정량 단축치는 없음. [Bioengineer.org](https://bioengineer.org/design-space-modeling-predicts-controlled-ice-nucleation-in-pharmaceutical-freeze-drying/)\n[11/14 04:25] Simtra BioPharma Solutions가 인디애나 블루밍턴에 2억5000만 달러 이상을 들인 Building H를 열었습니다. 연면적 15만3000평방피트에 주사기 2라인과 바이알 1라인, 바이알 라인은 동결건조기 3대가 공급하며, 2027년까지 충전 라인을 11개에서 18개로 늘린다는 계획입니다. 충전 라인 증설이 동결건조기 대수와 사이클 타임에 묶여 함께 계산된다는 사례로, 우리도 동결건조기 처리능력이 전체 생산능력을 결정하는 구조가 같습니다. 라인 확대 일정은 회사 발표 주장입니다. [MarketScale](https://www.marketscale.com/industries/sciences/simtra-opens-250-million-plus-bloomington-building-with-three-sterile-filling-lines)\n[11/14 03:00] ACHR News가 냉동창고 열배출 시스템의 과대설계 문제를 다뤘습니다. 정전이 두려워 예비 용량을 크게 잡는 관행이 물과 에너지 소비를 늘리고, 온도 유지가 흔들리면 오염 위험과 유지보수 부담까지 키운다는 것입니다. 증발식 응축기는 암모니아 같은 고압·극저온 대형 단일 목적에, 쿨링타워+열교환기는 중소형·부분부하 변동이 큰 현장에 맞는다고 구분합니다. 우리 냉동설비도 실제 열부하 기준으로 용량을 다시 계산하면 부분부하 효율 손실을 줄일 여지가 있습니다. 정량 성과 없음. [ACHR News](https://www.achrnews.com/articles/167000-bigger-isnt-always-better-in-cold-storage-cooling)\n[11/13 21:17] 독일 정보보안청(BSI)이 Danfoss 산업용 냉각기기의 취약점이 남아 있다고 경고했습니다. 유럽 유통 냉장·냉동설비 공격 이후 나온 조치로, Danfoss가 아직 충분한 패치를 내놓지 못했고 신규 패치도 추가 취약점을 배제하지 못한다며 산업제어시스템을 인터넷에 직접 노출하지 말라고 요구했습니다. 온도 컨트롤러 설정이 바뀌면 연속 가열·제상 사이클로 몰려 재고 손실과 화재 위험이 생기므로, 동결건조기·냉동기 원격 접속 경로를 먼저 목록화해 둘 필요가 있습니다. 정량 성과 없음. [CNA(Reuters)](https://www.channelnewsasia.com/business/german-watchdog-warns-some-cooling-systems-remain-vulnerable-hacking-6549466)"
+    },
+    {
+      "id": "manufacturing-ai-2026-11-13_00-08-32",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI",
       "date": "2026-11-13",
       "time": "09:08",
       "published_at": "2026-11-13T00:08:30+00:00",
@@ -492,52 +558,18 @@
               "url": "https://www.automationmagazine.co.uk/safer-factories-sharper-inspection-datalogic-brings-the-smart-factory-to-sps-2026/"
             }
           ]
-        },
-        {
-          "text": "[11/12 17:30] 알레이마가 중국 전장에 600㎡ 규모 정밀 스트립 응용센터를 열고 압축기 밸브강의 피로시험, 동적 관찰, 밸브계 설계 검증을 현지에서 지원한다. 냉동·동결고·히트펌프용 압축기의 효율과 신뢰성을 좌우하는 부품군이다. — 현장에 주는 의미: 동결건조기 냉동 계통에서 압축기 밸브가 피로로 파손되면 토출량이 줄고 응축 압력이 흔들려 건조실 승온 제어가 어긋나므로, 밸브강 피로 데이터는 압축기 정비 주기를 정하는 근거가 된다. (정량 성과 없음",
-          "links": [
-            {
-              "label": "Alleima",
-              "url": "https://www.alleima.com/en/news-media/archive/2026/11/alleima-opens-customer-application-center-for-precision-strip-steel-in-china/"
-            }
-          ]
-        },
-        {
-          "text": "[11/12 18:21] mRNA 지질나노입자를 동결건조 대신 분사건조로 분말화해 2~8℃에서 3~3.5년간 활성을 유지했다는 연구가 공개됐다. 논문은 동결건조를 대안 탐색의 출발점으로 두면서 48~72시간을 넘기는 사이클, 배치 간 편차, 재수화 후 입자 불균일을 한계로 들었다. — 현장에 주는 의미: 사이클이 긴 공정일수록 1차 건조 종말점 판정의 정확도가 배치 원가를 좌우하므로, 승온·압력 상승 시험과 제품온도를 이중으로 확인하는 절차가 원가 관리의 핵심이 된다.",
-          "links": [
-            {
-              "label": "Scienmag",
-              "url": "https://scienmag.com/spray-dried-mrna-nanoparticle-powders-remain-stable-for-three-years-under-refrigeration/"
-            }
-          ]
-        },
-        {
-          "text": "[11/12 22:08] 문터스가 이탈리아 칠러 공장에 약 2,500만 유로를 투입해 생산·시험 라인과 R&D 시설을 늘리고, 미국 텍사스에서는 열교환기 코일 제조사 로단과 합작사(지분 45%, 950만 달러)를 세운다. 코일 양산은 12~18개월 뒤 시작 예정이며 7년 구매 계약이 붙었다. — 현장에 주는 의미: 칠러 성능은 압축기·열교환기·제어의 조합에서 나오므로 코일 공급을 내재화하면 열교환기 교체 시 납기와 치수 공차 관리가 쉬워지고, 시험 설비 증설은 출하 전 성능 검증 대기 시간을 줄이는 쪽으로 작동한다.",
-          "links": [
-            {
-              "label": "Industrial News",
-              "url": "https://industrialnews.co.uk/munters-expands-chiller-and-coil-manufacturing-capacity/"
-            }
-          ]
-        },
-        {
-          "text": "[11/13 04:47] 심트라 바이오파마가 인디애나 블루밍턴 캠퍼스에 2억5,000만 달러 규모, 1만4,200㎡(153,000 sq ft) 확장동을 열고 프리필드시린지·바이알·동결건조 설비를 추가했다. 2027년까지 충전 라인을 11개에서 18개로 늘리고, 독일 할레에 1억2,500만 달러 이상을 따로 투자한다. — 현장에 주는 의미: CDMO가 동결건조 캐파를 늘리는 것은 건조기 대수가 곧 수주 경쟁력이라는 뜻으로, 같은 설비를 쓰는 쪽은 사이클 단축과 적재율 개선으로 단위 원가를 방어해야 하는 압박을 받는다.",
-          "links": [
-            {
-              "label": "DCAT Value Chain Insights",
-              "url": "https://www.dcatvci.org/top-industry-news/simtra-biopharma-solutions-opens-250-m-injectables-mfg-expansion/"
-            }
-          ]
-        },
-        {
-          "text": "[11/13 07:30] 다이킨 어플라이드가 AI팩토리용 60MW 냉각 아키텍처(D60-W)를 공개했다. 6개 유닛으로 IT 부하 60MW를 처리하고 액체냉각이 92%를 맡으며, 최대 10MW 무급유 자기베어링 원심 칠러와 건식 쿨러, 3단계 운전 모드, 통합 관제(iDCM)로 구성된다. — 현장에 주는 의미: 무급유 압축기는 오일 히터·오일 교환·기동 지연 항목을 없애므로 냉동기 정비 목록에서 오일 계통을 빼는 설계 검토의 근거가 된다. 데이터센터용 구성이라 식품 동결건조 라인과 직접 접점은 없다.",
-          "links": [
-            {
-              "label": "Refindustry",
-              "url": "https://refindustry.com/news/daikin-applied-introduces-60-mw-cooling-architecture-for-ai-factories/"
-            }
-          ]
-        },
+        }
+      ],
+      "raw_text": "- [11/12 10:01] LG CNS가 마곡 본사에서 '2026 로보틱스 & 피지컬 AI 포럼'을 열고 로봇 학습 데이터 확보와 동작 지연을 현장 적용의 핵심 쟁점으로 다뤘다. 1,000건 넘는 스마트팩토리·스마트물류 수행 경험을 근거로 학습 플랫폼 '피지컬웍스 포지'와 관제 플랫폼 '바통'을 소개했다. — 현장에 주는 의미: 검사 카메라의 판정과 로봇 동작 사이 지연을 제어 계통에서 보정하지 않으면 라인 속도가 올라갈수록 집기 위치가 어긋나므로, 로봇 셀을 붙이기 전에 비전·로봇·PLC의 시간 동기를 먼저 맞춰야 한다. (정량 성과 없음) [ZDNet Korea](https://zdnet.co.kr/view/?no=20261112085648)\n- [11/12 11:17] 아이벡스가 11일 서울 웨스틴 파르나스에서 연 '아이벡스 프론티어 2026'에서 비전 파운데이션 모델 하나로 수천 개 품종을 검사하고 학습 데이터를 기존 대비 36분의 1로 줄였다고 밝혔다. 야간에 현장 검사 데이터를 재학습해 라인을 멈추지 않고 모델을 갱신하는 폐루프 구조도 제시했다. — 현장에 주는 의미: 품종 전환이 잦은 라인에서는 모델을 품종마다 새로 만드는 작업이 검사 AI 도입비의 본체이므로, 데이터 요구량을 36분의 1로 낮춘다는 주장은 전환 시간과 검사기 셋업 공수를 직접 겨냥한다. (회사 발표 수치, 제3자 검증 없음) [이데일리 IR](https://ir.edaily.co.kr/News/Read?k=03063526645645064)\n- [11/12 15:13] 인텔이 'AI 서밋 서울 2026'에서 다임테크놀로지와 로봇·산업기계·물류 시스템을 묶는 자율공장 참조 아키텍처를 공동 개발한다고 밝혔다. 코어 울트라에 CPU·GPU·NPU를 통합하고 개방형 엣지 플랫폼으로 추론과 실시간 제어를 한 대에서 처리하는 구성이다. — 현장에 주는 의미: 제어 캐비닛 옆에 GPU 서버를 따로 두지 않아도 되는 방향이라 전력·발열·캐비닛 공간 부담은 줄지만, 제어 주기와 추론 부하가 같은 자원을 나눠 쓰므로 태스크 우선순위를 먼저 정해야 한다. (정량 성과 없음, 참조 아키텍처 단계) [머니투데이](https://www.mt.co.kr/tech/2026/11/12/2026111215130967808)\n- [11/12 15:33] 경북도가 산업부 '2026년 제2차 AI팩토리' 공모에서 현대제철 주관 '전기로 고위험 작업 대체와 생산성 향상을 위한 AI 자율운영 시스템' 과제를 추가 선정했다. 2029년까지 78억원(국비 63억·지방비 10억·민간 5억)을 넣어 고위험 작업 대체율 60% 이상, 생산성 30% 이상 향상을 목표로 내화물 손상 예측과 AMR 순회 진단을 함께 개발한다. — 현장에 주는 의미: 내화물 손상 예측은 열전대·카메라·정비이력이 같은 시간축에 놓여야 학습이 되므로, 센서 부착 위치와 정비 표준작업 절차를 먼저 정형화하는 순서가 성패를 가른다. [전자신문](https://www.etnews.com/20261112000366)\n- [11/12 18:19] 다이얼로직이 SPS 2026(11월 24~26일, 뉘른베르크)에서 보호거리 10m 안전 레이저 스캐너 SLS10과 PEKAT VISION 딥러닝 검사 조합(MX-G 비전 프로세서·Smart-VS 센서)을 내걸었다. SLS10은 회사 설명 기준 10m 보호거리를 내는 첫 안전 레이저 스캐너로, 긴 조립라인과 로봇 셀을 적은 대수로 덮는다. — 현장에 주는 의미: 보호영역이 넓어지면 설비 증설 때 안전 거리 재산정과 스캐너 추가 설치 범위가 줄어, 라인 변경 시 안전 인터록 재검증에 드는 정지시간이 짧아진다. (정량 성과 없음) [Automation Magazine](https://www.automationmagazine.co.uk/safer-factories-sharper-inspection-datalogic-brings-the-smart-factory-to-sps-2026/)"
+    },
+    {
+      "id": "maintenance-automation-2026-11-13_00-08-32",
+      "category": "maintenance-automation",
+      "category_label": "설비보전·자동화",
+      "date": "2026-11-13",
+      "time": "09:08",
+      "published_at": "2026-11-13T00:08:30+00:00",
+      "items": [
         {
           "text": "[11/13 00:16] 로크웰 오토메이션이 산업용 PC 기반 LogixEdge 컨트롤러를 출시했다. Logix 제어와 엣지 컴퓨팅, 컨테이너 애플리케이션을 한 플랫폼에서 돌려 제어와 분석 워크로드를 생산 현장 가까이에 붙인다. — 현장에 주는 의미: 제어기와 별도 PC로 나뉘어 있던 HMI·분석 서버를 한 박스로 합치면 캐비닛 공간과 배선은 줄지만, 컨테이너 갱신이 스캔 주기에 영향을 주지 않도록 코어 고정과 갱신 시점(비생산 시간대) 규칙을 함께 정해야 한다. (정량 성과 없음",
           "links": [
@@ -584,7 +616,63 @@
           ]
         }
       ],
-      "raw_text": "- [11/12 10:01] LG CNS가 마곡 본사에서 '2026 로보틱스 & 피지컬 AI 포럼'을 열고 로봇 학습 데이터 확보와 동작 지연을 현장 적용의 핵심 쟁점으로 다뤘다. 1,000건 넘는 스마트팩토리·스마트물류 수행 경험을 근거로 학습 플랫폼 '피지컬웍스 포지'와 관제 플랫폼 '바통'을 소개했다. — 현장에 주는 의미: 검사 카메라의 판정과 로봇 동작 사이 지연을 제어 계통에서 보정하지 않으면 라인 속도가 올라갈수록 집기 위치가 어긋나므로, 로봇 셀을 붙이기 전에 비전·로봇·PLC의 시간 동기를 먼저 맞춰야 한다. (정량 성과 없음) [ZDNet Korea](https://zdnet.co.kr/view/?no=20261112085648)\n- [11/12 11:17] 아이벡스가 11일 서울 웨스틴 파르나스에서 연 '아이벡스 프론티어 2026'에서 비전 파운데이션 모델 하나로 수천 개 품종을 검사하고 학습 데이터를 기존 대비 36분의 1로 줄였다고 밝혔다. 야간에 현장 검사 데이터를 재학습해 라인을 멈추지 않고 모델을 갱신하는 폐루프 구조도 제시했다. — 현장에 주는 의미: 품종 전환이 잦은 라인에서는 모델을 품종마다 새로 만드는 작업이 검사 AI 도입비의 본체이므로, 데이터 요구량을 36분의 1로 낮춘다는 주장은 전환 시간과 검사기 셋업 공수를 직접 겨냥한다. (회사 발표 수치, 제3자 검증 없음) [이데일리 IR](https://ir.edaily.co.kr/News/Read?k=03063526645645064)\n- [11/12 15:13] 인텔이 'AI 서밋 서울 2026'에서 다임테크놀로지와 로봇·산업기계·물류 시스템을 묶는 자율공장 참조 아키텍처를 공동 개발한다고 밝혔다. 코어 울트라에 CPU·GPU·NPU를 통합하고 개방형 엣지 플랫폼으로 추론과 실시간 제어를 한 대에서 처리하는 구성이다. — 현장에 주는 의미: 제어 캐비닛 옆에 GPU 서버를 따로 두지 않아도 되는 방향이라 전력·발열·캐비닛 공간 부담은 줄지만, 제어 주기와 추론 부하가 같은 자원을 나눠 쓰므로 태스크 우선순위를 먼저 정해야 한다. (정량 성과 없음, 참조 아키텍처 단계) [머니투데이](https://www.mt.co.kr/tech/2026/11/12/2026111215130967808)\n- [11/12 15:33] 경북도가 산업부 '2026년 제2차 AI팩토리' 공모에서 현대제철 주관 '전기로 고위험 작업 대체와 생산성 향상을 위한 AI 자율운영 시스템' 과제를 추가 선정했다. 2029년까지 78억원(국비 63억·지방비 10억·민간 5억)을 넣어 고위험 작업 대체율 60% 이상, 생산성 30% 이상 향상을 목표로 내화물 손상 예측과 AMR 순회 진단을 함께 개발한다. — 현장에 주는 의미: 내화물 손상 예측은 열전대·카메라·정비이력이 같은 시간축에 놓여야 학습이 되므로, 센서 부착 위치와 정비 표준작업 절차를 먼저 정형화하는 순서가 성패를 가른다. [전자신문](https://www.etnews.com/20261112000366)\n- [11/12 18:19] 다이얼로직이 SPS 2026(11월 24~26일, 뉘른베르크)에서 보호거리 10m 안전 레이저 스캐너 SLS10과 PEKAT VISION 딥러닝 검사 조합(MX-G 비전 프로세서·Smart-VS 센서)을 내걸었다. SLS10은 회사 설명 기준 10m 보호거리를 내는 첫 안전 레이저 스캐너로, 긴 조립라인과 로봇 셀을 적은 대수로 덮는다. — 현장에 주는 의미: 보호영역이 넓어지면 설비 증설 때 안전 거리 재산정과 스캐너 추가 설치 범위가 줄어, 라인 변경 시 안전 인터록 재검증에 드는 정지시간이 짧아진다. (정량 성과 없음) [Automation Magazine](https://www.automationmagazine.co.uk/safer-factories-sharper-inspection-datalogic-brings-the-smart-factory-to-sps-2026/)\n- [11/12 17:30] 알레이마가 중국 전장에 600㎡ 규모 정밀 스트립 응용센터를 열고 압축기 밸브강의 피로시험, 동적 관찰, 밸브계 설계 검증을 현지에서 지원한다. 냉동·동결고·히트펌프용 압축기의 효율과 신뢰성을 좌우하는 부품군이다. — 현장에 주는 의미: 동결건조기 냉동 계통에서 압축기 밸브가 피로로 파손되면 토출량이 줄고 응축 압력이 흔들려 건조실 승온 제어가 어긋나므로, 밸브강 피로 데이터는 압축기 정비 주기를 정하는 근거가 된다. (정량 성과 없음) [Alleima](https://www.alleima.com/en/news-media/archive/2026/11/alleima-opens-customer-application-center-for-precision-strip-steel-in-china/)\n- [11/12 18:21] mRNA 지질나노입자를 동결건조 대신 분사건조로 분말화해 2~8℃에서 3~3.5년간 활성을 유지했다는 연구가 공개됐다. 논문은 동결건조를 대안 탐색의 출발점으로 두면서 48~72시간을 넘기는 사이클, 배치 간 편차, 재수화 후 입자 불균일을 한계로 들었다. — 현장에 주는 의미: 사이클이 긴 공정일수록 1차 건조 종말점 판정의 정확도가 배치 원가를 좌우하므로, 승온·압력 상승 시험과 제품온도를 이중으로 확인하는 절차가 원가 관리의 핵심이 된다. [Scienmag](https://scienmag.com/spray-dried-mrna-nanoparticle-powders-remain-stable-for-three-years-under-refrigeration/)\n- [11/12 22:08] 문터스가 이탈리아 칠러 공장에 약 2,500만 유로를 투입해 생산·시험 라인과 R&D 시설을 늘리고, 미국 텍사스에서는 열교환기 코일 제조사 로단과 합작사(지분 45%, 950만 달러)를 세운다. 코일 양산은 12~18개월 뒤 시작 예정이며 7년 구매 계약이 붙었다. — 현장에 주는 의미: 칠러 성능은 압축기·열교환기·제어의 조합에서 나오므로 코일 공급을 내재화하면 열교환기 교체 시 납기와 치수 공차 관리가 쉬워지고, 시험 설비 증설은 출하 전 성능 검증 대기 시간을 줄이는 쪽으로 작동한다. [Industrial News](https://industrialnews.co.uk/munters-expands-chiller-and-coil-manufacturing-capacity/)\n- [11/13 04:47] 심트라 바이오파마가 인디애나 블루밍턴 캠퍼스에 2억5,000만 달러 규모, 1만4,200㎡(153,000 sq ft) 확장동을 열고 프리필드시린지·바이알·동결건조 설비를 추가했다. 2027년까지 충전 라인을 11개에서 18개로 늘리고, 독일 할레에 1억2,500만 달러 이상을 따로 투자한다. — 현장에 주는 의미: CDMO가 동결건조 캐파를 늘리는 것은 건조기 대수가 곧 수주 경쟁력이라는 뜻으로, 같은 설비를 쓰는 쪽은 사이클 단축과 적재율 개선으로 단위 원가를 방어해야 하는 압박을 받는다. [DCAT Value Chain Insights](https://www.dcatvci.org/top-industry-news/simtra-biopharma-solutions-opens-250-m-injectables-mfg-expansion/)\n- [11/13 07:30] 다이킨 어플라이드가 AI팩토리용 60MW 냉각 아키텍처(D60-W)를 공개했다. 6개 유닛으로 IT 부하 60MW를 처리하고 액체냉각이 92%를 맡으며, 최대 10MW 무급유 자기베어링 원심 칠러와 건식 쿨러, 3단계 운전 모드, 통합 관제(iDCM)로 구성된다. — 현장에 주는 의미: 무급유 압축기는 오일 히터·오일 교환·기동 지연 항목을 없애므로 냉동기 정비 목록에서 오일 계통을 빼는 설계 검토의 근거가 된다. 데이터센터용 구성이라 식품 동결건조 라인과 직접 접점은 없다. [Refindustry](https://refindustry.com/news/daikin-applied-introduces-60-mw-cooling-architecture-for-ai-factories/)\n- [11/13 00:16] 로크웰 오토메이션이 산업용 PC 기반 LogixEdge 컨트롤러를 출시했다. Logix 제어와 엣지 컴퓨팅, 컨테이너 애플리케이션을 한 플랫폼에서 돌려 제어와 분석 워크로드를 생산 현장 가까이에 붙인다. — 현장에 주는 의미: 제어기와 별도 PC로 나뉘어 있던 HMI·분석 서버를 한 박스로 합치면 캐비닛 공간과 배선은 줄지만, 컨테이너 갱신이 스캔 주기에 영향을 주지 않도록 코어 고정과 갱신 시점(비생산 시간대) 규칙을 함께 정해야 한다. (정량 성과 없음) [Rockwell Automation](https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Introduces-LogixEdge-Controllers-for-Software-Defined-Automation.html)\n- [11/13 06:16] 리나마가 로크웰 오토메이션 파트너네트워크에 기술 파트너로 합류해, 인라인 분광센서와 공정인지 머신러닝으로 CIP 세척과 제품 전환의 종료 시점을 실시간 판정하는 기능을 붙인다. 고정 타이머 대신 유체 상태로 사이클을 끊는 방식이다. — 현장에 주는 의미: 세척 종료를 타이머가 아니라 배출 유체 상태로 판정하면 CIP 시간과 물·약품 사용량을 줄일 수 있지만, 센서 판정과 PLC 인터록을 이중으로 두고 센서 이상 시 기존 타이머로 돌아가는 폴백이 필요하다. (정량 성과 없음) [PR Newswire](https://www.prnewswire.com/news-releases/laminar-joins-rockwell-automation-partnernetwork-to-advance-productive-and-sustainable-manufacturing-302938417.html)\n- [11/12 20:31] 렌체가 SPS 2026에서 모터·기어·인버터·소프트웨어를 묶어 추가 센서 없이 축 위치를 잡는 Motor Drive System(IE5/IE6)과 AI 커미셔닝 도구를 공개했다. 회사 추정으로 시스템 원가를 최대 30% 줄이고, 과부하 300%까지 견디는 구성이다. — 현장에 주는 의미: 엔코더와 근접센서를 빼면 그만큼 고장·정비 항목이 줄지만 위치 정보가 드라이브 내부 모델에서 나오므로, 파라미터 백업과 축 재장착 후 재동조 절차가 예방보전 항목으로 새로 들어온다. [packaging journal](https://packaging-journal.de/en/lenze-demonstrates-drive-technology-without-servo-complexity/)\n- [11/13 00:08] 프라운호퍼 IPMS가 SPS 2026에서 산업용 Li-Fi 제품군을 선보인다. 10m 거리 Gbit/s 광전송(Grathus), 20Mbit/s 근거리(TinySpot), 광으로 전력까지 보내는 PoL, Gbit/s 절연 커플러가 포함된다. — 현장에 주는 의미: 회전·이동축에 케이블 없이 데이터를 보내면 케이블 체인과 커넥터 파손 정비가 줄지만, 광 경로가 가려지면 통신이 끊기므로 정지·페일세이프 동작을 먼저 정의해야 한다. (정량 성과 없음) [Fraunhofer IPMS](https://www.ipms.fraunhofer.de/en/press-media/press/2026/Optical-wireless-communication-for-industry.html)\n- [11/12 17:25] 사이콘이 제조 운영용 에이전틱 AI 플랫폼 '포지AI'를 출시했다. PLC·MES·히스토리언, 설비 매뉴얼, 정비 이력을 한 계층으로 묶어 자연어 질의와 이상 알림, 근본원인 분석을 지원한다. — 현장에 주는 의미: 정비 이력과 매뉴얼이 사람별로 흩어진 구조를 줄이려는 접근으로, 우리 쪽에서는 예방보전 표준서와 고장 이력을 설비 태그 기준으로 정리해 두는 작업이 먼저 되어야 질의가 의미 있는 답을 낸다. (정량 성과 없음) [The Manufacturing Frontier](https://www.themanufacturingfrontier.com/saicon-launches-forgeai-an-agentic-ai-platform-for-manufacturing-operations/)"
+      "raw_text": "- [11/13 00:16] 로크웰 오토메이션이 산업용 PC 기반 LogixEdge 컨트롤러를 출시했다. Logix 제어와 엣지 컴퓨팅, 컨테이너 애플리케이션을 한 플랫폼에서 돌려 제어와 분석 워크로드를 생산 현장 가까이에 붙인다. — 현장에 주는 의미: 제어기와 별도 PC로 나뉘어 있던 HMI·분석 서버를 한 박스로 합치면 캐비닛 공간과 배선은 줄지만, 컨테이너 갱신이 스캔 주기에 영향을 주지 않도록 코어 고정과 갱신 시점(비생산 시간대) 규칙을 함께 정해야 한다. (정량 성과 없음) [Rockwell Automation](https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Introduces-LogixEdge-Controllers-for-Software-Defined-Automation.html)\n- [11/13 06:16] 리나마가 로크웰 오토메이션 파트너네트워크에 기술 파트너로 합류해, 인라인 분광센서와 공정인지 머신러닝으로 CIP 세척과 제품 전환의 종료 시점을 실시간 판정하는 기능을 붙인다. 고정 타이머 대신 유체 상태로 사이클을 끊는 방식이다. — 현장에 주는 의미: 세척 종료를 타이머가 아니라 배출 유체 상태로 판정하면 CIP 시간과 물·약품 사용량을 줄일 수 있지만, 센서 판정과 PLC 인터록을 이중으로 두고 센서 이상 시 기존 타이머로 돌아가는 폴백이 필요하다. (정량 성과 없음) [PR Newswire](https://www.prnewswire.com/news-releases/laminar-joins-rockwell-automation-partnernetwork-to-advance-productive-and-sustainable-manufacturing-302938417.html)\n- [11/12 20:31] 렌체가 SPS 2026에서 모터·기어·인버터·소프트웨어를 묶어 추가 센서 없이 축 위치를 잡는 Motor Drive System(IE5/IE6)과 AI 커미셔닝 도구를 공개했다. 회사 추정으로 시스템 원가를 최대 30% 줄이고, 과부하 300%까지 견디는 구성이다. — 현장에 주는 의미: 엔코더와 근접센서를 빼면 그만큼 고장·정비 항목이 줄지만 위치 정보가 드라이브 내부 모델에서 나오므로, 파라미터 백업과 축 재장착 후 재동조 절차가 예방보전 항목으로 새로 들어온다. [packaging journal](https://packaging-journal.de/en/lenze-demonstrates-drive-technology-without-servo-complexity/)\n- [11/13 00:08] 프라운호퍼 IPMS가 SPS 2026에서 산업용 Li-Fi 제품군을 선보인다. 10m 거리 Gbit/s 광전송(Grathus), 20Mbit/s 근거리(TinySpot), 광으로 전력까지 보내는 PoL, Gbit/s 절연 커플러가 포함된다. — 현장에 주는 의미: 회전·이동축에 케이블 없이 데이터를 보내면 케이블 체인과 커넥터 파손 정비가 줄지만, 광 경로가 가려지면 통신이 끊기므로 정지·페일세이프 동작을 먼저 정의해야 한다. (정량 성과 없음) [Fraunhofer IPMS](https://www.ipms.fraunhofer.de/en/press-media/press/2026/Optical-wireless-communication-for-industry.html)\n- [11/12 17:25] 사이콘이 제조 운영용 에이전틱 AI 플랫폼 '포지AI'를 출시했다. PLC·MES·히스토리언, 설비 매뉴얼, 정비 이력을 한 계층으로 묶어 자연어 질의와 이상 알림, 근본원인 분석을 지원한다. — 현장에 주는 의미: 정비 이력과 매뉴얼이 사람별로 흩어진 구조를 줄이려는 접근으로, 우리 쪽에서는 예방보전 표준서와 고장 이력을 설비 태그 기준으로 정리해 두는 작업이 먼저 되어야 질의가 의미 있는 답을 낸다. (정량 성과 없음) [The Manufacturing Frontier](https://www.themanufacturingfrontier.com/saicon-launches-forgeai-an-agentic-ai-platform-for-manufacturing-operations/)"
+    },
+    {
+      "id": "freeze-drying-equipment-2026-11-13_00-08-32",
+      "category": "freeze-drying-equipment",
+      "category_label": "동결건조·핵심 설비",
+      "date": "2026-11-13",
+      "time": "09:08",
+      "published_at": "2026-11-13T00:08:30+00:00",
+      "items": [
+        {
+          "text": "[11/12 17:30] 알레이마가 중국 전장에 600㎡ 규모 정밀 스트립 응용센터를 열고 압축기 밸브강의 피로시험, 동적 관찰, 밸브계 설계 검증을 현지에서 지원한다. 냉동·동결고·히트펌프용 압축기의 효율과 신뢰성을 좌우하는 부품군이다. — 현장에 주는 의미: 동결건조기 냉동 계통에서 압축기 밸브가 피로로 파손되면 토출량이 줄고 응축 압력이 흔들려 건조실 승온 제어가 어긋나므로, 밸브강 피로 데이터는 압축기 정비 주기를 정하는 근거가 된다. (정량 성과 없음",
+          "links": [
+            {
+              "label": "Alleima",
+              "url": "https://www.alleima.com/en/news-media/archive/2026/11/alleima-opens-customer-application-center-for-precision-strip-steel-in-china/"
+            }
+          ]
+        },
+        {
+          "text": "[11/12 18:21] mRNA 지질나노입자를 동결건조 대신 분사건조로 분말화해 2~8℃에서 3~3.5년간 활성을 유지했다는 연구가 공개됐다. 논문은 동결건조를 대안 탐색의 출발점으로 두면서 48~72시간을 넘기는 사이클, 배치 간 편차, 재수화 후 입자 불균일을 한계로 들었다. — 현장에 주는 의미: 사이클이 긴 공정일수록 1차 건조 종말점 판정의 정확도가 배치 원가를 좌우하므로, 승온·압력 상승 시험과 제품온도를 이중으로 확인하는 절차가 원가 관리의 핵심이 된다.",
+          "links": [
+            {
+              "label": "Scienmag",
+              "url": "https://scienmag.com/spray-dried-mrna-nanoparticle-powders-remain-stable-for-three-years-under-refrigeration/"
+            }
+          ]
+        },
+        {
+          "text": "[11/12 22:08] 문터스가 이탈리아 칠러 공장에 약 2,500만 유로를 투입해 생산·시험 라인과 R&D 시설을 늘리고, 미국 텍사스에서는 열교환기 코일 제조사 로단과 합작사(지분 45%, 950만 달러)를 세운다. 코일 양산은 12~18개월 뒤 시작 예정이며 7년 구매 계약이 붙었다. — 현장에 주는 의미: 칠러 성능은 압축기·열교환기·제어의 조합에서 나오므로 코일 공급을 내재화하면 열교환기 교체 시 납기와 치수 공차 관리가 쉬워지고, 시험 설비 증설은 출하 전 성능 검증 대기 시간을 줄이는 쪽으로 작동한다.",
+          "links": [
+            {
+              "label": "Industrial News",
+              "url": "https://industrialnews.co.uk/munters-expands-chiller-and-coil-manufacturing-capacity/"
+            }
+          ]
+        },
+        {
+          "text": "[11/13 04:47] 심트라 바이오파마가 인디애나 블루밍턴 캠퍼스에 2억5,000만 달러 규모, 1만4,200㎡(153,000 sq ft) 확장동을 열고 프리필드시린지·바이알·동결건조 설비를 추가했다. 2027년까지 충전 라인을 11개에서 18개로 늘리고, 독일 할레에 1억2,500만 달러 이상을 따로 투자한다. — 현장에 주는 의미: CDMO가 동결건조 캐파를 늘리는 것은 건조기 대수가 곧 수주 경쟁력이라는 뜻으로, 같은 설비를 쓰는 쪽은 사이클 단축과 적재율 개선으로 단위 원가를 방어해야 하는 압박을 받는다.",
+          "links": [
+            {
+              "label": "DCAT Value Chain Insights",
+              "url": "https://www.dcatvci.org/top-industry-news/simtra-biopharma-solutions-opens-250-m-injectables-mfg-expansion/"
+            }
+          ]
+        },
+        {
+          "text": "[11/13 07:30] 다이킨 어플라이드가 AI팩토리용 60MW 냉각 아키텍처(D60-W)를 공개했다. 6개 유닛으로 IT 부하 60MW를 처리하고 액체냉각이 92%를 맡으며, 최대 10MW 무급유 자기베어링 원심 칠러와 건식 쿨러, 3단계 운전 모드, 통합 관제(iDCM)로 구성된다. — 현장에 주는 의미: 무급유 압축기는 오일 히터·오일 교환·기동 지연 항목을 없애므로 냉동기 정비 목록에서 오일 계통을 빼는 설계 검토의 근거가 된다. 데이터센터용 구성이라 식품 동결건조 라인과 직접 접점은 없다.",
+          "links": [
+            {
+              "label": "Refindustry",
+              "url": "https://refindustry.com/news/daikin-applied-introduces-60-mw-cooling-architecture-for-ai-factories/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "- [11/12 17:30] 알레이마가 중국 전장에 600㎡ 규모 정밀 스트립 응용센터를 열고 압축기 밸브강의 피로시험, 동적 관찰, 밸브계 설계 검증을 현지에서 지원한다. 냉동·동결고·히트펌프용 압축기의 효율과 신뢰성을 좌우하는 부품군이다. — 현장에 주는 의미: 동결건조기 냉동 계통에서 압축기 밸브가 피로로 파손되면 토출량이 줄고 응축 압력이 흔들려 건조실 승온 제어가 어긋나므로, 밸브강 피로 데이터는 압축기 정비 주기를 정하는 근거가 된다. (정량 성과 없음) [Alleima](https://www.alleima.com/en/news-media/archive/2026/11/alleima-opens-customer-application-center-for-precision-strip-steel-in-china/)\n- [11/12 18:21] mRNA 지질나노입자를 동결건조 대신 분사건조로 분말화해 2~8℃에서 3~3.5년간 활성을 유지했다는 연구가 공개됐다. 논문은 동결건조를 대안 탐색의 출발점으로 두면서 48~72시간을 넘기는 사이클, 배치 간 편차, 재수화 후 입자 불균일을 한계로 들었다. — 현장에 주는 의미: 사이클이 긴 공정일수록 1차 건조 종말점 판정의 정확도가 배치 원가를 좌우하므로, 승온·압력 상승 시험과 제품온도를 이중으로 확인하는 절차가 원가 관리의 핵심이 된다. [Scienmag](https://scienmag.com/spray-dried-mrna-nanoparticle-powders-remain-stable-for-three-years-under-refrigeration/)\n- [11/12 22:08] 문터스가 이탈리아 칠러 공장에 약 2,500만 유로를 투입해 생산·시험 라인과 R&D 시설을 늘리고, 미국 텍사스에서는 열교환기 코일 제조사 로단과 합작사(지분 45%, 950만 달러)를 세운다. 코일 양산은 12~18개월 뒤 시작 예정이며 7년 구매 계약이 붙었다. — 현장에 주는 의미: 칠러 성능은 압축기·열교환기·제어의 조합에서 나오므로 코일 공급을 내재화하면 열교환기 교체 시 납기와 치수 공차 관리가 쉬워지고, 시험 설비 증설은 출하 전 성능 검증 대기 시간을 줄이는 쪽으로 작동한다. [Industrial News](https://industrialnews.co.uk/munters-expands-chiller-and-coil-manufacturing-capacity/)\n- [11/13 04:47] 심트라 바이오파마가 인디애나 블루밍턴 캠퍼스에 2억5,000만 달러 규모, 1만4,200㎡(153,000 sq ft) 확장동을 열고 프리필드시린지·바이알·동결건조 설비를 추가했다. 2027년까지 충전 라인을 11개에서 18개로 늘리고, 독일 할레에 1억2,500만 달러 이상을 따로 투자한다. — 현장에 주는 의미: CDMO가 동결건조 캐파를 늘리는 것은 건조기 대수가 곧 수주 경쟁력이라는 뜻으로, 같은 설비를 쓰는 쪽은 사이클 단축과 적재율 개선으로 단위 원가를 방어해야 하는 압박을 받는다. [DCAT Value Chain Insights](https://www.dcatvci.org/top-industry-news/simtra-biopharma-solutions-opens-250-m-injectables-mfg-expansion/)\n- [11/13 07:30] 다이킨 어플라이드가 AI팩토리용 60MW 냉각 아키텍처(D60-W)를 공개했다. 6개 유닛으로 IT 부하 60MW를 처리하고 액체냉각이 92%를 맡으며, 최대 10MW 무급유 자기베어링 원심 칠러와 건식 쿨러, 3단계 운전 모드, 통합 관제(iDCM)로 구성된다. — 현장에 주는 의미: 무급유 압축기는 오일 히터·오일 교환·기동 지연 항목을 없애므로 냉동기 정비 목록에서 오일 계통을 빼는 설계 검토의 근거가 된다. 데이터센터용 구성이라 식품 동결건조 라인과 직접 접점은 없다. [Refindustry](https://refindustry.com/news/daikin-applied-introduces-60-mw-cooling-architecture-for-ai-factories/)"
     },
     {
       "id": "economy-2026-11-12_00-07-56",
