@@ -1,7 +1,175 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-24T00:07:50+00:00",
+  "updated_at": "2026-11-25T00:07:10+00:00",
   "briefings": [
+    {
+      "id": "manufacturing-ai-2026-11-25_00-07-12",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI",
+      "date": "2026-11-25",
+      "time": "09:07",
+      "published_at": "2026-11-25T00:07:10+00:00",
+      "items": [
+        {
+          "text": "[11/25 03:53] 지멘스, 디지털 트윈으로 검증하는 AI 생산계획 도구 공개(발표 주장: 수작업 계획 공수 최대 70% 감소 전망, 실측 정량 성과 없음) — 계획을 생산에 넘기기 전에 물리 기반 모델로 검증하는 방식이어서, CONRAD 500 XL의 투입 간격을 바꿀 때 냉동기 부하와 제상 일정이 겹치는지 먼저 시험할 수 있습니다.",
+          "links": [
+            {
+              "label": "Automation Fair",
+              "url": "https://www.automation-fair.com/siemens-sps-2026-physical-ai-autonomous-production/"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 23:00] 유니버설로봇, 인볼트 3D 비전을 Gen 7 제어기에 통합(발표 주장: 기존 스텔란티스 엔진 조립 사례에서 체결 실패 91% 감소, 엔진당 영상 처리 0.5초) — 손목 카메라가 매 사이클 실제 위치를 읽어 궤적을 보정하므로, 커피 포장 후단에서 위치가 어긋난 상자를 집을 때 전용 지그를 줄일 수 있는지 시험할 수 있습니다.",
+          "links": [
+            {
+              "label": "Business Wire",
+              "url": "https://finance.yahoo.com/technology/ai/articles/universal-robots-inbolt-ai-powered-140000359.html"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 18:39] 에이아이비즈, 레이저·초음파 용접 공정의 센서 간 관계를 분석하는 AI 특허 2건 등록(발표 주장, 정량 성과 없음) — 공정 단계별로 센서 예측값과 실측값의 차이를 보는 방식이라, 동결건조에서도 챔버 압력과 포집기 온도를 단계별로 비교하면 정상적인 단계 전환을 공정 이상으로 오인하는지 검증할 수 있습니다.",
+          "links": [
+            {
+              "label": "머니투데이",
+              "url": "https://www.mt.co.kr/industry/2026/11/24/2026112416143658524"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 14:43] KG스틸, 당진공장에서 휴머노이드로 코일 포장용 내경 링 이송·적재 실증(발표 주장: 성공률 90% 이상과 무정지 50회 이상 목표, 정량 성과 없음) — 작업물 위치와 적재 상태가 일정하지 않아 작업자 영상과 원격조작 데이터를 모은 사례로, 커피 박스 적재 실증에서도 정렬된 상자뿐 아니라 비뚤어진 상자에서의 작업자 개입률을 따로 봐야 합니다.",
+          "links": [
+            {
+              "label": "서울경제",
+              "url": "https://www.sedaily.com/article/20118256"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 13:47] 넥스트아이·신송, 이동 컨베이어에서 여러 부품의 인식·파지 검증(발표 주장: 파지 범위 진입부터 촬영 완료까지 약 1초 목표, 정량 성과 없음) — 커피 포장품을 들어 외관을 검사하려면 촬영뿐 아니라 파지까지 마쳐야 하므로, 도입 시험은 실제 컨베이어 속도에서 파지 성공률과 촬영 완료 시간을 함께 재는 편이 맞습니다.",
+          "links": [
+            {
+              "label": "머니투데이",
+              "url": "https://www.mt.co.kr/stock/2026/11/24/2026112413405329003"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/25 03:53] 지멘스, 디지털 트윈으로 검증하는 AI 생산계획 도구 공개(발표 주장: 수작업 계획 공수 최대 70% 감소 전망, 실측 정량 성과 없음) — 계획을 생산에 넘기기 전에 물리 기반 모델로 검증하는 방식이어서, CONRAD 500 XL의 투입 간격을 바꿀 때 냉동기 부하와 제상 일정이 겹치는지 먼저 시험할 수 있습니다. [Automation Fair](https://www.automation-fair.com/siemens-sps-2026-physical-ai-autonomous-production/)  \n[11/24 23:00] 유니버설로봇, 인볼트 3D 비전을 Gen 7 제어기에 통합(발표 주장: 기존 스텔란티스 엔진 조립 사례에서 체결 실패 91% 감소, 엔진당 영상 처리 0.5초) — 손목 카메라가 매 사이클 실제 위치를 읽어 궤적을 보정하므로, 커피 포장 후단에서 위치가 어긋난 상자를 집을 때 전용 지그를 줄일 수 있는지 시험할 수 있습니다. [Business Wire](https://finance.yahoo.com/technology/ai/articles/universal-robots-inbolt-ai-powered-140000359.html)  \n[11/24 18:39] 에이아이비즈, 레이저·초음파 용접 공정의 센서 간 관계를 분석하는 AI 특허 2건 등록(발표 주장, 정량 성과 없음) — 공정 단계별로 센서 예측값과 실측값의 차이를 보는 방식이라, 동결건조에서도 챔버 압력과 포집기 온도를 단계별로 비교하면 정상적인 단계 전환을 공정 이상으로 오인하는지 검증할 수 있습니다. [머니투데이](https://www.mt.co.kr/industry/2026/11/24/2026112416143658524)  \n[11/24 14:43] KG스틸, 당진공장에서 휴머노이드로 코일 포장용 내경 링 이송·적재 실증(발표 주장: 성공률 90% 이상과 무정지 50회 이상 목표, 정량 성과 없음) — 작업물 위치와 적재 상태가 일정하지 않아 작업자 영상과 원격조작 데이터를 모은 사례로, 커피 박스 적재 실증에서도 정렬된 상자뿐 아니라 비뚤어진 상자에서의 작업자 개입률을 따로 봐야 합니다. [서울경제](https://www.sedaily.com/article/20118256)  \n[11/24 13:47] 넥스트아이·신송, 이동 컨베이어에서 여러 부품의 인식·파지 검증(발표 주장: 파지 범위 진입부터 촬영 완료까지 약 1초 목표, 정량 성과 없음) — 커피 포장품을 들어 외관을 검사하려면 촬영뿐 아니라 파지까지 마쳐야 하므로, 도입 시험은 실제 컨베이어 속도에서 파지 성공률과 촬영 완료 시간을 함께 재는 편이 맞습니다. [머니투데이](https://www.mt.co.kr/stock/2026/11/24/2026112413405329003)"
+    },
+    {
+      "id": "maintenance-automation-2026-11-25_00-07-12",
+      "category": "maintenance-automation",
+      "category_label": "설비보전·자동화",
+      "date": "2026-11-25",
+      "time": "09:07",
+      "published_at": "2026-11-25T00:07:10+00:00",
+      "items": [
+        {
+          "text": "[11/25 01:18] 메르세데스-벤츠, 터스컬루사 공장 차량 전장 재작업에 AI 진단 도입(발표 주장: 초기 시험에서 진단·수리 속도 20~30% 향상) — 핀·커넥터·배선의 연결 관계와 새 계측값을 함께 보는 방식이라, 커피 라인에서도 PLC 입출력과 현장 단자표를 연결해 두면 신호 불일치 때 어디부터 계측할지 좁힐 수 있습니다.",
+          "links": [
+            {
+              "label": "Just Auto",
+              "url": "https://www.just-auto.com/news/mercedes-benz-and-arena-physica-scale-ai-agents-for-e-e-production-quality/"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 17:01] ABB, 센서와 자체 데이터 처리를 내장한 저압 모터 인텔렉트 공개(발표 주장, 해당 모터의 현장 정량 성과 없음) — 모터 신호를 기존 시스템으로 보낼 수 있는 구조이므로, 진공펌프 모터 교체를 검토할 때는 수집 가능한 신호를 WinCC의 운전 단계와 맞춰 고장 징후와 정상 부하 변동을 구별할 수 있는지 확인할 필요가 있습니다.",
+          "links": [
+            {
+              "label": "ABB 공식 발표",
+              "url": "https://www.prnewswire.co.uk/news-releases/abb-helps-scale-industrial-ai-with-worlds-first-motor-featuring-built-in-intelligence-302948507.html"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 16:57] 벨덴, 기존 제어 코드를 바꾸지 않고 설비 데이터를 수집하는 IP67 현장 플랫폼 시연(발표 주장, 정량 성과 없음) — 데이터 수집을 장비 제어와 분리하는 구조라, CONRAD 500 XL의 운전 로직을 유지한 채 압력·온도 태그를 보전 기록에 연결할 수 있는지 검토할 수 있습니다.",
+          "links": [
+            {
+              "label": "Automation Fair",
+              "url": "https://www.automation-fair.com/belden-sps-2026-it-ot-convergence/"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 16:26] 모어바흐, 수작업대 두 곳의 면적에 박스 포장기와 협동로봇을 통합한 제약공장 사례 공개(정량 성과 없음) — 카메라가 외부 박스 라벨을 확인해야 로봇이 팔레트에 올리는 구조여서, 커피 포장 후단에도 라벨 판독 실패품이 그대로 적재되지 않도록 이송 허가 조건을 둘 수 있습니다.",
+          "links": [
+            {
+              "label": "Automation Fair",
+              "url": "https://www.automation-fair.com/mohrbach-mcp-sl400-case-packer-cobot/"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 14:35] HDC랩스, 화학공장 CCTV와 가스·화재 센서를 연동하는 안전관제 수주(발표 주장: 2026년 11월 공개 제조환경 실증에서 화재·연기 감지 재현율 95% 이상) — 냉동기실에서도 기존 감지기 경보와 CCTV 영상을 같은 시각에 띄우면 경보 위치를 빠르게 확인할 수 있으며, 영상은 기존 안전 인터록과 분리된 보조 확인 수단으로 쓸 수 있습니다.",
+          "links": [
+            {
+              "label": "서울신문",
+              "url": "https://www.seoul.co.kr/news/economy/2026/11/24/20261124500184"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/25 01:18] 메르세데스-벤츠, 터스컬루사 공장 차량 전장 재작업에 AI 진단 도입(발표 주장: 초기 시험에서 진단·수리 속도 20~30% 향상) — 핀·커넥터·배선의 연결 관계와 새 계측값을 함께 보는 방식이라, 커피 라인에서도 PLC 입출력과 현장 단자표를 연결해 두면 신호 불일치 때 어디부터 계측할지 좁힐 수 있습니다. [Just Auto](https://www.just-auto.com/news/mercedes-benz-and-arena-physica-scale-ai-agents-for-e-e-production-quality/)  \n[11/24 17:01] ABB, 센서와 자체 데이터 처리를 내장한 저압 모터 인텔렉트 공개(발표 주장, 해당 모터의 현장 정량 성과 없음) — 모터 신호를 기존 시스템으로 보낼 수 있는 구조이므로, 진공펌프 모터 교체를 검토할 때는 수집 가능한 신호를 WinCC의 운전 단계와 맞춰 고장 징후와 정상 부하 변동을 구별할 수 있는지 확인할 필요가 있습니다. [ABB 공식 발표](https://www.prnewswire.co.uk/news-releases/abb-helps-scale-industrial-ai-with-worlds-first-motor-featuring-built-in-intelligence-302948507.html)  \n[11/24 16:57] 벨덴, 기존 제어 코드를 바꾸지 않고 설비 데이터를 수집하는 IP67 현장 플랫폼 시연(발표 주장, 정량 성과 없음) — 데이터 수집을 장비 제어와 분리하는 구조라, CONRAD 500 XL의 운전 로직을 유지한 채 압력·온도 태그를 보전 기록에 연결할 수 있는지 검토할 수 있습니다. [Automation Fair](https://www.automation-fair.com/belden-sps-2026-it-ot-convergence/)  \n[11/24 16:26] 모어바흐, 수작업대 두 곳의 면적에 박스 포장기와 협동로봇을 통합한 제약공장 사례 공개(정량 성과 없음) — 카메라가 외부 박스 라벨을 확인해야 로봇이 팔레트에 올리는 구조여서, 커피 포장 후단에도 라벨 판독 실패품이 그대로 적재되지 않도록 이송 허가 조건을 둘 수 있습니다. [Automation Fair](https://www.automation-fair.com/mohrbach-mcp-sl400-case-packer-cobot/)  \n[11/24 14:35] HDC랩스, 화학공장 CCTV와 가스·화재 센서를 연동하는 안전관제 수주(발표 주장: 2026년 11월 공개 제조환경 실증에서 화재·연기 감지 재현율 95% 이상) — 냉동기실에서도 기존 감지기 경보와 CCTV 영상을 같은 시각에 띄우면 경보 위치를 빠르게 확인할 수 있으며, 영상은 기존 안전 인터록과 분리된 보조 확인 수단으로 쓸 수 있습니다. [서울신문](https://www.seoul.co.kr/news/economy/2026/11/24/20261124500184)"
+    },
+    {
+      "id": "freeze-drying-equipment-2026-11-25_00-07-12",
+      "category": "freeze-drying-equipment",
+      "category_label": "동결건조·핵심 설비",
+      "date": "2026-11-25",
+      "time": "09:07",
+      "published_at": "2026-11-25T00:07:10+00:00",
+      "items": [
+        {
+          "text": "[11/25 00:23] 클리벳, 냉수 출구 최저 −8°C를 제시한 물-물 방식 R32 칠러 공개(발표 주장, 현장 실측 정량 성과 없음) — 출구온도 하한이 −8°C여서 저온 포집기 냉동 회로의 대체 후보로 보기 어렵고, 공장 보조 냉수 계통이라면 요구 공급온도와 대조할 수 있습니다.",
+          "links": [
+            {
+              "label": "Cooling Post",
+              "url": "https://www.coolingpost.com/products/clivet-introduces-wtw-r32-chillers/"
+            }
+          ]
+        },
+        {
+          "text": "[11/25 00:21] 에어시스, 정전 모의시험에서 비상발전기 투입 후 칠러가 전부하에 도달하기까지 160초 기록(2026년 11월 발표 주장) — 전원이 복구돼도 냉동능력은 즉시 돌아오지 않으므로, CONRAD 500 XL의 정전 복구시험에서는 재기동 신호와 별도로 포집기 온도가 허용 범위에 돌아오는 시간을 재야 합니다.",
+          "links": [
+            {
+              "label": "에어시스 공식 발표",
+              "url": "https://airsysnorthamerica.com/vectorcool-chiller-ai-load-stress-testing/"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 23:00] 나포제약, 크로펠레머 동결건조 공정 검증용 배치 생산을 마치고 안정성 시험 착수(발표 주장, 정량 성과 없음) — 제조 재현성과 보관 안정성을 별도로 확인한 사례라, 커피 동결건조 조건을 바꿀 때도 출고 시 잔류수분의 배치 편차와 보관 후 품질 변화를 분리해 평가할 수 있습니다.",
+          "links": [
+            {
+              "label": "나포제약 발표·Newswire",
+              "url": "https://www.newswire.com/news/jaguar-health-family-company-napo-pharmaceuticals-successfully-completes"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 17:17] 테코, 이탈리아 와인 공장의 초임계 CO₂ 냉각·폐열회수 사례 공개(2025년 여름 시운전 설비: 브라인 공급 −1°C·환수 5°C에서 냉각 350 kW, 60~70°C 온수 회수 최대 200 kW; 기사 제시 사양) — 이 온도 조건은 동결건조 포집기와 다르지만, 냉동 부하와 온수 수요가 동시에 생기는 시간대를 대조하면 보조 냉각 계통의 폐열로 세척수를 예열할 수 있는지 판단할 수 있습니다.",
+          "links": [
+            {
+              "label": "NaturalRefrigerants.com",
+              "url": "https://naturalrefrigerants.com/news/part-2-teko-shares-what-s-behind-the-significant-and-consistent-growth-of-co2-chillers-and/"
+            }
+          ]
+        },
+        {
+          "text": "[11/24 16:01] 오텍캐리어, 서울 데이터센터 3곳에 독립 냉매회로를 갖춘 공랭식 인버터 냉동기 47대·총 9 MW 공급 계약(2026년 11월 발표, 운전 정량 성과 없음) — 모듈마다 냉매회로가 독립돼 있어, 공장 보조 냉각설비를 증설할 때 한 모듈을 정비로 내려도 나머지가 필수 부하를 감당하는지 따져볼 수 있습니다.",
+          "links": [
+            {
+              "label": "머니투데이",
+              "url": "https://www.mt.co.kr/living/2026/11/24/2026112415554214814"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/25 00:23] 클리벳, 냉수 출구 최저 −8°C를 제시한 물-물 방식 R32 칠러 공개(발표 주장, 현장 실측 정량 성과 없음) — 출구온도 하한이 −8°C여서 저온 포집기 냉동 회로의 대체 후보로 보기 어렵고, 공장 보조 냉수 계통이라면 요구 공급온도와 대조할 수 있습니다. [Cooling Post](https://www.coolingpost.com/products/clivet-introduces-wtw-r32-chillers/)  \n[11/25 00:21] 에어시스, 정전 모의시험에서 비상발전기 투입 후 칠러가 전부하에 도달하기까지 160초 기록(2026년 11월 발표 주장) — 전원이 복구돼도 냉동능력은 즉시 돌아오지 않으므로, CONRAD 500 XL의 정전 복구시험에서는 재기동 신호와 별도로 포집기 온도가 허용 범위에 돌아오는 시간을 재야 합니다. [에어시스 공식 발표](https://airsysnorthamerica.com/vectorcool-chiller-ai-load-stress-testing/)  \n[11/24 23:00] 나포제약, 크로펠레머 동결건조 공정 검증용 배치 생산을 마치고 안정성 시험 착수(발표 주장, 정량 성과 없음) — 제조 재현성과 보관 안정성을 별도로 확인한 사례라, 커피 동결건조 조건을 바꿀 때도 출고 시 잔류수분의 배치 편차와 보관 후 품질 변화를 분리해 평가할 수 있습니다. [나포제약 발표·Newswire](https://www.newswire.com/news/jaguar-health-family-company-napo-pharmaceuticals-successfully-completes)  \n[11/24 17:17] 테코, 이탈리아 와인 공장의 초임계 CO₂ 냉각·폐열회수 사례 공개(2025년 여름 시운전 설비: 브라인 공급 −1°C·환수 5°C에서 냉각 350 kW, 60~70°C 온수 회수 최대 200 kW; 기사 제시 사양) — 이 온도 조건은 동결건조 포집기와 다르지만, 냉동 부하와 온수 수요가 동시에 생기는 시간대를 대조하면 보조 냉각 계통의 폐열로 세척수를 예열할 수 있는지 판단할 수 있습니다. [NaturalRefrigerants.com](https://naturalrefrigerants.com/news/part-2-teko-shares-what-s-behind-the-significant-and-consistent-growth-of-co2-chillers-and/)  \n[11/24 16:01] 오텍캐리어, 서울 데이터센터 3곳에 독립 냉매회로를 갖춘 공랭식 인버터 냉동기 47대·총 9 MW 공급 계약(2026년 11월 발표, 운전 정량 성과 없음) — 모듈마다 냉매회로가 독립돼 있어, 공장 보조 냉각설비를 증설할 때 한 모듈을 정비로 내려도 나머지가 필수 부하를 감당하는지 따져볼 수 있습니다. [머니투데이](https://www.mt.co.kr/living/2026/11/24/2026112415554214814)"
+    },
     {
       "id": "manufacturing-ai-2026-11-24_00-07-50",
       "category": "manufacturing-ai",
