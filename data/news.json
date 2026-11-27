@@ -1,7 +1,175 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T00:09:17+00:00",
+  "updated_at": "2026-11-27T00:09:15+00:00",
   "briefings": [
+    {
+      "id": "manufacturing-ai-2026-11-27_00-09-16",
+      "category": "manufacturing-ai",
+      "category_label": "제조산업 AI",
+      "date": "2026-11-27",
+      "time": "09:09",
+      "published_at": "2026-11-27T00:09:15+00:00",
+      "items": [
+        {
+          "text": "[11/27 07:00] LG CNS, 제빵 탈형 작업에 로봇 AI 시험(발표 주장: 숙련자 시간당 약 600개, 로봇 목표 시간당 300개 미달) — 커피 포장라인에 로봇을 검토할 때도 동작 성공 여부와 별개로, 시간당 처리량이 뒤쪽 설비를 기다리게 하지 않을 수준인지 확인해야 합니다.",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/news/article.html?no=116662"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 17:54] 코그넥스, 클라우드에서 학습하고 카메라에서 판정하는 비전 검사 시연(발표 주장, 정량 성과 없음) — 시연에서 납땜 위치 검출과 불량 분류, 크기 측정을 나눠 처리했듯이, 커피 포장도 실링 폭은 규칙 기반으로 재고 형태가 일정하지 않은 주름은 AI로 분류해 각각 검증할 수 있습니다.",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/mobile/article.html?no=116678"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 17:53] 픽잇코리아, 크기가 다른 홍삼을 집어 옮기는 3차원 로봇 비전 시연(발표 주장, 정량 성과 없음) — 제품별 3차원 설계도 없이 물체의 위치와 자세를 찾는 방식이어서, 커피 출하 구역에서 규격이 섞인 상자를 팔레트에서 내릴 때 규격마다 집는 위치를 다시 가르치는 작업을 줄일 수 있습니다.",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/mobile/article.html?no=116666"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 17:52] 유비씨, 삼성SDI 공장의 자율이동로봇 105대 운영에 디지털 트윈 적용 사례 공개(11월 발표 주장, 개선율 공개 없음) — 창고 만재 예측과 크레인 작업 순서를 PLC에 연동한 사례여서, 커피 포장 후 이송을 모사할 때도 로봇 경로뿐 아니라 대기 구역이 찼을 때 투입을 멈추는 PLC 조건까지 검증할 수 있습니다.",
+          "links": [
+            {
+              "label": "헬로티",
+              "url": "https://www.hellot.net/mobile/article.html?no=116664"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 16:35] 인텔렉투스, 이차전지 공정 적용 경험을 바탕으로 설비·AI 연결 기술 고도화(발표 주장, 정량 성과 없음) — 장비마다 통신 방식이 달라 연동 작업이 반복되므로, CONRAD 500 XL의 PLC와 별도 진공·냉동 계측 데이터를 AI에 연결할 때 설비별 통신 변환을 공통 연결 계층에 모으면 변경 범위를 줄일 수 있습니다.",
+          "links": [
+            {
+              "label": "IT조선",
+              "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001940"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/27 07:00] **LG CNS, 제빵 탈형 작업에 로봇 AI 시험**(발표 주장: 숙련자 시간당 약 600개, 로봇 목표 시간당 300개 미달) — 커피 포장라인에 로봇을 검토할 때도 동작 성공 여부와 별개로, 시간당 처리량이 뒤쪽 설비를 기다리게 하지 않을 수준인지 확인해야 합니다. [헬로티](https://www.hellot.net/news/article.html?no=116662)\n[11/26 17:54] **코그넥스, 클라우드에서 학습하고 카메라에서 판정하는 비전 검사 시연**(발표 주장, 정량 성과 없음) — 시연에서 납땜 위치 검출과 불량 분류, 크기 측정을 나눠 처리했듯이, 커피 포장도 실링 폭은 규칙 기반으로 재고 형태가 일정하지 않은 주름은 AI로 분류해 각각 검증할 수 있습니다. [헬로티](https://www.hellot.net/mobile/article.html?no=116678)\n[11/26 17:53] **픽잇코리아, 크기가 다른 홍삼을 집어 옮기는 3차원 로봇 비전 시연**(발표 주장, 정량 성과 없음) — 제품별 3차원 설계도 없이 물체의 위치와 자세를 찾는 방식이어서, 커피 출하 구역에서 규격이 섞인 상자를 팔레트에서 내릴 때 규격마다 집는 위치를 다시 가르치는 작업을 줄일 수 있습니다. [헬로티](https://www.hellot.net/mobile/article.html?no=116666)\n[11/26 17:52] **유비씨, 삼성SDI 공장의 자율이동로봇 105대 운영에 디지털 트윈 적용 사례 공개**(11월 발표 주장, 개선율 공개 없음) — 창고 만재 예측과 크레인 작업 순서를 PLC에 연동한 사례여서, 커피 포장 후 이송을 모사할 때도 로봇 경로뿐 아니라 대기 구역이 찼을 때 투입을 멈추는 PLC 조건까지 검증할 수 있습니다. [헬로티](https://www.hellot.net/mobile/article.html?no=116664)\n[11/26 16:35] **인텔렉투스, 이차전지 공정 적용 경험을 바탕으로 설비·AI 연결 기술 고도화**(발표 주장, 정량 성과 없음) — 장비마다 통신 방식이 달라 연동 작업이 반복되므로, CONRAD 500 XL의 PLC와 별도 진공·냉동 계측 데이터를 AI에 연결할 때 설비별 통신 변환을 공통 연결 계층에 모으면 변경 범위를 줄일 수 있습니다. [IT조선](https://it.chosun.com/news/articleView.html?idxno=3000000001940)"
+    },
+    {
+      "id": "maintenance-automation-2026-11-27_00-09-16",
+      "category": "maintenance-automation",
+      "category_label": "설비보전·자동화",
+      "date": "2026-11-27",
+      "time": "09:09",
+      "published_at": "2026-11-27T00:09:15+00:00",
+      "items": [
+        {
+          "text": "[11/26 20:46] 댄포스, 냉동 제어기 AK-SM 8xxA의 추가 보안 업데이트 준비(발표 주장, 정량 성과 없음) — 5.4.0 이하에는 수정이 아직 적용되지 않았으므로, 해당 모델을 쓰는 현장이라면 펌웨어 버전과 인터넷 직접 노출 여부를 먼저 확인하고 수정판까지 원격 접속을 보호된 망으로 제한하는 게 제조사 권고입니다.",
+          "links": [
+            {
+              "label": "쿨링포스트",
+              "url": "https://www.coolingpost.com/world-news/danfoss-working-on-further-software-update/"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 14:13] 한전KPS·광양그린에너지, 스마트글라스와 원격 정비지원 실증 추진(발표 주장, 정량 성과 없음) — 작업 위치에서 설비 정보와 정비 지침을 조회하고 원격 전문가의 지원을 받는 방식이라, 냉동 압축기 정비에서도 계기값을 확인하다가 도면이나 정비 이력을 찾으러 자리를 비우는 단계를 줄일 수 있습니다.",
+          "links": [
+            {
+              "label": "에너지코리아",
+              "url": "https://www.energykorea.co.kr/news/articleView.html?idxno=67155"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 11:00] 요코가와 공정제어 PLC, 실시간 시계 백업에 맥셀 충전식 전고체전지 채택(발표 주장: 장비 동작 범위 −20~70℃, 정량 성과 없음) — 이 전지는 전원 차단 중 PLC 시각을 유지하는 용도이므로, 진공·냉동 경보의 발생 순서가 중요한 우리 현장에서는 PLC 교체 검수에 전원 복구 후 시각과 경보 이력의 일치 여부를 넣을 수 있습니다.",
+          "links": [
+            {
+              "label": "맥셀 공식 발표",
+              "url": "https://prtimes.jp/main/html/rd/p/000000272.000075608.html"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 10:33] 클로봇, 4족 보행 로봇으로 약 7분간 9개 점검 임무 시연(11월 25일 시연 기준, 실제 현장 개선율 공개 없음) — 카메라가 아날로그 압력계 눈금을 읽어 기록하므로 PLC에 연결되지 않은 냉동기 계기의 순회점검 이력을 남길 수 있지만, 시연한 음향 누기 탐지는 압축공기 배관용이어서 진공 누설 검사와는 구분해야 합니다.",
+          "links": [
+            {
+              "label": "로봇신문",
+              "url": "https://www.irobotnews.com/news/articleView.html?idxno=49802"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 09:20] 롯데칠성, 무균충전 라인에 세척 이상 감지·온도 자동기록 적용(정량 성과 없음) — 배관·설비 세척(CIP) 이상과 제조용수 수질을 자동 기록하고 로트 이력을 조회하는 구조여서, 우리 커피 라인에서도 세척 이상 시각과 생산 로트를 연결하면 확인이 필요한 제품 범위를 좁힐 수 있습니다.",
+          "links": [
+            {
+              "label": "식품저널",
+              "url": "https://www.foodnews.co.kr/news/articleView.html?idxno=121147"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/26 20:46] **댄포스, 냉동 제어기 AK-SM 8xxA의 추가 보안 업데이트 준비**(발표 주장, 정량 성과 없음) — 5.4.0 이하에는 수정이 아직 적용되지 않았으므로, 해당 모델을 쓰는 현장이라면 펌웨어 버전과 인터넷 직접 노출 여부를 먼저 확인하고 수정판까지 원격 접속을 보호된 망으로 제한하는 게 제조사 권고입니다. [쿨링포스트](https://www.coolingpost.com/world-news/danfoss-working-on-further-software-update/)\n[11/26 14:13] **한전KPS·광양그린에너지, 스마트글라스와 원격 정비지원 실증 추진**(발표 주장, 정량 성과 없음) — 작업 위치에서 설비 정보와 정비 지침을 조회하고 원격 전문가의 지원을 받는 방식이라, 냉동 압축기 정비에서도 계기값을 확인하다가 도면이나 정비 이력을 찾으러 자리를 비우는 단계를 줄일 수 있습니다. [에너지코리아](https://www.energykorea.co.kr/news/articleView.html?idxno=67155)\n[11/26 11:00] **요코가와 공정제어 PLC, 실시간 시계 백업에 맥셀 충전식 전고체전지 채택**(발표 주장: 장비 동작 범위 −20~70℃, 정량 성과 없음) — 이 전지는 전원 차단 중 PLC 시각을 유지하는 용도이므로, 진공·냉동 경보의 발생 순서가 중요한 우리 현장에서는 PLC 교체 검수에 전원 복구 후 시각과 경보 이력의 일치 여부를 넣을 수 있습니다. [맥셀 공식 발표](https://prtimes.jp/main/html/rd/p/000000272.000075608.html)\n[11/26 10:33] **클로봇, 4족 보행 로봇으로 약 7분간 9개 점검 임무 시연**(11월 25일 시연 기준, 실제 현장 개선율 공개 없음) — 카메라가 아날로그 압력계 눈금을 읽어 기록하므로 PLC에 연결되지 않은 냉동기 계기의 순회점검 이력을 남길 수 있지만, 시연한 음향 누기 탐지는 압축공기 배관용이어서 진공 누설 검사와는 구분해야 합니다. [로봇신문](https://www.irobotnews.com/news/articleView.html?idxno=49802)\n[11/26 09:20] **롯데칠성, 무균충전 라인에 세척 이상 감지·온도 자동기록 적용**(정량 성과 없음) — 배관·설비 세척(CIP) 이상과 제조용수 수질을 자동 기록하고 로트 이력을 조회하는 구조여서, 우리 커피 라인에서도 세척 이상 시각과 생산 로트를 연결하면 확인이 필요한 제품 범위를 좁힐 수 있습니다. [식품저널](https://www.foodnews.co.kr/news/articleView.html?idxno=121147)"
+    },
+    {
+      "id": "freeze-drying-equipment-2026-11-27_00-09-16",
+      "category": "freeze-drying-equipment",
+      "category_label": "동결건조·핵심 설비",
+      "date": "2026-11-27",
+      "time": "09:09",
+      "published_at": "2026-11-27T00:09:15+00:00",
+      "items": [
+        {
+          "text": "[11/27 08:15] 테쿰세, 중국 항저우에 R290·A2L 대응 압축기 생산거점 개설 계획(발표 주장: 2027년 2월 개소 예정, 정량 성과 없음) — 공개된 AL·AXION 계열은 식품 소매·외식 냉동용이므로, CONRAD 500 XL의 콜드트랩 냉동기에 적용할 수 있는지는 요구 증발온도에서의 냉동능력을 별도로 검증해야 합니다.",
+          "links": [
+            {
+              "label": "리프인더스트리",
+              "url": "https://refindustry.com/news/tecumseh-to-open-new-compressor-manufacturing-facility-in-china/"
+            }
+          ]
+        },
+        {
+          "text": "[11/27 00:51] 슈나이더 일렉트릭, 이탈리아 대형 냉동기 생산능력 50% 확대 계획(발표 주장: 2026년 말까지, 2027년 12월 완공 목표 시험실은 최대 4 MW 냉동기 검증 예정) — 시험실의 4 MW는 검증 가능한 장비 용량이므로, 동결건조용 냉동기를 비교할 때는 그 수치와 별개로 우리 목표 증발온도와 부분부하에서의 시험 성적이 필요합니다.",
+          "links": [
+            {
+              "label": "슈나이더 일렉트릭",
+              "url": "https://www.globenewswire.com/news-release/2026/11/26/3410926/0/en/schneider-electric-industrializes-european-liquid-cooling-manufacturing-capacity-to-underpin-ai-data-center-demand.html"
+            }
+          ]
+        },
+        {
+          "text": "[11/27 00:23] 빈티지 커피, 인도 텔랑가나 동결건조 커피 공장 1단계 착공(주정부 발표 주장: 1단계 연 5,500톤 규모) — 로토 기술 적용과 생산능력 계획은 공개됐지만 건조 시간·운전 진공도·냉동 전력은 공개되지 않아, 우리 CONRAD 500 XL의 톤당 전력이나 처리량과는 아직 비교할 수 없습니다.",
+          "links": [
+            {
+              "label": "더 힌두",
+              "url": "https://www.thehindu.com/news/cities/Hyderabad/new-investments-expansion-of-units-key-to-tg-industrial-growth-plans-minister/article71746757.ece"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 21:19] 거대 마젤란 망원경용 CO₂ 냉동 시제품과 증발기 개발 사례 공개(정량 성과 없음) — 주경 7개 구간의 온도 편차가 공기 난류와 영상 왜곡을 일으키는 광학용 설계여서 커피 건조에 직접 적용할 근거는 없지만, 냉각 균일도를 확인할 때 평균값과 위치별 편차를 따로 봐야 하는 이유를 보여줍니다.",
+          "links": [
+            {
+              "label": "내추럴 리프리저런츠",
+              "url": "https://naturalrefrigerants.com/news/swedish-refrigeration-consultancy-supports-co2-cooling-system-for-giant-magellan-telescope/"
+            }
+          ]
+        },
+        {
+          "text": "[11/26 16:38] 케냐타대, 산업용 온수에 초임계 CO₂ 히트펌프 적용 조건 분석(연구 제안, 정량 성과 없음) — 논문은 같은 90℃ 온수를 만들 때 70℃ 환수를 재가열하는 것보다 20℃ 보충수를 가열하는 쪽이 가스쿨러의 열교환 조건에 유리하다고 설명해, 우리 냉동기 폐열 회수도 고온 환수 재가열보다 세척용 보충수 예열부터 검토할 근거가 됩니다.",
+          "links": [
+            {
+              "label": "바이오엔지니어",
+              "url": "https://bioengineer.org/transcritical-carbon-dioxide-heat-pumps-offer-targeted-decarbonization-for-kenyan-industry/"
+            }
+          ]
+        }
+      ],
+      "raw_text": "[11/27 08:15] **테쿰세, 중국 항저우에 R290·A2L 대응 압축기 생산거점 개설 계획**(발표 주장: 2027년 2월 개소 예정, 정량 성과 없음) — 공개된 AL·AXION 계열은 식품 소매·외식 냉동용이므로, CONRAD 500 XL의 콜드트랩 냉동기에 적용할 수 있는지는 요구 증발온도에서의 냉동능력을 별도로 검증해야 합니다. [리프인더스트리](https://refindustry.com/news/tecumseh-to-open-new-compressor-manufacturing-facility-in-china/)\n[11/27 00:51] **슈나이더 일렉트릭, 이탈리아 대형 냉동기 생산능력 50% 확대 계획**(발표 주장: 2026년 말까지, 2027년 12월 완공 목표 시험실은 최대 4 MW 냉동기 검증 예정) — 시험실의 4 MW는 검증 가능한 장비 용량이므로, 동결건조용 냉동기를 비교할 때는 그 수치와 별개로 우리 목표 증발온도와 부분부하에서의 시험 성적이 필요합니다. [슈나이더 일렉트릭](https://www.globenewswire.com/news-release/2026/11/26/3410926/0/en/schneider-electric-industrializes-european-liquid-cooling-manufacturing-capacity-to-underpin-ai-data-center-demand.html)\n[11/27 00:23] **빈티지 커피, 인도 텔랑가나 동결건조 커피 공장 1단계 착공**(주정부 발표 주장: 1단계 연 5,500톤 규모) — 로토 기술 적용과 생산능력 계획은 공개됐지만 건조 시간·운전 진공도·냉동 전력은 공개되지 않아, 우리 CONRAD 500 XL의 톤당 전력이나 처리량과는 아직 비교할 수 없습니다. [더 힌두](https://www.thehindu.com/news/cities/Hyderabad/new-investments-expansion-of-units-key-to-tg-industrial-growth-plans-minister/article71746757.ece)\n[11/26 21:19] **거대 마젤란 망원경용 CO₂ 냉동 시제품과 증발기 개발 사례 공개**(정량 성과 없음) — 주경 7개 구간의 온도 편차가 공기 난류와 영상 왜곡을 일으키는 광학용 설계여서 커피 건조에 직접 적용할 근거는 없지만, 냉각 균일도를 확인할 때 평균값과 위치별 편차를 따로 봐야 하는 이유를 보여줍니다. [내추럴 리프리저런츠](https://naturalrefrigerants.com/news/swedish-refrigeration-consultancy-supports-co2-cooling-system-for-giant-magellan-telescope/)\n[11/26 16:38] **케냐타대, 산업용 온수에 초임계 CO₂ 히트펌프 적용 조건 분석**(연구 제안, 정량 성과 없음) — 논문은 같은 90℃ 온수를 만들 때 70℃ 환수를 재가열하는 것보다 20℃ 보충수를 가열하는 쪽이 가스쿨러의 열교환 조건에 유리하다고 설명해, 우리 냉동기 폐열 회수도 고온 환수 재가열보다 세척용 보충수 예열부터 검토할 근거가 됩니다. [바이오엔지니어](https://bioengineer.org/transcritical-carbon-dioxide-heat-pumps-offer-targeted-decarbonization-for-kenyan-industry/)"
+    },
     {
       "id": "manufacturing-ai-2026-11-26_00-09-18",
       "category": "manufacturing-ai",
